@@ -1,0 +1,688 @@
+[
+	{
+		"name": "Dagger Peak",
+		"chest_unopened_img": "/images/Items/close.png",
+		"chest_opened_img": "/images/Items/open.png",
+		"children": [
+			{
+				"name": "Growth",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Growth"
+					}
+				]
+			},
+			{
+				"name": "Runestone",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Runestone"
+					}
+				]
+			},
+			{
+				"name": "Key 1",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Key 1"
+					}
+				]
+			},
+			{
+				"name": "Speed Boots (Dif. 2)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Speed Boots (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Key 2",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Key 2"
+					}
+				]
+			},
+			{
+				"name": "Key 3",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Key 3"
+					}
+				]
+			},
+			{
+				"name": "Key 4 (Dif. 4)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Key 4 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Key 5 (Dif. 4)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Key 5 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Key 6 (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Key 6 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Large Pile of Gold 1 (Dif. 2)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Large Pile of Gold 1 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Large Pile of Gold 2 (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Large Pile of Gold 2 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Full Barrel of Gold 1 (Dif. 4)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Full Barrel of Gold 1 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Small Pile of Gold 1 (Dif. 2)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Small Pile of Gold 1 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Small Pile of Gold 2 (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Small Pile of Gold 2 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Small Pile of Gold 3",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Small Pile of Gold 3"
+					}
+				]
+			},
+			{
+				"name": "Fire Potion 1",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Fire Potion 1"
+					}
+				]
+			},
+			{
+				"name": "Fruit",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Fruit"
+					}
+				]
+			},
+			{
+				"name": "Key 7 (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Key 7 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Key 8 (Dif. 4)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Key 8 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Half Barrel of Gold 1 (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Half Barrel of Gold 1 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Key 9 (Dif. 2)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Key 9 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Fire Potion 2 (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Fire Potion 2 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Poison Fruit (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Poison Fruit (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Key 10",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Key 10"
+					}
+				]
+			},
+			{
+				"name": "Key 11 (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Key 11 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Key 12",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Key 12"
+					}
+				]
+			},
+			{
+				"name": "Key 13",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Key 13"
+					}
+				]
+			},
+			{
+				"name": "Key 14 (Dif. 2)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Key 14 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Fire Potion 3 (Dif. 2)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Fire Potion 3 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Meat 1 (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Meat 1 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Key 15",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Key 15"
+					}
+				]
+			},
+			{
+				"name": "Key 16 (Dif. 2)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Key 16 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Key 17",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Key 17"
+					}
+				]
+			},
+			{
+				"name": "Meat 2",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Meat 2"
+					}
+				]
+			},
+			{
+				"name": "Key 18 (Dif. 4)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Key 18 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Obelisk",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "obelisk_shuffle_on" ],
+				"sections": [
+					{
+						"name": "Obelisk"
+					}
+				]
+			},
+			{
+				"name": "Barrel Rapid Fire 1",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle" ],
+				"sections": [
+					{
+						"name": "Barrel Rapid Fire 1"
+					}
+				]
+			},
+			{
+				"name": "Barrel Key 1",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle" ],
+				"sections": [
+					{
+						"name": "Barrel Key 1"
+					}
+				]
+			},
+			{
+				"name": "Barrel Levitate 1",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle" ],
+				"sections": [
+					{
+						"name": "Barrel Levitate 1"
+					}
+				]
+			},
+			{
+				"name": "Barrel Fire Amulet 1 (Dif. 2)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Barrel Fire Amulet 1 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Barrel Death 1",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle" ],
+				"sections": [
+					{
+						"name": "Barrel Death 1"
+					}
+				]
+			},
+			{
+				"name": "Barrel Fire Shield 1 (Dif. 2)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Barrel Fire Shield 1 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Barrel Scroll 1",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle" ],
+				"sections": [
+					{
+						"name": "Barrel Scroll 1"
+					}
+				]
+			},
+			{
+				"name": "Chest Invulnerability 1 (Dif. 4)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Invulnerability 1 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Chest Gold 1",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle" ],
+				"sections": [
+					{
+						"name": "Chest Gold 1"
+					}
+				]
+			},
+			{
+				"name": "Chest Potion 1 (Dif. 4)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Potion 1 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Chest Gold 2",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle" ],
+				"sections": [
+					{
+						"name": "Chest Gold 2"
+					}
+				]
+			},
+			{
+				"name": "Barrel Fruit 1 (Dif. 4)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Barrel Fruit 1 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Barrel Fruit 2",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle" ],
+				"sections": [
+					{
+						"name": "Barrel Fruit 2"
+					}
+				]
+			},
+			{
+				"name": "Barrel Fruit 3 (Dif. 2)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Barrel Fruit 3 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Barrel Poison Fruit 1",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle" ],
+				"sections": [
+					{
+						"name": "Barrel Poison Fruit 1"
+					}
+				]
+			},
+			{
+				"name": "Chest Scroll 1",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle" ],
+				"sections": [
+					{
+						"name": "Chest Scroll 1"
+					}
+				]
+			},
+			{
+				"name": "Chest Meat 1 (Dif. 2)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Meat 1 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Chest Gold 3 (Dif. 2)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Gold 3 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Chest 3-Way Shot 1",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle" ],
+				"sections": [
+					{
+						"name": "Chest 3-Way Shot 1"
+					}
+				]
+			},
+			{
+				"name": "Chest Gold 4",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle" ],
+				"sections": [
+					{
+						"name": "Chest Gold 4"
+					}
+				]
+			},
+			{
+				"name": "Chest Gold 5 (Dif. 3)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Gold 5 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Chest Random 1 (Dif. 2)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Random 1 (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Chest Gold 6 (Dif. 4)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Gold 6 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Chest Potion 2",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle" ],
+				"sections": [
+					{
+						"name": "Chest Potion 2"
+					}
+				]
+			},
+			{
+				"name": "Chest Death 1 (Dif. 3)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Death 1 (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "Chest Meat 2 (Dif. 4)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Meat 2 (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Chest Timestop 1 (Dif. 3)",
+				"chest_unopened_img": "/images/items/chest.png",
+				"chest_opened_img": "/images/items/chest_open.png",
+				"visibility_rules": [ "$chestShuffle,$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Chest Timestop 1 (Dif. 3)"
+					}
+				]
+			}
+		]
+	}
+]

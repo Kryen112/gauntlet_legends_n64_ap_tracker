@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Dragon's Lair",
+		"chest_unopened_img": "/images/Items/close.png",
+		"chest_opened_img": "/images/Items/open.png",
+		"children": [
+			{
+				"name": "Slab of Meat (Dif. 2)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Slab of Meat (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Rapid Fire (Dif. 2)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Rapid Fire (Dif. 2)"
+					}
+				]
+			},
+			{
+				"name": "Growth (Dif. 4)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Growth (Dif. 4)"
+					}
+				]
+			},
+			{
+				"name": "Speed Boots (Dif. 3)",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"visibility_rules": [ "$difficulty3Enabled" ],
+				"sections": [
+					{
+						"name": "Speed Boots (Dif. 3)"
+					}
+				]
+			},
+			{
+				"name": "3-Way Shot",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "3-Way Shot"
+					}
+				]
+			},
+			{
+				"name": "Drumstick",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Drumstick"
+					}
+				]
+			},
+			{
+				"name": "Dragon Mirror Shard",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Dragon Mirror Shard"
+					}
+				]
+			}
+		]
+	}
+]

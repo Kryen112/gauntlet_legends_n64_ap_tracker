@@ -1,0 +1,15 @@
+{
+	"name": "Gauntlet Legends N64",
+	"game_name": "Gauntlet Legends N64",
+	"platform": "n64",
+	"package_uid": "ap_gauntlet_legends_n64",
+	"package_version": "0.1.0",
+	"variants": {
+		"standard": {
+			"display_name": "Map Tracker",
+			"flags": [ "ap" ]
+		}
+	},
+	"author": "Kryen/Kryen112",
+	"versions_url": "https://raw.githubusercontent.com/Kryen112/gauntlet_legends_n64_ap_tracker/versions/versions.json"
+}
