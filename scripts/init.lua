@@ -1,6 +1,3 @@
-local variant = Tracker.ActiveVariantUID
-IS_UNLABELLED = variant:find("maps-u")
-
 -- Items
 Tracker:AddItems("items/items.json")
 

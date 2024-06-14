@@ -81,14 +81,6 @@ function onClear(slot_data)
 
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
-
-    -- Update player level
-    if PLAYER_ID > -1 then
-        updateEvents(0)
-        LEVEL_ID = "gl_pl".."_"..TEAM_NUMBER.."_".. PLAYER_ID
-        Archipelago:SetNotify({LEVEL_ID})
-        Archipelago:Get({LEVEL_ID})
-    end
 end
 
 function onItem(index, item_id, item_name, player_number)
