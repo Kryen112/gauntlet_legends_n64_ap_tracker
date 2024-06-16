@@ -1,8 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "0.1.3",
+			"download_url": "https://github.com/Kryen112/gauntlet_legends_n64_ap_tracker/archive/refs/tags/0.1.3.zip",
+			"sha256": "5DF019C2C3195C2CA20D4CEE5A481D3076AF00FC61C56CDCEF7A02174E93A630",
+			"changelog": ["Correct logic for unlocking castle"]
+		},
+		{
 			"package_version": "0.1.2",
-			"download_url": "https://github.com/Kryen112/gauntlet_legends_n64_ap_tracker/archive/refs/tags/0.1.0.zip",
+			"download_url": "https://github.com/Kryen112/gauntlet_legends_n64_ap_tracker/archive/refs/tags/0.1.2.zip",
 			"sha256": "4F731B36E2141B2BC819E125929F098528F1EE2680B0ABD812833F9A27C1BC5D",
 			"changelog": ["Correct versions.json path"]
 		},
