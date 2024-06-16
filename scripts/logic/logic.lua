@@ -4,7 +4,7 @@ end
 
 function mountainObelisksCollected()
     return (
-        has("valley_of_fire_obelisk") and 
+        has("Valley of Fire Obelisk") and 
         has("Dagger Peak Obelisk")   and 
         has("Cliffs of Desolation Obelisk")
     )
