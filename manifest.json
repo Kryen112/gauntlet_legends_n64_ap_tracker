@@ -3,7 +3,7 @@
 	"game_name": "Gauntlet Legends N64",
 	"platform": "n64",
 	"package_uid": "ap_gauntlet_legends_n64",
-	"package_version": "2.0.0",
+	"package_version": "1.0.0",
 	"variants": {
 		"standard": {
 			"display_name": "Map Tracker",
