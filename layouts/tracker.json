@@ -8,51 +8,15 @@
 			"content": [
 				{
 					"type": "dock",
-					"dock": "bottom",
+					"dock": "left",
 					"content": [
 						{
 							"type": "group",
-							"header": "Obelisks",
+							"header": "Items and settings",
 							"dock": "left",
 							"content": {
 								"type": "layout",
-								"key": "obelisks"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Weapons",
-							"dock": "left",
-							"content": {
-								"type": "layout",
-								"key": "weapons"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Mirror Shards",
-							"dock": "left",
-							"content": {
-								"type": "layout",
-								"key": "mirror_shards"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Runestones",
-							"dock": "left",
-							"content": {
-								"type": "layout",
-								"key": "runestones"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Settings",
-							"dock": "left",
-							"content": {
-								"type": "layout",
-								"key": "settings"
+								"key": "items+settings"
 							}
 						}
 					]
