@@ -1,43 +1,43 @@
 [
 	{
-		"name": "Valley of Fire Obelisk",
+		"name": "Mountain Obelisk 1",
 		"type": "toggle",
 		"img": "/images/items/obelisk_collected.png",
 		"disabled_img": "",
 		"codes": "Valley of Fire Obelisk"
 	},
 	{
-		"name": "Dagger Peak Obelisk",
+		"name": "Mountain Obelisk 2",
 		"type": "toggle",
 		"img": "/images/items/obelisk_collected.png",
 		"codes": "Dagger Peak Obelisk"
 	},
 	{
-		"name": "Cliffs of Desolation Obelisk",
+		"name": "Mountain Obelisk 3",
 		"type": "toggle",
 		"img": "/images/items/obelisk_collected.png",
 		"codes": "Cliffs of Desolation Obelisk"
 	},
 	{
-		"name": "Castle Courtyard Obelisk",
+		"name": "Castle Obelisk 1",
 		"type": "toggle",
 		"img": "/images/items/obelisk_collected.png",
 		"codes": "Castle Courtyard Obelisk"
 	},
 	{
-		"name": "Dungeon of Torment Obelisk",
+		"name": "Castle Obelisk 2",
 		"type": "toggle",
 		"img": "/images/items/obelisk_collected.png",
 		"codes": "Dungeon of Torment Obelisk"
 	},
 	{
-		"name": "Poisoned Fields Obelisk",
+		"name": "Town Obelisk 1",
 		"type": "toggle",
 		"img": "/images/items/obelisk_collected.png",
 		"codes": "Poisoned Fields Obelisk"
 	},
 	{
-		"name": "Haunted Cemetery Obelisk",
+		"name": "Town Obelisk 2",
 		"type": "toggle",
 		"img": "/images/items/obelisk_collected.png",
 		"codes": "Haunted Cemetery Obelisk"
