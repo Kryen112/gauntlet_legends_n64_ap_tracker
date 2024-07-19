@@ -13,6 +13,13 @@
 					{
 						"name": "Speed Boots"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Chimera's Keep",
+						"x": 227,
+						"y": 110
+					}
 				]
 			},
 			{
@@ -23,6 +30,13 @@
 				"sections": [
 					{
 						"name": "Growth (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Chimera's Keep",
+						"x": 343,
+						"y": 136
 					}
 				]
 			},
@@ -35,6 +49,13 @@
 					{
 						"name": "3-Way Shot (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Chimera's Keep",
+						"x": 228,
+						"y": 153
+					}
 				]
 			},
 			{
@@ -45,6 +66,13 @@
 				"sections": [
 					{
 						"name": " (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Chimera's Keep",
+						"x": 107,
+						"y": 140
 					}
 				]
 			},
@@ -57,6 +85,13 @@
 					{
 						"name": "Ham (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Chimera's Keep",
+						"x": 305,
+						"y": 85
+					}
 				]
 			},
 			{
@@ -67,6 +102,13 @@
 					{
 						"name": "Drumstick"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Chimera's Keep",
+						"x": 133,
+						"y": 80
+					}
 				]
 			},
 			{
@@ -76,6 +118,13 @@
 				"sections": [
 					{
 						"name": "Chimera Mirror Shard"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Chimera's Keep",
+						"x": 226,
+						"y": 46
 					}
 				]
 			}

@@ -12,6 +12,13 @@
 					{
 						"name": "Scroll"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 65,
+						"y": 371
+					}
 				]
 			},
 			{
@@ -22,6 +29,13 @@
 					{
 						"name": "Key 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 258,
+						"y": 245
+					}
 				]
 			},
 			{
@@ -31,6 +45,13 @@
 				"sections": [
 					{
 						"name": "Key 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 197,
+						"y": 415
 					}
 				]
 			},
@@ -43,6 +64,13 @@
 					{
 						"name": "Key 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 155,
+						"y": 225
+					}
 				]
 			},
 			{
@@ -52,6 +80,13 @@
 				"sections": [
 					{
 						"name": "Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 88,
+						"y": 458
 					}
 				]
 			},
@@ -63,6 +98,13 @@
 					{
 						"name": "Fire Amulet"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 253,
+						"y": 589
+					}
 				]
 			},
 			{
@@ -72,6 +114,13 @@
 				"sections": [
 					{
 						"name": "Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 177,
+						"y": 310
 					}
 				]
 			},
@@ -84,6 +133,13 @@
 					{
 						"name": "Key 6 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 363,
+						"y": 62
+					}
 				]
 			},
 			{
@@ -93,6 +149,13 @@
 				"sections": [
 					{
 						"name": "Key 7"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 295,
+						"y": 219
 					}
 				]
 			},
@@ -105,6 +168,13 @@
 					{
 						"name": "Fruit 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 143,
+						"y": 404
+					}
 				]
 			},
 			{
@@ -115,6 +185,13 @@
 				"sections": [
 					{
 						"name": "Key 8 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 30,
+						"y": 520
 					}
 				]
 			},
@@ -127,6 +204,13 @@
 					{
 						"name": "Key 9 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 139,
+						"y": 562
+					}
 				]
 			},
 			{
@@ -137,6 +221,13 @@
 				"sections": [
 					{
 						"name": "Fire Potion 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 104,
+						"y": 262
 					}
 				]
 			},
@@ -149,6 +240,13 @@
 					{
 						"name": "Thunder Hammer (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 152,
+						"y": 274
+					}
 				]
 			},
 			{
@@ -159,6 +257,13 @@
 				"sections": [
 					{
 						"name": "Fire Potion 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 74,
+						"y": 631
 					}
 				]
 			},
@@ -171,6 +276,13 @@
 					{
 						"name": "Large Gold Pile (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 133,
+						"y": 234
+					}
 				]
 			},
 			{
@@ -181,6 +293,13 @@
 				"sections": [
 					{
 						"name": "Small Gold Pile 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 331,
+						"y": 31
 					}
 				]
 			},
@@ -193,6 +312,13 @@
 					{
 						"name": "Meat Slab (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 202,
+						"y": 204
+					}
 				]
 			},
 			{
@@ -203,6 +329,13 @@
 				"sections": [
 					{
 						"name": "Drumstick (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 336,
+						"y": 141
 					}
 				]
 			},
@@ -215,6 +348,13 @@
 					{
 						"name": "Fruit 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 48,
+						"y": 631
+					}
 				]
 			},
 			{
@@ -224,6 +364,13 @@
 				"sections": [
 					{
 						"name": "Key 10"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 32,
+						"y": 632
 					}
 				]
 			},
@@ -236,6 +383,13 @@
 					{
 						"name": "Small Gold Pile 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 318,
+						"y": 188
+					}
 				]
 			},
 			{
@@ -246,6 +400,13 @@
 				"sections": [
 					{
 						"name": "Obelisk"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 163,
+						"y": 505
 					}
 				]
 			},
@@ -258,6 +419,13 @@
 					{
 						"name": "Barrel Nothing 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 231,
+						"y": 389
+					}
 				]
 			},
 			{
@@ -268,6 +436,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 111,
+						"y": 212
 					}
 				]
 			},
@@ -280,6 +455,13 @@
 					{
 						"name": "Chest Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 83,
+						"y": 165
+					}
 				]
 			},
 			{
@@ -290,6 +472,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 269,
+						"y": 203
 					}
 				]
 			},
@@ -302,6 +491,13 @@
 					{
 						"name": "Chest Invisibility 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 363,
+						"y": 230
+					}
 				]
 			},
 			{
@@ -312,6 +508,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 86,
+						"y": 614
 					}
 				]
 			},
@@ -324,6 +527,13 @@
 					{
 						"name": "Chest Random Chest 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 269,
+						"y": 258
+					}
 				]
 			},
 			{
@@ -334,6 +544,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 169,
+						"y": 322
 					}
 				]
 			},
@@ -346,6 +563,13 @@
 					{
 						"name": "Chest Fruit 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 281,
+						"y": 189
+					}
 				]
 			},
 			{
@@ -356,6 +580,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 94,
+						"y": 571
 					}
 				]
 			},
@@ -368,6 +599,13 @@
 					{
 						"name": "Barrel Gold 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 176,
+						"y": 373
+					}
 				]
 			},
 			{
@@ -378,6 +616,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 229,
+						"y": 563
 					}
 				]
 			},
@@ -390,6 +635,13 @@
 					{
 						"name": "Chest 3-Way Shot 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 188,
+						"y": 174
+					}
 				]
 			},
 			{
@@ -400,6 +652,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 361,
+						"y": 201
 					}
 				]
 			},
@@ -412,6 +671,13 @@
 					{
 						"name": "Barrel Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 182,
+						"y": 227
+					}
 				]
 			},
 			{
@@ -422,6 +688,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 158,
+						"y": 291
 					}
 				]
 			},
@@ -434,6 +707,13 @@
 					{
 						"name": "Barrel Key 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 362,
+						"y": 183
+					}
 				]
 			},
 			{
@@ -444,6 +724,13 @@
 				"sections": [
 					{
 						"name": "Barrel Speed Boots 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 377,
+						"y": 202
 					}
 				]
 			},
@@ -456,6 +743,13 @@
 					{
 						"name": "Barrel Fire Breath 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 135,
+						"y": 398
+					}
 				]
 			},
 			{
@@ -467,6 +761,13 @@
 					{
 						"name": "Barrel Key 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 148,
+						"y": 143
+					}
 				]
 			},
 			{
@@ -477,6 +778,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Valley of Fire",
+						"x": 84,
+						"y": 569
 					}
 				]
 			}

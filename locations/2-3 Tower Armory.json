@@ -14,6 +14,13 @@
 					{
 						"name": "Key 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 505,
+						"y": 193
+					}
 				]
 			},
 			{
@@ -23,6 +30,13 @@
 				"sections": [
 					{
 						"name": "Key 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 288,
+						"y": 300
 					}
 				]
 			},
@@ -34,6 +48,13 @@
 					{
 						"name": "Key 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 240,
+						"y": 415
+					}
 				]
 			},
 			{
@@ -43,6 +64,13 @@
 				"sections": [
 					{
 						"name": "Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 115,
+						"y": 501
 					}
 				]
 			},
@@ -54,6 +82,13 @@
 					{
 						"name": "Key 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 482,
+						"y": 374
+					}
 				]
 			},
 			{
@@ -63,6 +98,13 @@
 				"sections": [
 					{
 						"name": "Key 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 111,
+						"y": 310
 					}
 				]
 			},
@@ -75,6 +117,13 @@
 					{
 						"name": "Key 7 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 469,
+						"y": 459
+					}
 				]
 			},
 			{
@@ -84,6 +133,13 @@
 				"sections": [
 					{
 						"name": "Slab of Meat 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 299,
+						"y": 641
 					}
 				]
 			},
@@ -96,6 +152,13 @@
 					{
 						"name": "Lightning Potion 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 233,
+						"y": 450
+					}
 				]
 			},
 			{
@@ -107,6 +170,13 @@
 					{
 						"name": "Key 8 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 503,
+						"y": 314
+					}
 				]
 			},
 			{
@@ -116,6 +186,13 @@
 				"sections": [
 					{
 						"name": "Key 9"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 447,
+						"y": 569
 					}
 				]
 			},
@@ -128,6 +205,13 @@
 					{
 						"name": "Key 10 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 361,
+						"y": 310
+					}
 				]
 			},
 			{
@@ -137,6 +221,13 @@
 				"sections": [
 					{
 						"name": "Key 11"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 158,
+						"y": 106
 					}
 				]
 			},
@@ -149,6 +240,13 @@
 					{
 						"name": "Key 12 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 430,
+						"y": 44
+					}
 				]
 			},
 			{
@@ -158,6 +256,13 @@
 				"sections": [
 					{
 						"name": "Key 13"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 113,
+						"y": 45
 					}
 				]
 			},
@@ -170,6 +275,13 @@
 					{
 						"name": "Key 14 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 155,
+						"y": 449
+					}
 				]
 			},
 			{
@@ -180,6 +292,13 @@
 				"sections": [
 					{
 						"name": "Key 15 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 458,
+						"y": 362
 					}
 				]
 			},
@@ -192,6 +311,13 @@
 					{
 						"name": "Key 16 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 272,
+						"y": 153
+					}
 				]
 			},
 			{
@@ -201,6 +327,13 @@
 				"sections": [
 					{
 						"name": "Key 17"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 183,
+						"y": 147
 					}
 				]
 			},
@@ -213,6 +346,13 @@
 					{
 						"name": "Key 18 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 361,
+						"y": 568
+					}
 				]
 			},
 			{
@@ -224,6 +364,13 @@
 					{
 						"name": "Key 19 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 299,
+						"y": 403
+					}
 				]
 			},
 			{
@@ -233,6 +380,13 @@
 				"sections": [
 					{
 						"name": "Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 109,
+						"y": 472
 					}
 				]
 			},
@@ -245,6 +399,13 @@
 					{
 						"name": "Potion Pile (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 345,
+						"y": 450
+					}
 				]
 			},
 			{
@@ -254,6 +415,13 @@
 				"sections": [
 					{
 						"name": "Lightning Potion 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 129,
+						"y": 549
 					}
 				]
 			},
@@ -266,6 +434,13 @@
 					{
 						"name": "Poison Fruit 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 220,
+						"y": 30
+					}
 				]
 			},
 			{
@@ -276,6 +451,13 @@
 				"sections": [
 					{
 						"name": "Key 20 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 297,
+						"y": 504
 					}
 				]
 			},
@@ -288,6 +470,13 @@
 					{
 						"name": "Slab of Meat 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 482,
+						"y": 399
+					}
 				]
 			},
 			{
@@ -298,6 +487,13 @@
 				"sections": [
 					{
 						"name": "Lightning Potion 3 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 137,
+						"y": 196
 					}
 				]
 			},
@@ -310,6 +506,13 @@
 					{
 						"name": "Key 21 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 188,
+						"y": 393
+					}
 				]
 			},
 			{
@@ -321,6 +524,13 @@
 					{
 						"name": "Fruit 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 362,
+						"y": 211
+					}
 				]
 			},
 			{
@@ -330,6 +540,13 @@
 				"sections": [
 					{
 						"name": "Fruit 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 453,
+						"y": 42
 					}
 				]
 			},
@@ -342,6 +559,13 @@
 					{
 						"name": "Reflective Shot 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 121,
+						"y": 145
+					}
 				]
 			},
 			{
@@ -352,6 +576,13 @@
 				"sections": [
 					{
 						"name": "Death 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 216,
+						"y": 553
 					}
 				]
 			},
@@ -364,6 +595,13 @@
 					{
 						"name": "Very Small Pile of Gold 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 153,
+						"y": 149
+					}
 				]
 			},
 			{
@@ -373,6 +611,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 393,
+						"y": 227
 					}
 				]
 			},
@@ -385,6 +630,13 @@
 					{
 						"name": "Half Barrel of Gold 1 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 74,
+						"y": 448
+					}
 				]
 			},
 			{
@@ -395,6 +647,13 @@
 				"sections": [
 					{
 						"name": "Small Pile of Gold 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 300,
+						"y": 594
 					}
 				]
 			},
@@ -407,6 +666,13 @@
 					{
 						"name": "Large Pile of Gold 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 397,
+						"y": 452
+					}
 				]
 			},
 			{
@@ -416,6 +682,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 500,
+						"y": 555
 					}
 				]
 			},
@@ -428,6 +701,13 @@
 					{
 						"name": "Key 22 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 123,
+						"y": 477
+					}
 				]
 			},
 			{
@@ -437,6 +717,13 @@
 				"sections": [
 					{
 						"name": "Acid Breath 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 74,
+						"y": 286
 					}
 				]
 			},
@@ -448,6 +735,13 @@
 					{
 						"name": "Runestone"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 371,
+						"y": 30
+					}
 				]
 			},
 			{
@@ -457,6 +751,13 @@
 				"sections": [
 					{
 						"name": "Key 23"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 382,
+						"y": 17
 					}
 				]
 			},
@@ -469,6 +770,13 @@
 					{
 						"name": "Key 24 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 585,
+						"y": 432
+					}
 				]
 			},
 			{
@@ -478,6 +786,13 @@
 				"sections": [
 					{
 						"name": "Key 25"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 393,
+						"y": 310
 					}
 				]
 			},
@@ -490,6 +805,13 @@
 					{
 						"name": "Barrel Key 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 121,
+						"y": 628
+					}
 				]
 			},
 			{
@@ -500,6 +822,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 506,
+						"y": 265
 					}
 				]
 			},
@@ -512,6 +841,13 @@
 					{
 						"name": "Barrel Light Amulet 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 180,
+						"y": 353
+					}
 				]
 			},
 			{
@@ -522,6 +858,13 @@
 				"sections": [
 					{
 						"name": "Barrel Poison Fruit 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 149,
+						"y": 118
 					}
 				]
 			},
@@ -534,6 +877,13 @@
 					{
 						"name": "Chest Fire Breath 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 287,
+						"y": 608
+					}
 				]
 			},
 			{
@@ -544,6 +894,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 151,
+						"y": 235
 					}
 				]
 			},
@@ -556,6 +913,13 @@
 					{
 						"name": "Chest Invisibility 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 502,
+						"y": 420
+					}
 				]
 			},
 			{
@@ -566,6 +930,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 405,
+						"y": 194
 					}
 				]
 			},
@@ -578,6 +949,13 @@
 					{
 						"name": "Chest Lightning Amulet 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 457,
+						"y": 246
+					}
 				]
 			},
 			{
@@ -588,6 +966,13 @@
 				"sections": [
 					{
 						"name": "Chest Poison Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 151,
+						"y": 274
 					}
 				]
 			},
@@ -600,6 +985,13 @@
 					{
 						"name": "Chest Meat 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 416,
+						"y": 219
+					}
 				]
 			},
 			{
@@ -610,6 +1002,13 @@
 				"sections": [
 					{
 						"name": "Chest Death 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 254,
+						"y": 298
 					}
 				]
 			},
@@ -622,6 +1021,13 @@
 					{
 						"name": "Chest Super Shot 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 476,
+						"y": 72
+					}
 				]
 			},
 			{
@@ -632,6 +1038,13 @@
 				"sections": [
 					{
 						"name": "Chest Growth 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 469,
+						"y": 552
 					}
 				]
 			},
@@ -644,6 +1057,13 @@
 					{
 						"name": "Chest Potion 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 585,
+						"y": 356
+					}
 				]
 			},
 			{
@@ -654,6 +1074,13 @@
 				"sections": [
 					{
 						"name": "Chest Death 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 129,
+						"y": 26
 					}
 				]
 			},
@@ -666,6 +1093,13 @@
 					{
 						"name": "Chest Gold 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 160,
+						"y": 30
+					}
 				]
 			},
 			{
@@ -676,6 +1110,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 403,
+						"y": 49
 					}
 				]
 			},
@@ -688,6 +1129,13 @@
 					{
 						"name": "Chest Fruit 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 585,
+						"y": 380
+					}
 				]
 			},
 			{
@@ -698,6 +1146,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 415,
+						"y": 568
 					}
 				]
 			},
@@ -710,6 +1165,13 @@
 					{
 						"name": "Chest Fruit 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 482,
+						"y": 355
+					}
 				]
 			},
 			{
@@ -720,6 +1182,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 190,
+						"y": 625
 					}
 				]
 			},
@@ -732,6 +1201,13 @@
 					{
 						"name": "Chest Meat 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 200,
+						"y": 30
+					}
 				]
 			},
 			{
@@ -742,6 +1218,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 403,
+						"y": 85
 					}
 				]
 			},
@@ -754,6 +1237,13 @@
 					{
 						"name": "Barrel 3-Way Shot 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 397,
+						"y": 104
+					}
 				]
 			},
 			{
@@ -764,6 +1254,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 80,
+						"y": 89
 					}
 				]
 			},
@@ -776,6 +1273,13 @@
 					{
 						"name": "Chest Invulnerability 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 337,
+						"y": 361
+					}
 				]
 			},
 			{
@@ -786,6 +1290,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 143,
+						"y": 151
 					}
 				]
 			},
@@ -798,6 +1309,13 @@
 					{
 						"name": "Barrel Key 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 505,
+						"y": 100
+					}
 				]
 			},
 			{
@@ -808,6 +1326,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 43,
+						"y": 455
 					}
 				]
 			},
@@ -820,6 +1345,13 @@
 					{
 						"name": "Barrel Key 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 300,
+						"y": 52
+					}
 				]
 			},
 			{
@@ -830,6 +1362,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 87,
+						"y": 252
 					}
 				]
 			},
@@ -842,6 +1381,13 @@
 					{
 						"name": "Barrel Scroll 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 213,
+						"y": 571
+					}
 				]
 			},
 			{
@@ -852,6 +1398,13 @@
 				"sections": [
 					{
 						"name": "Barrel Speed Boots 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 126,
+						"y": 449
 					}
 				]
 			},
@@ -864,6 +1417,13 @@
 					{
 						"name": "Barrel Levitate 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 186,
+						"y": 233
+					}
 				]
 			},
 			{
@@ -875,6 +1435,13 @@
 					{
 						"name": "Barrel Nothing 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 187,
+						"y": 303
+					}
 				]
 			},
 			{
@@ -885,6 +1452,13 @@
 				"sections": [
 					{
 						"name": "Chest Reflective Shield 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Tower Armory",
+						"x": 150,
+						"y": 396
 					}
 				]
 			}

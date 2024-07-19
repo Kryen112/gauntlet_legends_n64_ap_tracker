@@ -13,6 +13,13 @@
 					{
 						"name": "Fire Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 484,
+						"y": 1423
+					}
 				]
 			},
 			{
@@ -23,6 +30,13 @@
 					{
 						"name": "Light Potion"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 1203,
+						"y": 470
+					}
 				]
 			},
 			{
@@ -32,6 +46,13 @@
 				"sections": [
 					{
 						"name": "Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 819,
+						"y": 391
 					}
 				]
 			},
@@ -44,6 +65,13 @@
 					{
 						"name": "Fruit 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 303,
+						"y": 1089
+					}
 				]
 			},
 			{
@@ -54,6 +82,13 @@
 				"sections": [
 					{
 						"name": "Key 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 973,
+						"y": 624
 					}
 				]
 			},
@@ -66,6 +101,13 @@
 					{
 						"name": "Invisibility (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 811,
+						"y": 316
+					}
 				]
 			},
 			{
@@ -77,6 +119,13 @@
 					{
 						"name": "Speed Boots (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 1095,
+						"y": 371
+					}
 				]
 			},
 			{
@@ -86,6 +135,13 @@
 				"sections": [
 					{
 						"name": "Key 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 736,
+						"y": 1276
 					}
 				]
 			},
@@ -97,6 +153,13 @@
 					{
 						"name": "Key 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 784,
+						"y": 1277
+					}
 				]
 			},
 			{
@@ -106,6 +169,13 @@
 				"sections": [
 					{
 						"name": "Fruit 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 954,
+						"y": 17
 					}
 				]
 			},
@@ -117,6 +187,13 @@
 					{
 						"name": "Levitate"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 1241,
+						"y": 442
+					}
 				]
 			},
 			{
@@ -127,6 +204,13 @@
 					{
 						"name": "Scroll 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 938,
+						"y": 276
+					}
 				]
 			},
 			{
@@ -136,6 +220,13 @@
 				"sections": [
 					{
 						"name": "Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 202,
+						"y": 1059
 					}
 				]
 			},
@@ -148,6 +239,13 @@
 					{
 						"name": "Death (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 507,
+						"y": 1236
+					}
 				]
 			},
 			{
@@ -159,6 +257,13 @@
 					{
 						"name": "Bananas (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 551,
+						"y": 1292
+					}
 				]
 			},
 			{
@@ -168,6 +273,13 @@
 				"sections": [
 					{
 						"name": "Fruit 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 439,
+						"y": 1272
 					}
 				]
 			},
@@ -180,6 +292,13 @@
 					{
 						"name": "Key 5 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 513,
+						"y": 1324
+					}
 				]
 			},
 			{
@@ -191,6 +310,13 @@
 					{
 						"name": "Key 6 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 576,
+						"y": 1203
+					}
 				]
 			},
 			{
@@ -200,6 +326,13 @@
 				"sections": [
 					{
 						"name": "Fire Potion 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 255,
+						"y": 860
 					}
 				]
 			},
@@ -211,6 +344,13 @@
 					{
 						"name": "Shrink"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 546,
+						"y": 1058
+					}
 				]
 			},
 			{
@@ -220,6 +360,13 @@
 				"sections": [
 					{
 						"name": "Fire Amulet"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 136,
+						"y": 1401
 					}
 				]
 			},
@@ -232,6 +379,13 @@
 					{
 						"name": "3-Way Shot (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 403,
+						"y": 1161
+					}
 				]
 			},
 			{
@@ -243,6 +397,13 @@
 					{
 						"name": "Rapid Fire (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 84,
+						"y": 1173
+					}
 				]
 			},
 			{
@@ -252,6 +413,13 @@
 				"sections": [
 					{
 						"name": "Reflective Shot"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 377,
+						"y": 1271
 					}
 				]
 			},
@@ -264,6 +432,13 @@
 					{
 						"name": "Barrel 3-Way Shot 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 56,
+						"y": 892
+					}
 				]
 			},
 			{
@@ -274,6 +449,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 728,
+						"y": 251
 					}
 				]
 			},
@@ -286,6 +468,13 @@
 					{
 						"name": "Barrel Reflective Shot 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 1005,
+						"y": 198
+					}
 				]
 			},
 			{
@@ -296,6 +485,13 @@
 				"sections": [
 					{
 						"name": "Barrel Levitate 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 717,
+						"y": 494
 					}
 				]
 			},
@@ -308,6 +504,13 @@
 					{
 						"name": "Barrel Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 1121,
+						"y": 572
+					}
 				]
 			},
 			{
@@ -318,6 +521,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 1202,
+						"y": 415
 					}
 				]
 			},
@@ -330,6 +540,13 @@
 					{
 						"name": "Barrel Scroll 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 603,
+						"y": 1157
+					}
 				]
 			},
 			{
@@ -340,6 +557,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 405,
+						"y": 864
 					}
 				]
 			},
@@ -352,6 +576,13 @@
 					{
 						"name": "Barrel Key 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 408,
+						"y": 1359
+					}
 				]
 			},
 			{
@@ -362,6 +593,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 704,
+						"y": 209
 					}
 				]
 			},
@@ -374,6 +612,13 @@
 					{
 						"name": "Barrel Key 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 679,
+						"y": 252
+					}
 				]
 			},
 			{
@@ -384,6 +629,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 652,
+						"y": 1053
 					}
 				]
 			},
@@ -396,6 +648,13 @@
 					{
 						"name": "Barrel Key 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 601,
+						"y": 1079
+					}
 				]
 			},
 			{
@@ -406,6 +665,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 803,
+						"y": 252
 					}
 				]
 			},
@@ -418,6 +684,13 @@
 					{
 						"name": "Barrel Gold 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 848,
+						"y": 253
+					}
 				]
 			},
 			{
@@ -428,6 +701,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 848,
+						"y": 283
 					}
 				]
 			},
@@ -440,6 +720,13 @@
 					{
 						"name": "Barrel Key 6"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 904,
+						"y": 324
+					}
 				]
 			},
 			{
@@ -450,6 +737,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 883,
+						"y": 337
 					}
 				]
 			},
@@ -462,6 +756,13 @@
 					{
 						"name": "Barrel Death 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 850,
+						"y": 382
+					}
 				]
 			},
 			{
@@ -472,6 +773,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 7 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 853,
+						"y": 337
 					}
 				]
 			},
@@ -484,6 +792,13 @@
 					{
 						"name": "Barrel Key 8 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 1128,
+						"y": 481
+					}
 				]
 			},
 			{
@@ -494,6 +809,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 1073,
+						"y": 522
 					}
 				]
 			},
@@ -506,6 +828,13 @@
 					{
 						"name": "Chest Potion 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 1148,
+						"y": 527
+					}
 				]
 			},
 			{
@@ -516,6 +845,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 770,
+						"y": 354
 					}
 				]
 			},
@@ -528,6 +864,13 @@
 					{
 						"name": "Chest Meat 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 759,
+						"y": 386
+					}
 				]
 			},
 			{
@@ -538,6 +881,13 @@
 				"sections": [
 					{
 						"name": "Chest Fire Breath 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 728,
+						"y": 391
 					}
 				]
 			},
@@ -550,6 +900,13 @@
 					{
 						"name": "Barrel Key 9 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 708,
+						"y": 472
+					}
 				]
 			},
 			{
@@ -560,6 +917,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 4 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 781,
+						"y": 465
 					}
 				]
 			},
@@ -572,6 +936,13 @@
 					{
 						"name": "Barrel Key 10 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 207,
+						"y": 1422
+					}
 				]
 			},
 			{
@@ -582,6 +953,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 11"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 42,
+						"y": 912
 					}
 				]
 			},
@@ -594,6 +972,13 @@
 					{
 						"name": "Barrel Key 12 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 291,
+						"y": 1038
+					}
 				]
 			},
 			{
@@ -604,6 +989,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 222,
+						"y": 1059
 					}
 				]
 			},
@@ -616,6 +1008,13 @@
 					{
 						"name": "Barrel Gold 5 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 284,
+						"y": 861
+					}
 				]
 			},
 			{
@@ -626,6 +1025,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 13"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 225,
+						"y": 854
 					}
 				]
 			},
@@ -638,6 +1044,13 @@
 					{
 						"name": "Chest Meat 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 520,
+						"y": 1368
+					}
 				]
 			},
 			{
@@ -648,6 +1061,13 @@
 				"sections": [
 					{
 						"name": "Barrel Thunder Hammer 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 420,
+						"y": 1224
 					}
 				]
 			},
@@ -660,6 +1080,13 @@
 					{
 						"name": "Chest Gold 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 574,
+						"y": 1243
+					}
 				]
 			},
 			{
@@ -670,6 +1097,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 14"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 444,
+						"y": 1163
 					}
 				]
 			},
@@ -682,6 +1116,13 @@
 					{
 						"name": "Barrel Key 15 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 280,
+						"y": 921
+					}
 				]
 			},
 			{
@@ -692,6 +1133,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 102,
+						"y": 803
 					}
 				]
 			},
@@ -704,6 +1152,13 @@
 					{
 						"name": "Barrel Key 16 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 394,
+						"y": 925
+					}
 				]
 			},
 			{
@@ -714,6 +1169,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 719,
+						"y": 906
 					}
 				]
 			},
@@ -726,6 +1188,13 @@
 					{
 						"name": "Barrel Meat 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 742,
+						"y": 1023
+					}
 				]
 			},
 			{
@@ -736,6 +1205,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 17"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 726,
+						"y": 984
 					}
 				]
 			},
@@ -748,6 +1224,13 @@
 					{
 						"name": "Barrel Gold 6 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 712,
+						"y": 962
+					}
 				]
 			},
 			{
@@ -758,6 +1241,13 @@
 				"sections": [
 					{
 						"name": "Chest Phoenix Familiar 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 721,
+						"y": 1337
 					}
 				]
 			},
@@ -770,6 +1260,13 @@
 					{
 						"name": "Barrel Key 18"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 197,
+						"y": 1188
+					}
 				]
 			},
 			{
@@ -780,6 +1277,13 @@
 				"sections": [
 					{
 						"name": "Chest Speed Boots 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 449,
+						"y": 1424
 					}
 				]
 			},
@@ -792,6 +1296,13 @@
 					{
 						"name": "Barrel Gold 7 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 451,
+						"y": 1459
+					}
 				]
 			},
 			{
@@ -802,6 +1313,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 19 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 441,
+						"y": 1392
 					}
 				]
 			},
@@ -814,6 +1332,13 @@
 					{
 						"name": "Chest Potion 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 400,
+						"y": 1340
+					}
 				]
 			},
 			{
@@ -824,6 +1349,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 591,
+						"y": 1368
 					}
 				]
 			},
@@ -836,6 +1368,13 @@
 					{
 						"name": "Barrel Key 20"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 466,
+						"y": 984
+					}
 				]
 			},
 			{
@@ -846,6 +1385,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 21"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 410,
+						"y": 962
 					}
 				]
 			},
@@ -858,6 +1404,13 @@
 					{
 						"name": "Chest Fire Amulet 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 406,
+						"y": 804
+					}
 				]
 			},
 			{
@@ -868,6 +1421,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Trenches",
+						"x": 178,
+						"y": 1376
 					}
 				]
 			}

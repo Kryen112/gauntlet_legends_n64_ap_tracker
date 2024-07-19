@@ -13,6 +13,13 @@
 					{
 						"name": "Death 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 457,
+						"y": 554
+					}
 				]
 			},
 			{
@@ -24,6 +31,13 @@
 					{
 						"name": "Death 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 116,
+						"y": 542
+					}
 				]
 			},
 			{
@@ -33,6 +47,13 @@
 				"sections": [
 					{
 						"name": "Speed Boots"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 497,
+						"y": 591
 					}
 				]
 			},
@@ -44,6 +65,13 @@
 					{
 						"name": "Reflective Shot"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 501,
+						"y": 512
+					}
 				]
 			},
 			{
@@ -54,6 +82,13 @@
 					{
 						"name": "Fire Amulet"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 66,
+						"y": 504
+					}
 				]
 			},
 			{
@@ -63,6 +98,13 @@
 				"sections": [
 					{
 						"name": "3-Way Shot"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 70,
+						"y": 586
 					}
 				]
 			},
@@ -75,6 +117,13 @@
 					{
 						"name": "Chest Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 288,
+						"y": 874
+					}
 				]
 			},
 			{
@@ -85,6 +134,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 346,
+						"y": 290
 					}
 				]
 			},
@@ -97,6 +153,13 @@
 					{
 						"name": "Chest Gold 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 395,
+						"y": 205
+					}
 				]
 			},
 			{
@@ -107,6 +170,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 420,
+						"y": 239
 					}
 				]
 			},
@@ -119,6 +189,13 @@
 					{
 						"name": "Chest Gold 5 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 174,
+						"y": 205
+					}
 				]
 			},
 			{
@@ -129,6 +206,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 148,
+						"y": 239
 					}
 				]
 			},
@@ -141,6 +225,13 @@
 					{
 						"name": "Chest Gold 7 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 410,
+						"y": 588
+					}
 				]
 			},
 			{
@@ -151,6 +242,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 8 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 160,
+						"y": 373
 					}
 				]
 			},
@@ -163,6 +261,13 @@
 					{
 						"name": "Chest Gold 9"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 408,
+						"y": 454
+					}
 				]
 			},
 			{
@@ -173,6 +278,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 10"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 185,
+						"y": 500
 					}
 				]
 			},
@@ -185,6 +297,13 @@
 					{
 						"name": "Chest Gold 11 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 242,
+						"y": 194
+					}
 				]
 			},
 			{
@@ -195,6 +314,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 12 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 242,
+						"y": 236
 					}
 				]
 			},
@@ -207,6 +333,13 @@
 					{
 						"name": "Chest Gold 13 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 313,
+						"y": 194
+					}
 				]
 			},
 			{
@@ -217,6 +350,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 14"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 313,
+						"y": 236
 					}
 				]
 			},
@@ -229,6 +369,13 @@
 					{
 						"name": "Chest Gold 15 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 278,
+						"y": 178
+					}
 				]
 			},
 			{
@@ -239,6 +386,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 295,
+						"y": 196
 					}
 				]
 			},
@@ -251,6 +405,13 @@
 					{
 						"name": "Dark Chest Random 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 262,
+						"y": 196
+					}
 				]
 			},
 			{
@@ -261,6 +422,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 16 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 367,
+						"y": 131
 					}
 				]
 			},
@@ -273,6 +441,13 @@
 					{
 						"name": "Chest Gold 17"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 322,
+						"y": 126
+					}
 				]
 			},
 			{
@@ -283,6 +458,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 18 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 239,
+						"y": 126
 					}
 				]
 			},
@@ -295,6 +477,13 @@
 					{
 						"name": "Chest Gold 19 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 200,
+						"y": 131
+					}
 				]
 			},
 			{
@@ -305,6 +494,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 20 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 162,
+						"y": 638
 					}
 				]
 			},
@@ -317,6 +513,13 @@
 					{
 						"name": "Chest Gold 21"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 192,
+						"y": 772
+					}
 				]
 			},
 			{
@@ -327,6 +530,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 22"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 415,
+						"y": 636
 					}
 				]
 			},
@@ -339,6 +549,13 @@
 					{
 						"name": "Chest Gold 23 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 409,
+						"y": 762
+					}
 				]
 			},
 			{
@@ -349,6 +566,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 24"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 159,
+						"y": 309
 					}
 				]
 			},
@@ -361,6 +585,13 @@
 					{
 						"name": "Chest Gold 25"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 160,
+						"y": 428
+					}
 				]
 			},
 			{
@@ -371,6 +602,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 26"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 165,
+						"y": 836
 					}
 				]
 			},
@@ -383,6 +621,13 @@
 					{
 						"name": "Chest Gold 27"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 389,
+						"y": 834
+					}
 				]
 			},
 			{
@@ -393,6 +638,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 28"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 408,
+						"y": 301
 					}
 				]
 			},
@@ -405,6 +657,13 @@
 					{
 						"name": "Chest Gold 29"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 412,
+						"y": 393
+					}
 				]
 			},
 			{
@@ -416,6 +675,13 @@
 					{
 						"name": "Chest Levitate 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 29,
+						"y": 543
+					}
 				]
 			},
 			{
@@ -426,6 +692,13 @@
 				"sections": [
 					{
 						"name": "Chest Phoenix Familiar 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Desecrated Temple",
+						"x": 538,
+						"y": 552
 					}
 				]
 			}

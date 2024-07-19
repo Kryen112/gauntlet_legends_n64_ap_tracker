@@ -4,5 +4,161 @@
 		"location_size": 10,
 		"location_border_thickness": 1,
 		"img": "images/maps/overworld.png"
+	},
+	{
+		"name": "Valley of Fire",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/valley_of_fire.png"
+	},
+	{
+		"name": "Dagger Peak",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/dagger_peak.png"
+	},
+	{
+		"name": "Cliffs of Desolation",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/cliffs_of_desolation.png"
+	},
+	{
+		"name": "Lost Cave",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/lost_cave.png"
+	},
+	{
+		"name": "Volcanic Cavern",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/volcanic_cavern.png"
+	},
+	{
+		"name": "Dragon's Lair",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/dragons_lair.png"
+	},
+	{
+		"name": "Castle Courtyard",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/castle_courtyard.png"
+	},
+	{
+		"name": "Dungeon of Torment",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/dungeon_of_torment.png"
+	},
+	{
+		"name": "Tower Armory",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/tower_armory.png"
+	},
+	{
+		"name": "Castle Treasury",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/castle_treasury.png"
+	},
+	{
+		"name": "Chimera's Keep",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/chimeras_keep.png"
+	},
+	{
+		"name": "Poisoned Fields",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/poisoned_fields.png"
+	},
+	{
+		"name": "Haunted Cemetery",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/haunted_cemetery.png"
+	},
+	{
+		"name": "Venemous Spire",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/venemous_spire.png"
+	},
+	{
+		"name": "Toxic Air Ship",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/toxic_air_ship.png"
+	},
+	{
+		"name": "Vat of the Plague Fiend",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/vat_of_the_plague_fiend.png"
+	},
+	{
+		"name": "Arctic Docks",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/arctic_docks.png"
+	},
+	{
+		"name": "Frozen Camp",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/frozen_camp.png"
+	},
+	{
+		"name": "Crystal Mine",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/crystal_mine.png"
+	},
+	{
+		"name": "Erupting Fissure",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/erupting_fissure.png"
+	},
+	{
+		"name": "Yeti's Cavern",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/yetis_cavern.png"
+	},
+	{
+		"name": "Desecrated Temple",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/desecrated_temple.png"
+	},
+	{
+		"name": "Battle Trenches",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/battle_trenches.png"
+	},
+	{
+		"name": "Battle Towers",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/battle_towers.png"
+	},
+	{
+		"name": "Infernal Fortress",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/infernal_fortress.png"
+	},
+	{
+		"name": "Gates of the Underworld",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/gates_of_the_underworld.png"
 	}
 ]

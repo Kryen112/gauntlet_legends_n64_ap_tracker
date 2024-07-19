@@ -13,6 +13,13 @@
 					{
 						"name": "Thunder Hammer"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 632,
+						"y": 55
+					}
 				]
 			},
 			{
@@ -24,6 +31,13 @@
 					{
 						"name": "Key 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 404,
+						"y": 719
+					}
 				]
 			},
 			{
@@ -33,6 +47,13 @@
 				"sections": [
 					{
 						"name": "Runestone"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 767,
+						"y": 424
 					}
 				]
 			},
@@ -45,6 +66,13 @@
 					{
 						"name": "Drumstick (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 704,
+						"y": 313
+					}
 				]
 			},
 			{
@@ -56,6 +84,13 @@
 					{
 						"name": "Large Pile of Gold (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 562,
+						"y": 219
+					}
 				]
 			},
 			{
@@ -65,6 +100,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 614,
+						"y": 165
 					}
 				]
 			},
@@ -77,6 +119,13 @@
 					{
 						"name": "Half Barrel of Gold 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 509,
+						"y": 81
+					}
 				]
 			},
 			{
@@ -86,6 +135,13 @@
 				"sections": [
 					{
 						"name": "Light Potion"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 488,
+						"y": 84
 					}
 				]
 			},
@@ -98,6 +154,13 @@
 					{
 						"name": "Key 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 844,
+						"y": 100
+					}
 				]
 			},
 			{
@@ -108,6 +171,13 @@
 					{
 						"name": "Death"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 915,
+						"y": 331
+					}
 				]
 			},
 			{
@@ -117,6 +187,13 @@
 				"sections": [
 					{
 						"name": "Fruit"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 740,
+						"y": 306
 					}
 				]
 			},
@@ -129,6 +206,13 @@
 					{
 						"name": "Small Pile of Gold (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 738,
+						"y": 360
+					}
 				]
 			},
 			{
@@ -139,6 +223,13 @@
 					{
 						"name": "Key 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 730,
+						"y": 972
+					}
 				]
 			},
 			{
@@ -148,6 +239,13 @@
 				"sections": [
 					{
 						"name": "Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 823,
+						"y": 954
 					}
 				]
 			},
@@ -160,6 +258,13 @@
 					{
 						"name": "Very Small Pile of Gold 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 488,
+						"y": 966
+					}
 				]
 			},
 			{
@@ -171,6 +276,13 @@
 					{
 						"name": "Potion Pile (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 471,
+						"y": 810
+					}
 				]
 			},
 			{
@@ -180,6 +292,13 @@
 				"sections": [
 					{
 						"name": "Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 456,
+						"y": 889
 					}
 				]
 			},
@@ -192,6 +311,13 @@
 					{
 						"name": "Barrel Key 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 252,
+						"y": 1189
+					}
 				]
 			},
 			{
@@ -202,6 +328,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 802,
+						"y": 958
 					}
 				]
 			},
@@ -214,6 +347,13 @@
 					{
 						"name": "Barrel Fruit 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 336,
+						"y": 942
+					}
 				]
 			},
 			{
@@ -224,6 +364,13 @@
 				"sections": [
 					{
 						"name": "Chest Timestop 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 755,
+						"y": 968
 					}
 				]
 			},
@@ -236,6 +383,13 @@
 					{
 						"name": "Barrel Poison Fruit 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 359,
+						"y": 620
+					}
 				]
 			},
 			{
@@ -246,6 +400,13 @@
 				"sections": [
 					{
 						"name": "Barrel Meat 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 349,
+						"y": 1017
 					}
 				]
 			},
@@ -258,6 +419,13 @@
 					{
 						"name": "Barrel Key 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 734,
+						"y": 437
+					}
 				]
 			},
 			{
@@ -268,6 +436,13 @@
 				"sections": [
 					{
 						"name": "Chest Fire Shield 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 458,
+						"y": 184
 					}
 				]
 			},
@@ -280,6 +455,13 @@
 					{
 						"name": "Barrel Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 634,
+						"y": 650
+					}
 				]
 			},
 			{
@@ -290,6 +472,13 @@
 				"sections": [
 					{
 						"name": "Barrel Levitate 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 865,
+						"y": 643
 					}
 				]
 			},
@@ -302,6 +491,13 @@
 					{
 						"name": "Barrel Scroll 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 798,
+						"y": 620
+					}
 				]
 			},
 			{
@@ -312,6 +508,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 188,
+						"y": 590
 					}
 				]
 			},
@@ -324,6 +527,13 @@
 					{
 						"name": "Barrel Meat 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 177,
+						"y": 947
+					}
 				]
 			},
 			{
@@ -334,6 +544,13 @@
 				"sections": [
 					{
 						"name": "Barrel Invisibility 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 716,
+						"y": 186
 					}
 				]
 			},
@@ -346,6 +563,13 @@
 					{
 						"name": "Dark Chest Random 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 407,
+						"y": 195
+					}
 				]
 			},
 			{
@@ -356,6 +580,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 583,
+						"y": 266
 					}
 				]
 			},
@@ -368,6 +599,13 @@
 					{
 						"name": "Barrel Key 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 809,
+						"y": 652
+					}
 				]
 			},
 			{
@@ -378,6 +616,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 847,
+						"y": 748
 					}
 				]
 			},
@@ -390,6 +635,13 @@
 					{
 						"name": "Barrel Key 6 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 521,
+						"y": 872
+					}
 				]
 			},
 			{
@@ -400,6 +652,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 7 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 369,
+						"y": 471
 					}
 				]
 			},
@@ -412,6 +671,13 @@
 					{
 						"name": "Barrel Key 8 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 307,
+						"y": 479
+					}
 				]
 			},
 			{
@@ -422,6 +688,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 9"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 39,
+						"y": 567
 					}
 				]
 			},
@@ -434,6 +707,13 @@
 					{
 						"name": "Barrel Key 10"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 228,
+						"y": 722
+					}
 				]
 			},
 			{
@@ -444,6 +724,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 11"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 208,
+						"y": 939
 					}
 				]
 			},
@@ -456,6 +743,13 @@
 					{
 						"name": "Barrel Key 12"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 440,
+						"y": 857
+					}
 				]
 			},
 			{
@@ -466,6 +760,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 13"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 465,
+						"y": 983
 					}
 				]
 			},
@@ -478,6 +779,13 @@
 					{
 						"name": "Barrel Key 14 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 635,
+						"y": 359
+					}
 				]
 			},
 			{
@@ -488,6 +796,13 @@
 				"sections": [
 					{
 						"name": "Chest Speed Boots 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 758,
+						"y": 328
 					}
 				]
 			},
@@ -500,6 +815,13 @@
 					{
 						"name": "Barrel Gold 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 671,
+						"y": 469
+					}
 				]
 			},
 			{
@@ -510,6 +832,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 545,
+						"y": 279
 					}
 				]
 			},
@@ -522,6 +851,13 @@
 					{
 						"name": "Barrel Key 15 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 532,
+						"y": 290
+					}
 				]
 			},
 			{
@@ -532,6 +868,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 698,
+						"y": 41
 					}
 				]
 			},
@@ -544,6 +887,13 @@
 					{
 						"name": "Chest Gold 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 874,
+						"y": 203
+					}
 				]
 			},
 			{
@@ -554,6 +904,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 894,
+						"y": 265
 					}
 				]
 			},
@@ -566,6 +923,13 @@
 					{
 						"name": "Chest Light Amulet 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 856,
+						"y": 147
+					}
 				]
 			},
 			{
@@ -576,6 +940,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 3 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 421,
+						"y": 750
 					}
 				]
 			},
@@ -588,6 +959,13 @@
 					{
 						"name": "Chest Gold 4 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 452,
+						"y": 727
+					}
 				]
 			},
 			{
@@ -598,6 +976,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 469,
+						"y": 729
 					}
 				]
 			},
@@ -610,6 +995,13 @@
 					{
 						"name": "Chest Gold 6 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 448,
+						"y": 788
+					}
 				]
 			},
 			{
@@ -620,6 +1012,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 7 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 475,
+						"y": 794
 					}
 				]
 			},
@@ -632,6 +1031,13 @@
 					{
 						"name": "Chest Gold 8"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 496,
+						"y": 797
+					}
 				]
 			},
 			{
@@ -642,6 +1048,13 @@
 				"sections": [
 					{
 						"name": "Chest Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 424,
+						"y": 639
 					}
 				]
 			},
@@ -654,6 +1067,13 @@
 					{
 						"name": "Barrel Key 16 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 403,
+						"y": 528
+					}
 				]
 			},
 			{
@@ -664,6 +1084,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 405,
+						"y": 542
 					}
 				]
 			},
@@ -676,6 +1103,13 @@
 					{
 						"name": "Barrel Gold 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 433,
+						"y": 531
+					}
 				]
 			},
 			{
@@ -686,6 +1120,13 @@
 				"sections": [
 					{
 						"name": "Barrel Reflective Shot 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 426,
+						"y": 541
 					}
 				]
 			},
@@ -698,6 +1139,13 @@
 					{
 						"name": "Barrel Gold 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 433,
+						"y": 548
+					}
 				]
 			},
 			{
@@ -708,6 +1156,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 455,
+						"y": 528
 					}
 				]
 			},
@@ -720,6 +1175,13 @@
 					{
 						"name": "Barrel Potion 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 448,
+						"y": 517
+					}
 				]
 			},
 			{
@@ -730,6 +1192,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 17"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 467,
+						"y": 564
 					}
 				]
 			},
@@ -742,6 +1211,13 @@
 					{
 						"name": "Barrel Death 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 438,
+						"y": 565
+					}
 				]
 			},
 			{
@@ -752,6 +1228,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 440,
+						"y": 577
 					}
 				]
 			},
@@ -764,6 +1247,13 @@
 					{
 						"name": "Chest 3-Way Shot 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 601,
+						"y": 552
+					}
 				]
 			},
 			{
@@ -775,6 +1265,13 @@
 					{
 						"name": "Chest Potion 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 552,
+						"y": 467
+					}
 				]
 			},
 			{
@@ -785,6 +1282,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Infernal Fortress",
+						"x": 567,
+						"y": 500
 					}
 				]
 			}

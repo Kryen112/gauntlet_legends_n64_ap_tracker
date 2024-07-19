@@ -13,6 +13,13 @@
 					{
 						"name": "Rapid Fire"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 677,
+						"y": 551
+					}
 				]
 			},
 			{
@@ -22,6 +29,13 @@
 				"sections": [
 					{
 						"name": "Speed Boots"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 68,
+						"y": 780
 					}
 				]
 			},
@@ -34,6 +48,13 @@
 					{
 						"name": "Key 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 585,
+						"y": 332
+					}
 				]
 			},
 			{
@@ -44,6 +65,13 @@
 				"sections": [
 					{
 						"name": "Key 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 627,
+						"y": 519
 					}
 				]
 			},
@@ -56,6 +84,13 @@
 					{
 						"name": "Key 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 544,
+						"y": 615
+					}
 				]
 			},
 			{
@@ -65,6 +100,13 @@
 				"sections": [
 					{
 						"name": "Lightning Breath"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 536,
+						"y": 140
 					}
 				]
 			},
@@ -77,6 +119,13 @@
 					{
 						"name": "Key 4 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 840,
+						"y": 276
+					}
 				]
 			},
 			{
@@ -86,6 +135,13 @@
 				"sections": [
 					{
 						"name": "Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 657,
+						"y": 331
 					}
 				]
 			},
@@ -97,6 +153,13 @@
 					{
 						"name": "Lightning Shield"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 784,
+						"y": 564
+					}
 				]
 			},
 			{
@@ -106,6 +169,13 @@
 				"sections": [
 					{
 						"name": "Bananas"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 216,
+						"y": 477
 					}
 				]
 			},
@@ -117,6 +187,13 @@
 					{
 						"name": "Key 6"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 267,
+						"y": 463
+					}
 				]
 			},
 			{
@@ -127,6 +204,13 @@
 					{
 						"name": "Key 7"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 121,
+						"y": 700
+					}
 				]
 			},
 			{
@@ -136,6 +220,13 @@
 				"sections": [
 					{
 						"name": "Runestone"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 474,
+						"y": 437
 					}
 				]
 			},
@@ -148,6 +239,13 @@
 					{
 						"name": "Shrink (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 844,
+						"y": 258
+					}
 				]
 			},
 			{
@@ -158,6 +256,13 @@
 				"sections": [
 					{
 						"name": "Barrel Reflective Shot 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 218,
+						"y": 857
 					}
 				]
 			},
@@ -170,6 +275,13 @@
 					{
 						"name": "Barrel Speed Boots 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 566,
+						"y": 250
+					}
 				]
 			},
 			{
@@ -180,6 +292,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 544,
+						"y": 239
 					}
 				]
 			},
@@ -192,6 +311,13 @@
 					{
 						"name": "Barrel Unknown 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 730,
+						"y": 203
+					}
 				]
 			},
 			{
@@ -202,6 +328,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 3 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 728,
+						"y": 297
 					}
 				]
 			},
@@ -214,6 +347,13 @@
 					{
 						"name": "Barrel Unknown 4 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 464,
+						"y": 404
+					}
 				]
 			},
 			{
@@ -224,6 +364,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 428,
+						"y": 473
 					}
 				]
 			},
@@ -236,6 +383,13 @@
 					{
 						"name": "Barrel Unknown 6"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 421,
+						"y": 404
+					}
 				]
 			},
 			{
@@ -246,6 +400,13 @@
 				"sections": [
 					{
 						"name": "Chest Growth 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 699,
+						"y": 246
 					}
 				]
 			},
@@ -258,6 +419,13 @@
 					{
 						"name": "Barrel Key 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 484,
+						"y": 705
+					}
 				]
 			},
 			{
@@ -268,6 +436,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 552,
+						"y": 755
 					}
 				]
 			},
@@ -280,6 +455,13 @@
 					{
 						"name": "Barrel Key 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 718,
+						"y": 228
+					}
 				]
 			},
 			{
@@ -290,6 +472,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 4 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 239,
+						"y": 526
 					}
 				]
 			},
@@ -302,6 +491,13 @@
 					{
 						"name": "Barrel Key 5 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 145,
+						"y": 683
+					}
 				]
 			},
 			{
@@ -312,6 +508,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 602,
+						"y": 90
 					}
 				]
 			},
@@ -324,6 +527,13 @@
 					{
 						"name": "Chest Gold 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 594,
+						"y": 58
+					}
 				]
 			},
 			{
@@ -334,6 +544,13 @@
 				"sections": [
 					{
 						"name": "Chest Random 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 583,
+						"y": 26
 					}
 				]
 			},
@@ -346,6 +563,13 @@
 					{
 						"name": "Barrel Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 839,
+						"y": 244
+					}
 				]
 			},
 			{
@@ -356,6 +580,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 721,
+						"y": 392
 					}
 				]
 			},
@@ -368,6 +599,13 @@
 					{
 						"name": "Barrel Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 554,
+						"y": 368
+					}
 				]
 			},
 			{
@@ -378,6 +616,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 488,
+						"y": 437
 					}
 				]
 			},
@@ -390,6 +635,13 @@
 					{
 						"name": "Barrel Key 6"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 482,
+						"y": 368
+					}
 				]
 			},
 			{
@@ -400,6 +652,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 420,
+						"y": 297
 					}
 				]
 			},
@@ -412,6 +671,13 @@
 					{
 						"name": "Chest Potion 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 478,
+						"y": 389
+					}
 				]
 			},
 			{
@@ -422,6 +688,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 470,
+						"y": 396
 					}
 				]
 			},
@@ -434,6 +707,13 @@
 					{
 						"name": "Chest Gold 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 411,
+						"y": 417
+					}
 				]
 			},
 			{
@@ -444,6 +724,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 414,
+						"y": 575
 					}
 				]
 			},
@@ -456,6 +743,13 @@
 					{
 						"name": "Barrel Key 7"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 469,
+						"y": 596
+					}
 				]
 			},
 			{
@@ -466,6 +760,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 707,
+						"y": 545
 					}
 				]
 			},
@@ -478,6 +779,13 @@
 					{
 						"name": "Barrel Gold 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 701,
+						"y": 571
+					}
 				]
 			},
 			{
@@ -488,6 +796,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 731,
+						"y": 629
 					}
 				]
 			},
@@ -500,6 +815,13 @@
 					{
 						"name": "Barrel Death 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 741,
+						"y": 571
+					}
 				]
 			},
 			{
@@ -510,6 +832,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 9 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 783,
+						"y": 576
 					}
 				]
 			},
@@ -522,6 +851,13 @@
 					{
 						"name": "Chest Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 645,
+						"y": 548
+					}
 				]
 			},
 			{
@@ -532,6 +868,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 550,
+						"y": 821
 					}
 				]
 			},
@@ -544,6 +887,13 @@
 					{
 						"name": "Barrel Nothing 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 626,
+						"y": 729
+					}
 				]
 			},
 			{
@@ -554,6 +904,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 595,
+						"y": 809
 					}
 				]
 			},
@@ -566,6 +923,13 @@
 					{
 						"name": "Barrel Key 10"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 619,
+						"y": 802
+					}
 				]
 			},
 			{
@@ -576,6 +940,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 3 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 634,
+						"y": 784
 					}
 				]
 			},
@@ -588,6 +959,13 @@
 					{
 						"name": "Chest Rapid Fire 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 635,
+						"y": 657
+					}
 				]
 			},
 			{
@@ -598,6 +976,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 11 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 541,
+						"y": 897
 					}
 				]
 			},
@@ -610,6 +995,13 @@
 					{
 						"name": "Barrel Key 12"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 553,
+						"y": 871
+					}
 				]
 			},
 			{
@@ -620,6 +1012,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 520,
+						"y": 883
 					}
 				]
 			},
@@ -632,6 +1031,13 @@
 					{
 						"name": "Barrel Nothing 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 464,
+						"y": 882
+					}
 				]
 			},
 			{
@@ -642,6 +1048,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 578,
+						"y": 638
 					}
 				]
 			},
@@ -654,6 +1067,13 @@
 					{
 						"name": "Chest Fruit 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 585,
+						"y": 618
+					}
 				]
 			},
 			{
@@ -664,6 +1084,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 13 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 394,
+						"y": 700
 					}
 				]
 			},
@@ -676,6 +1103,13 @@
 					{
 						"name": "Barrel Fruit 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 379,
+						"y": 692
+					}
 				]
 			},
 			{
@@ -686,6 +1120,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 392,
+						"y": 678
 					}
 				]
 			},
@@ -698,6 +1139,13 @@
 					{
 						"name": "Chest Scroll 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 412,
+						"y": 708
+					}
 				]
 			},
 			{
@@ -708,6 +1156,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 7 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 420,
+						"y": 700
 					}
 				]
 			},
@@ -720,6 +1175,13 @@
 					{
 						"name": "Barrel Potion 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 96,
+						"y": 845
+					}
 				]
 			},
 			{
@@ -730,6 +1192,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 71,
+						"y": 743
 					}
 				]
 			},
@@ -742,6 +1211,13 @@
 					{
 						"name": "Barrel Gold 5 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 126,
+						"y": 581
+					}
 				]
 			},
 			{
@@ -752,6 +1228,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 14"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 750,
+						"y": 380
 					}
 				]
 			},
@@ -764,6 +1247,13 @@
 					{
 						"name": "Barrel Potion 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 155,
+						"y": 544
+					}
 				]
 			},
 			{
@@ -774,6 +1264,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 15"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 254,
+						"y": 297
 					}
 				]
 			},
@@ -786,6 +1283,13 @@
 					{
 						"name": "Chest 3-Way Shot 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 179,
+						"y": 363
+					}
 				]
 			},
 			{
@@ -796,6 +1300,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 101,
+						"y": 541
 					}
 				]
 			},
@@ -808,6 +1319,13 @@
 					{
 						"name": "Chest Gold 8"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 136,
+						"y": 529
+					}
 				]
 			},
 			{
@@ -818,6 +1336,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fire Amulet 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 174,
+						"y": 470
 					}
 				]
 			},
@@ -830,6 +1355,13 @@
 					{
 						"name": "Barrel Key 16"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 161,
+						"y": 468
+					}
 				]
 			},
 			{
@@ -841,27 +1373,48 @@
 					{
 						"name": "Chest Scroll 3"
 					}
-				]
-			},
-			{
-				"name": "Chest Gold 9 (Dif. 3)",
-				"chest_unopened_img": "/images/items/chest.png",
-				"chest_opened_img": "/images/items/chest_open.png",
-				"visibility_rules": [ "$chestShuffle,$difficulty3Enabled" ],
-				"sections": [
+				],
+				"map_locations": [
 					{
-						"name": "Chest Gold 9 (Dif. 3)"
+						"map": "Crystal Mine",
+						"x": 174,
+						"y": 702
 					}
 				]
 			},
 			{
-				"name": "Chest Death 1 (Dif. 2)",
-				"chest_unopened_img": "/images/items/chest.png",
-				"chest_opened_img": "/images/items/chest_open.png",
-				"visibility_rules": [ "$chestShuffle,$difficulty2Enabled" ],
+				"name": "Barrel Gold 6 (Dif. 3)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty3Enabled" ],
 				"sections": [
 					{
-						"name": "Chest Death 1 (Dif. 2)"
+						"name": "Barrel Gold 6 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 210,
+						"y": 835
+					}
+				]
+			},
+			{
+				"name": "Barrel Death 2 (Dif. 2)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Barrel Death 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 187,
+						"y": 847
 					}
 				]
 			},
@@ -874,38 +1427,66 @@
 					{
 						"name": "Barrel Key 17"
 					}
-				]
-			},
-			{
-				"name": "Chest Potion 2",
-				"chest_unopened_img": "/images/items/chest.png",
-				"chest_opened_img": "/images/items/chest_open.png",
-				"visibility_rules": [ "$chestShuffle" ],
-				"sections": [
+				],
+				"map_locations": [
 					{
-						"name": "Chest Potion 2"
+						"map": "Crystal Mine",
+						"x": 189,
+						"y": 867
 					}
 				]
 			},
 			{
-				"name": "Chest Fruit 4 (Dif. 4)",
-				"chest_unopened_img": "/images/items/chest.png",
-				"chest_opened_img": "/images/items/chest_open.png",
-				"visibility_rules": [ "$chestShuffle,$difficulty4Enabled" ],
+				"name": "Barrel Potion 5",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Chest Fruit 4 (Dif. 4)"
+						"name": "Barrel Potion 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 228,
+						"y": 829
 					}
 				]
 			},
 			{
-				"name": "Chest Gold 10 (Dif. 2)",
-				"chest_unopened_img": "/images/items/chest.png",
-				"chest_opened_img": "/images/items/chest_open.png",
-				"visibility_rules": [ "$chestShuffle,$difficulty2Enabled" ],
+				"name": "Barrel Fruit 3 (Dif. 4)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty4Enabled" ],
 				"sections": [
 					{
-						"name": "Chest Gold 10 (Dif. 2)"
+						"name": "Barrel Fruit 3 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 199,
+						"y": 851
+					}
+				]
+			},
+			{
+				"name": "Barrel Gold 7 (Dif. 2)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty2Enabled" ],
+				"sections": [
+					{
+						"name": "Barrel Gold 7 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Crystal Mine",
+						"x": 244,
+						"y": 814
 					}
 				]
 			}

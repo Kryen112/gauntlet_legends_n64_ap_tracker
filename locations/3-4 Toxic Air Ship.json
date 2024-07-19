@@ -13,6 +13,13 @@
 					{
 						"name": "Acid Breath"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 364,
+						"y": 422
+					}
 				]
 			},
 			{
@@ -22,6 +29,13 @@
 				"sections": [
 					{
 						"name": "Scroll"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 165,
+						"y": 538
 					}
 				]
 			},
@@ -33,6 +47,13 @@
 					{
 						"name": "Key 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 827,
+						"y": 301
+					}
 				]
 			},
 			{
@@ -42,6 +63,13 @@
 				"sections": [
 					{
 						"name": "Runestone"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 647,
+						"y": 413
 					}
 				]
 			},
@@ -53,6 +81,13 @@
 					{
 						"name": "Phoenix Familiar"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 803,
+						"y": 147
+					}
 				]
 			},
 			{
@@ -62,6 +97,13 @@
 				"sections": [
 					{
 						"name": "Key 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 356,
+						"y": 247
 					}
 				]
 			},
@@ -74,6 +116,13 @@
 					{
 						"name": "Key 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 332,
+						"y": 297
+					}
 				]
 			},
 			{
@@ -84,6 +133,13 @@
 				"sections": [
 					{
 						"name": "Key 4 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 323,
+						"y": 236
 					}
 				]
 			},
@@ -96,6 +152,13 @@
 					{
 						"name": "Key 5 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 386,
+						"y": 404
+					}
 				]
 			},
 			{
@@ -105,6 +168,13 @@
 				"sections": [
 					{
 						"name": "Key 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 228,
+						"y": 567
 					}
 				]
 			},
@@ -117,6 +187,13 @@
 					{
 						"name": "Poison Fruit 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 361,
+						"y": 598
+					}
 				]
 			},
 			{
@@ -127,6 +204,13 @@
 				"sections": [
 					{
 						"name": "Death (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 882,
+						"y": 349
 					}
 				]
 			},
@@ -139,6 +223,13 @@
 					{
 						"name": "Bananas (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 832,
+						"y": 278
+					}
 				]
 			},
 			{
@@ -148,6 +239,13 @@
 				"sections": [
 					{
 						"name": "Key 7"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 905,
+						"y": 162
 					}
 				]
 			},
@@ -160,6 +258,13 @@
 					{
 						"name": "Key 8 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 744,
+						"y": 148
+					}
 				]
 			},
 			{
@@ -170,6 +275,13 @@
 				"sections": [
 					{
 						"name": "Key 9 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 178,
+						"y": 524
 					}
 				]
 			},
@@ -182,6 +294,13 @@
 					{
 						"name": "Poison Fruit 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 231,
+						"y": 639
+					}
 				]
 			},
 			{
@@ -191,6 +310,13 @@
 				"sections": [
 					{
 						"name": "Key 10"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 632,
+						"y": 336
 					}
 				]
 			},
@@ -203,6 +329,13 @@
 					{
 						"name": "Fire Shield (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 736,
+						"y": 393
+					}
 				]
 			},
 			{
@@ -213,6 +346,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 928,
+						"y": 358
 					}
 				]
 			},
@@ -225,6 +365,13 @@
 					{
 						"name": "Barrel Key 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 728,
+						"y": 429
+					}
 				]
 			},
 			{
@@ -235,6 +382,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 674,
+						"y": 374
 					}
 				]
 			},
@@ -247,6 +401,13 @@
 					{
 						"name": "Barrel Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 992,
+						"y": 416
+					}
 				]
 			},
 			{
@@ -257,6 +418,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 778,
+						"y": 469
 					}
 				]
 			},
@@ -269,6 +437,13 @@
 					{
 						"name": "Barrel Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 602,
+						"y": 479
+					}
 				]
 			},
 			{
@@ -279,6 +454,13 @@
 				"sections": [
 					{
 						"name": "Chest Poison Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 527,
+						"y": 689
 					}
 				]
 			},
@@ -291,6 +473,13 @@
 					{
 						"name": "Barrel Fruit 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 431,
+						"y": 696
+					}
 				]
 			},
 			{
@@ -301,6 +490,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 89,
+						"y": 21
 					}
 				]
 			},
@@ -313,6 +509,13 @@
 					{
 						"name": "Chest Growth 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 377,
+						"y": 26
+					}
 				]
 			},
 			{
@@ -323,6 +526,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 383,
+						"y": 40
 					}
 				]
 			},
@@ -335,6 +545,13 @@
 					{
 						"name": "Chest Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 378,
+						"y": 55
+					}
 				]
 			},
 			{
@@ -345,6 +562,13 @@
 				"sections": [
 					{
 						"name": "Chest Acid Amulet 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 726,
+						"y": 459
 					}
 				]
 			},
@@ -357,6 +581,13 @@
 					{
 						"name": "Chest Gold 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 368,
+						"y": 402
+					}
 				]
 			},
 			{
@@ -367,6 +598,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 141,
+						"y": 394
 					}
 				]
 			},
@@ -379,6 +617,13 @@
 					{
 						"name": "Chest Potion 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 330,
+						"y": 627
+					}
 				]
 			},
 			{
@@ -389,6 +634,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 352,
+						"y": 639
 					}
 				]
 			},
@@ -401,6 +653,13 @@
 					{
 						"name": "Barrel Death 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 501,
+						"y": 641
+					}
 				]
 			},
 			{
@@ -411,6 +670,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 767,
+						"y": 383
 					}
 				]
 			},
@@ -423,6 +689,13 @@
 					{
 						"name": "Chest 3-Way Shot 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 766,
+						"y": 366
+					}
 				]
 			},
 			{
@@ -433,6 +706,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 473,
+						"y": 248
 					}
 				]
 			},
@@ -445,6 +725,13 @@
 					{
 						"name": "Barrel Key 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 458,
+						"y": 245
+					}
 				]
 			},
 			{
@@ -455,6 +742,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 460,
+						"y": 348
 					}
 				]
 			},
@@ -467,6 +761,13 @@
 					{
 						"name": "Barrel Nothing 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 456,
+						"y": 293
+					}
 				]
 			},
 			{
@@ -477,6 +778,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 434,
+						"y": 292
 					}
 				]
 			},
@@ -489,6 +797,13 @@
 					{
 						"name": "Barrel Key 6"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 132,
+						"y": 215
+					}
 				]
 			},
 			{
@@ -499,6 +814,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 7"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 152,
+						"y": 635
 					}
 				]
 			},
@@ -511,6 +833,13 @@
 					{
 						"name": "Barrel Death 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 31,
+						"y": 414
+					}
 				]
 			},
 			{
@@ -521,6 +850,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 68,
+						"y": 392
 					}
 				]
 			},
@@ -533,6 +869,13 @@
 					{
 						"name": "Barrel Key 8"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 44,
+						"y": 391
+					}
 				]
 			},
 			{
@@ -543,6 +886,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 528,
+						"y": 573
 					}
 				]
 			},
@@ -555,6 +905,13 @@
 					{
 						"name": "Barrel Key 9 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 434,
+						"y": 655
+					}
 				]
 			},
 			{
@@ -565,6 +922,13 @@
 				"sections": [
 					{
 						"name": "Barrel Acid Breath 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 483,
+						"y": 588
 					}
 				]
 			},
@@ -577,6 +941,13 @@
 					{
 						"name": "Chest Gold 3 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 975,
+						"y": 391
+					}
 				]
 			},
 			{
@@ -587,6 +958,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 977,
+						"y": 439
 					}
 				]
 			},
@@ -599,6 +977,13 @@
 					{
 						"name": "Chest Death 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 846,
+						"y": 287
+					}
 				]
 			},
 			{
@@ -609,6 +994,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 829,
+						"y": 288
 					}
 				]
 			},
@@ -621,6 +1013,13 @@
 					{
 						"name": "Barrel Key 10 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 848,
+						"y": 299
+					}
 				]
 			},
 			{
@@ -631,6 +1030,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 11 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 780,
+						"y": 247
 					}
 				]
 			},
@@ -643,6 +1049,13 @@
 					{
 						"name": "Chest Poison Fruit 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 345,
+						"y": 248
+					}
 				]
 			},
 			{
@@ -653,6 +1066,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 647,
+						"y": 440
 					}
 				]
 			},
@@ -665,6 +1085,13 @@
 					{
 						"name": "Barrel Scroll 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 873,
+						"y": 610
+					}
 				]
 			},
 			{
@@ -676,6 +1103,13 @@
 					{
 						"name": "Barrel Meat 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 525,
+						"y": 801
+					}
 				]
 			},
 			{
@@ -686,6 +1120,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 3 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Toxic Air Ship",
+						"x": 436,
+						"y": 801
 					}
 				]
 			}

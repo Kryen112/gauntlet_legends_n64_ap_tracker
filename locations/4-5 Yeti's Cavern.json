@@ -13,6 +13,13 @@
 					{
 						"name": "Yeti Mirror Shard"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Yeti's Cavern",
+						"x": 125,
+						"y": 78
+					}
 				]
 			}
 		]

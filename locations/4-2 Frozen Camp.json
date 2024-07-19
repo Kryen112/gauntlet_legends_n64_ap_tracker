@@ -13,6 +13,13 @@
 					{
 						"name": "Light Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1526,
+						"y": 257
+					}
 				]
 			},
 			{
@@ -24,6 +31,13 @@
 					{
 						"name": "Full Barrel of Gold 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1453,
+						"y": 748
+					}
 				]
 			},
 			{
@@ -34,6 +48,13 @@
 					{
 						"name": "Half Barrel of Gold 1 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1337,
+						"y": 527
+					}
 				]
 			},
 			{
@@ -43,6 +64,13 @@
 				"sections": [
 					{
 						"name": "Scroll"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 725,
+						"y": 532
 					}
 				]
 			},
@@ -55,6 +83,13 @@
 					{
 						"name": "Light Potion 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1778,
+						"y": 292
+					}
 				]
 			},
 			{
@@ -64,6 +99,13 @@
 				"sections": [
 					{
 						"name": "Light Potion 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1341,
+						"y": 720
 					}
 				]
 			},
@@ -76,6 +118,13 @@
 					{
 						"name": "Large Pile of Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1320,
+						"y": 515
+					}
 				]
 			},
 			{
@@ -87,6 +136,13 @@
 					{
 						"name": "Half Barrel of Gold 2 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1316,
+						"y": 530
+					}
 				]
 			},
 			{
@@ -96,6 +152,13 @@
 				"sections": [
 					{
 						"name": "Small Pile of Gold 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1299,
+						"y": 522
 					}
 				]
 			},
@@ -108,6 +171,13 @@
 					{
 						"name": "Key 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1064,
+						"y": 904
+					}
 				]
 			},
 			{
@@ -118,6 +188,13 @@
 				"sections": [
 					{
 						"name": "Lightning Breath (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1212,
+						"y": 531
 					}
 				]
 			},
@@ -130,6 +207,13 @@
 					{
 						"name": "Levitate (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1114,
+						"y": 663
+					}
 				]
 			},
 			{
@@ -139,6 +223,13 @@
 				"sections": [
 					{
 						"name": "Key 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1045,
+						"y": 924
 					}
 				]
 			},
@@ -151,6 +242,13 @@
 					{
 						"name": "Key 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1068,
+						"y": 662
+					}
 				]
 			},
 			{
@@ -160,6 +258,13 @@
 				"sections": [
 					{
 						"name": "Speed Boots"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 831,
+						"y": 732
 					}
 				]
 			},
@@ -172,6 +277,13 @@
 					{
 						"name": "Key 4 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 949,
+						"y": 720
+					}
 				]
 			},
 			{
@@ -181,6 +293,13 @@
 				"sections": [
 					{
 						"name": "Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 302,
+						"y": 502
 					}
 				]
 			},
@@ -193,6 +312,13 @@
 					{
 						"name": "Bananas (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 971,
+						"y": 570
+					}
 				]
 			},
 			{
@@ -202,6 +328,13 @@
 				"sections": [
 					{
 						"name": "Pineapple"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 649,
+						"y": 517
 					}
 				]
 			},
@@ -214,6 +347,13 @@
 					{
 						"name": "Light Potion 4 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 715,
+						"y": 561
+					}
 				]
 			},
 			{
@@ -224,6 +364,13 @@
 				"sections": [
 					{
 						"name": "Key 6 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 891,
+						"y": 552
 					}
 				]
 			},
@@ -236,6 +383,13 @@
 					{
 						"name": "Fruit 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 62,
+						"y": 535
+					}
 				]
 			},
 			{
@@ -247,6 +401,13 @@
 					{
 						"name": "Very Small Pile of Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 161,
+						"y": 416
+					}
 				]
 			},
 			{
@@ -256,6 +417,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 53,
+						"y": 574
 					}
 				]
 			},
@@ -268,6 +436,13 @@
 					{
 						"name": "Drumstick (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1308,
+						"y": 605
+					}
 				]
 			},
 			{
@@ -278,6 +453,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1846,
+						"y": 161
 					}
 				]
 			},
@@ -290,6 +472,13 @@
 					{
 						"name": "Small Pile of Gold 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1784,
+						"y": 208
+					}
 				]
 			},
 			{
@@ -300,6 +489,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 4 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1632,
+						"y": 210
 					}
 				]
 			},
@@ -312,6 +508,13 @@
 					{
 						"name": "Large Pile of Gold 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1522,
+						"y": 150
+					}
 				]
 			},
 			{
@@ -321,6 +524,13 @@
 				"sections": [
 					{
 						"name": "Growth"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1472,
+						"y": 406
 					}
 				]
 			},
@@ -332,6 +542,13 @@
 					{
 						"name": "Runestone"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 843,
+						"y": 743
+					}
 				]
 			},
 			{
@@ -341,6 +558,13 @@
 				"sections": [
 					{
 						"name": "Fruit 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 473,
+						"y": 503
 					}
 				]
 			},
@@ -352,6 +576,13 @@
 					{
 						"name": "Phoenix Familiar"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 333,
+						"y": 560
+					}
 				]
 			},
 			{
@@ -362,6 +593,13 @@
 					{
 						"name": "Death"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 237,
+						"y": 585
+					}
 				]
 			},
 			{
@@ -371,6 +609,13 @@
 				"sections": [
 					{
 						"name": "Key 7"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 91,
+						"y": 460
 					}
 				]
 			},
@@ -383,6 +628,13 @@
 					{
 						"name": "Key 8 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 176,
+						"y": 407
+					}
 				]
 			},
 			{
@@ -393,6 +645,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1590,
+						"y": 325
 					}
 				]
 			},
@@ -405,6 +664,13 @@
 					{
 						"name": "Barrel Meat 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1372,
+						"y": 621
+					}
 				]
 			},
 			{
@@ -415,6 +681,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 388,
+						"y": 811
 					}
 				]
 			},
@@ -427,6 +700,13 @@
 					{
 						"name": "Barrel Key 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 333,
+						"y": 654
+					}
 				]
 			},
 			{
@@ -437,6 +717,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 432,
+						"y": 670
 					}
 				]
 			},
@@ -449,6 +736,13 @@
 					{
 						"name": "Barrel Key 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 294,
+						"y": 393
+					}
 				]
 			},
 			{
@@ -459,6 +753,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 5 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1895,
+						"y": 297
 					}
 				]
 			},
@@ -471,6 +772,13 @@
 					{
 						"name": "Chest Gold 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1622,
+						"y": 149
+					}
 				]
 			},
 			{
@@ -481,6 +789,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1697,
+						"y": 207
 					}
 				]
 			},
@@ -493,6 +808,13 @@
 					{
 						"name": "Chest Meat 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1761,
+						"y": 109
+					}
 				]
 			},
 			{
@@ -503,6 +825,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1430,
+						"y": 773
 					}
 				]
 			},
@@ -515,6 +844,13 @@
 					{
 						"name": "Barrel Nothing 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1397,
+						"y": 786
+					}
 				]
 			},
 			{
@@ -525,6 +861,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1414,
+						"y": 800
 					}
 				]
 			},
@@ -537,6 +880,13 @@
 					{
 						"name": "Barrel Key 7 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1428,
+						"y": 790
+					}
 				]
 			},
 			{
@@ -547,6 +897,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1417,
+						"y": 779
 					}
 				]
 			},
@@ -559,6 +916,13 @@
 					{
 						"name": "Dark Chest Random 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1335,
+						"y": 624
+					}
 				]
 			},
 			{
@@ -569,6 +933,13 @@
 				"sections": [
 					{
 						"name": "Chest Death 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1313,
+						"y": 622
 					}
 				]
 			},
@@ -581,6 +952,13 @@
 					{
 						"name": "Barrel Key 9 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1472,
+						"y": 741
+					}
 				]
 			},
 			{
@@ -591,6 +969,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 10"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1464,
+						"y": 711
 					}
 				]
 			},
@@ -603,6 +988,13 @@
 					{
 						"name": "Barrel Rapid Fire 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1154,
+						"y": 748
+					}
 				]
 			},
 			{
@@ -613,6 +1005,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 923,
+						"y": 874
 					}
 				]
 			},
@@ -625,6 +1024,13 @@
 					{
 						"name": "Barrel Key 11 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1108,
+						"y": 895
+					}
 				]
 			},
 			{
@@ -635,6 +1041,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 12"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1098,
+						"y": 526
 					}
 				]
 			},
@@ -647,6 +1060,13 @@
 					{
 						"name": "Barrel Key 13"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1199,
+						"y": 535
+					}
 				]
 			},
 			{
@@ -657,6 +1077,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 14"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1154,
+						"y": 466
 					}
 				]
 			},
@@ -669,6 +1096,13 @@
 					{
 						"name": "Barrel Key 15 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 703,
+						"y": 904
+					}
 				]
 			},
 			{
@@ -679,6 +1113,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 16 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 764,
+						"y": 923
 					}
 				]
 			},
@@ -691,6 +1132,13 @@
 					{
 						"name": "Chest Gold 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 932,
+						"y": 788
+					}
 				]
 			},
 			{
@@ -701,6 +1149,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 4 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1003,
+						"y": 821
 					}
 				]
 			},
@@ -713,6 +1168,13 @@
 					{
 						"name": "Chest Gold 5 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 993,
+						"y": 714
+					}
 				]
 			},
 			{
@@ -723,6 +1185,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1037,
+						"y": 777
 					}
 				]
 			},
@@ -735,6 +1204,13 @@
 					{
 						"name": "Chest Gold 7"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1038,
+						"y": 792
+					}
 				]
 			},
 			{
@@ -745,6 +1221,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 17"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 901,
+						"y": 479
 					}
 				]
 			},
@@ -757,6 +1240,13 @@
 					{
 						"name": "Chest Super Shot 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1135,
+						"y": 652
+					}
 				]
 			},
 			{
@@ -767,6 +1257,13 @@
 				"sections": [
 					{
 						"name": "Chest Invisibility 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 788,
+						"y": 715
 					}
 				]
 			},
@@ -779,6 +1276,13 @@
 					{
 						"name": "Barrel Nothing 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 969,
+						"y": 677
+					}
 				]
 			},
 			{
@@ -789,6 +1293,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 857,
+						"y": 611
 					}
 				]
 			},
@@ -801,6 +1312,13 @@
 					{
 						"name": "Chest Meat 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 932,
+						"y": 598
+					}
 				]
 			},
 			{
@@ -811,6 +1329,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 836,
+						"y": 603
 					}
 				]
 			},
@@ -823,6 +1348,13 @@
 					{
 						"name": "Chest Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1350,
+						"y": 454
+					}
 				]
 			},
 			{
@@ -833,6 +1365,13 @@
 				"sections": [
 					{
 						"name": "Barrel 3-Way Shot 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1259,
+						"y": 510
 					}
 				]
 			},
@@ -845,6 +1384,13 @@
 					{
 						"name": "Barrel Fruit 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1248,
+						"y": 696
+					}
 				]
 			},
 			{
@@ -855,6 +1401,13 @@
 				"sections": [
 					{
 						"name": "Barrel Shrink 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1219,
+						"y": 710
 					}
 				]
 			},
@@ -867,6 +1420,13 @@
 					{
 						"name": "Barrel Key 18"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1440,
+						"y": 689
+					}
 				]
 			},
 			{
@@ -877,6 +1437,13 @@
 				"sections": [
 					{
 						"name": "Barrel Speed Boots 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1434,
+						"y": 677
 					}
 				]
 			},
@@ -889,6 +1456,13 @@
 					{
 						"name": "Chest 5-Way Shot 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1545,
+						"y": 505
+					}
 				]
 			},
 			{
@@ -899,6 +1473,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1582,
+						"y": 593
 					}
 				]
 			},
@@ -911,6 +1492,13 @@
 					{
 						"name": "Barrel Key 19 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1527,
+						"y": 623
+					}
 				]
 			},
 			{
@@ -921,6 +1509,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1463,
+						"y": 291
 					}
 				]
 			},
@@ -933,6 +1528,13 @@
 					{
 						"name": "Barrel Nothing 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1468,
+						"y": 318
+					}
 				]
 			},
 			{
@@ -943,6 +1545,13 @@
 				"sections": [
 					{
 						"name": "Barrel Growth 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1385,
+						"y": 166
 					}
 				]
 			},
@@ -955,6 +1564,13 @@
 					{
 						"name": "Barrel Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1403,
+						"y": 173
+					}
 				]
 			},
 			{
@@ -965,6 +1581,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1477,
+						"y": 185
 					}
 				]
 			},
@@ -977,6 +1600,13 @@
 					{
 						"name": "Barrel Scroll 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1397,
+						"y": 424
+					}
 				]
 			},
 			{
@@ -988,27 +1618,48 @@
 					{
 						"name": "Barrel Key 20"
 					}
-				]
-			},
-			{
-				"name": "Chest Potion 1 (Dif. 3)",
-				"chest_unopened_img": "/images/items/chest.png",
-				"chest_opened_img": "/images/items/chest_open.png",
-				"visibility_rules": [ "$chestShuffle,$difficulty3Enabled" ],
-				"sections": [
+				],
+				"map_locations": [
 					{
-						"name": "Chest Potion 1 (Dif. 3)"
+						"map": "Frozen Camp",
+						"x": 1393,
+						"y": 265
 					}
 				]
 			},
 			{
-				"name": "Chest Gold 9 (Dif. 4)",
-				"chest_unopened_img": "/images/items/chest.png",
-				"chest_opened_img": "/images/items/chest_open.png",
-				"visibility_rules": [ "$chestShuffle,$difficulty4Enabled" ],
+				"name": "Barrel Potion 2 (Dif. 3)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty3Enabled" ],
 				"sections": [
 					{
-						"name": "Chest Gold 9 (Dif. 4)"
+						"name": "Barrel Potion 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1404,
+						"y": 388
+					}
+				]
+			},
+			{
+				"name": "Barrel Gold 2 (Dif. 4)",
+				"chest_unopened_img": "/images/items/barrel.png",
+				"chest_opened_img": "/images/items/barrel_open.png",
+				"visibility_rules": [ "$barrelShuffle,$difficulty4Enabled" ],
+				"sections": [
+					{
+						"name": "Barrel Gold 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1403,
+						"y": 445
 					}
 				]
 			},
@@ -1021,6 +1672,13 @@
 					{
 						"name": "Barrel Key 21 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 767,
+						"y": 706
+					}
 				]
 			},
 			{
@@ -1031,6 +1689,13 @@
 				"sections": [
 					{
 						"name": "Barrel Reflective Shield 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 660,
+						"y": 842
 					}
 				]
 			},
@@ -1043,6 +1708,13 @@
 					{
 						"name": "Chest Thunder Hammer 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 695,
+						"y": 443
+					}
 				]
 			},
 			{
@@ -1053,6 +1725,13 @@
 				"sections": [
 					{
 						"name": "Chest Lightning Amulet 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 672,
+						"y": 420
 					}
 				]
 			},
@@ -1065,6 +1744,13 @@
 					{
 						"name": "Chest Meat 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 336,
+						"y": 729
+					}
 				]
 			},
 			{
@@ -1075,6 +1761,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 430,
+						"y": 742
 					}
 				]
 			},
@@ -1087,6 +1780,13 @@
 					{
 						"name": "Barrel Scroll 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 441,
+						"y": 743
+					}
 				]
 			},
 			{
@@ -1097,6 +1797,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 22 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 443,
+						"y": 661
 					}
 				]
 			},
@@ -1109,6 +1816,13 @@
 					{
 						"name": "Chest Gold 10 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 461,
+						"y": 601
+					}
 				]
 			},
 			{
@@ -1119,6 +1833,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 464,
+						"y": 559
 					}
 				]
 			},
@@ -1131,6 +1852,13 @@
 					{
 						"name": "Barrel Fruit 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 464,
+						"y": 541
+					}
 				]
 			},
 			{
@@ -1141,6 +1869,13 @@
 				"sections": [
 					{
 						"name": "Chest Acid Amulet 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 476,
+						"y": 451
 					}
 				]
 			},
@@ -1153,6 +1888,13 @@
 					{
 						"name": "Barrel Gold 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 443,
+						"y": 445
+					}
 				]
 			},
 			{
@@ -1163,6 +1905,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 23"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 431,
+						"y": 441
 					}
 				]
 			},
@@ -1175,6 +1924,13 @@
 					{
 						"name": "Chest Gold 11 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 364,
+						"y": 641
+					}
 				]
 			},
 			{
@@ -1185,6 +1941,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 345,
+						"y": 640
 					}
 				]
 			},
@@ -1197,6 +1960,13 @@
 					{
 						"name": "Chest Potion 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 798,
+						"y": 919
+					}
 				]
 			},
 			{
@@ -1207,6 +1977,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 12"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1055,
+						"y": 533
 					}
 				]
 			},
@@ -1219,6 +1996,13 @@
 					{
 						"name": "Chest Speed Boots 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1029,
+						"y": 533
+					}
 				]
 			},
 			{
@@ -1230,6 +2014,13 @@
 					{
 						"name": "Chest Invulnerability 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 1087,
+						"y": 959
+					}
 				]
 			},
 			{
@@ -1240,6 +2031,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Frozen Camp",
+						"x": 989,
+						"y": 679
 					}
 				]
 			}

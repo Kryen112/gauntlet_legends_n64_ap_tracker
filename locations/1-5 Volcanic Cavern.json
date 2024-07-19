@@ -12,6 +12,13 @@
 					{
 						"name": "Key 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 314,
+						"y": 228
+					}
 				]
 			},
 			{
@@ -21,6 +28,13 @@
 				"sections": [
 					{
 						"name": "Scimitar of Decapitation"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 779,
+						"y": 453
 					}
 				]
 			},
@@ -32,6 +46,13 @@
 					{
 						"name": "Runestone"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 387,
+						"y": 412
+					}
 				]
 			},
 			{
@@ -41,6 +62,13 @@
 				"sections": [
 					{
 						"name": "Key 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 76,
+						"y": 313
 					}
 				]
 			},
@@ -53,6 +81,13 @@
 					{
 						"name": "Key 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 603,
+						"y": 349
+					}
 				]
 			},
 			{
@@ -62,6 +97,13 @@
 				"sections": [
 					{
 						"name": "Fire Potion 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 521,
+						"y": 41
 					}
 				]
 			},
@@ -73,6 +115,13 @@
 					{
 						"name": "Key 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 190,
+						"y": 79
+					}
 				]
 			},
 			{
@@ -83,6 +132,13 @@
 					{
 						"name": "Key 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 321,
+						"y": 56
+					}
 				]
 			},
 			{
@@ -92,6 +148,13 @@
 				"sections": [
 					{
 						"name": "Key 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 370,
+						"y": 403
 					}
 				]
 			},
@@ -104,6 +167,13 @@
 					{
 						"name": "Key 7 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 382,
+						"y": 393
+					}
 				]
 			},
 			{
@@ -115,6 +185,13 @@
 					{
 						"name": "Key 8 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 707,
+						"y": 312
+					}
 				]
 			},
 			{
@@ -124,6 +201,13 @@
 				"sections": [
 					{
 						"name": "Key 9"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 782,
+						"y": 178
 					}
 				]
 			},
@@ -136,6 +220,13 @@
 					{
 						"name": "Large Pile of Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 761,
+						"y": 361
+					}
 				]
 			},
 			{
@@ -145,6 +236,13 @@
 				"sections": [
 					{
 						"name": "Small Pile of Gold 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 795,
+						"y": 342
 					}
 				]
 			},
@@ -157,6 +255,13 @@
 					{
 						"name": "Half Barrel of Gold 1 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 762,
+						"y": 379
+					}
 				]
 			},
 			{
@@ -166,6 +271,13 @@
 				"sections": [
 					{
 						"name": "Key 10"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 244,
+						"y": 35
 					}
 				]
 			},
@@ -178,6 +290,13 @@
 					{
 						"name": "Key 11 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 780,
+						"y": 83
+					}
 				]
 			},
 			{
@@ -188,6 +307,13 @@
 				"sections": [
 					{
 						"name": "Key 12 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 43,
+						"y": 291
 					}
 				]
 			},
@@ -200,6 +326,13 @@
 					{
 						"name": "Key 13 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 33,
+						"y": 353
+					}
 				]
 			},
 			{
@@ -209,6 +342,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 300,
+						"y": 90
 					}
 				]
 			},
@@ -221,6 +361,13 @@
 					{
 						"name": "Key 14 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 360,
+						"y": 30
+					}
 				]
 			},
 			{
@@ -231,6 +378,13 @@
 				"sections": [
 					{
 						"name": "Key 15 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 367,
+						"y": 77
 					}
 				]
 			},
@@ -243,6 +397,13 @@
 					{
 						"name": "Full Barrel of Gold 2 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 656,
+						"y": 451
+					}
 				]
 			},
 			{
@@ -252,6 +413,13 @@
 				"sections": [
 					{
 						"name": "Small Pile of Gold 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 568,
+						"y": 486
 					}
 				]
 			},
@@ -264,6 +432,13 @@
 					{
 						"name": "Death (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 709,
+						"y": 405
+					}
 				]
 			},
 			{
@@ -274,6 +449,13 @@
 				"sections": [
 					{
 						"name": "Key 16 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 120,
+						"y": 299
 					}
 				]
 			},
@@ -286,6 +468,13 @@
 					{
 						"name": "Key 17 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 185,
+						"y": 400
+					}
 				]
 			},
 			{
@@ -296,6 +485,13 @@
 				"sections": [
 					{
 						"name": "Key 18 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 545,
+						"y": 409
 					}
 				]
 			},
@@ -308,6 +504,13 @@
 					{
 						"name": "Key 19 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 475,
+						"y": 442
+					}
 				]
 			},
 			{
@@ -318,6 +521,13 @@
 				"sections": [
 					{
 						"name": "Key 20 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 215,
+						"y": 178
 					}
 				]
 			},
@@ -330,6 +540,13 @@
 					{
 						"name": "Fire Potion 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 659,
+						"y": 173
+					}
 				]
 			},
 			{
@@ -340,6 +557,13 @@
 				"sections": [
 					{
 						"name": "5-Way Shot (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 234,
+						"y": 338
 					}
 				]
 			},
@@ -352,6 +576,13 @@
 					{
 						"name": "Invisibility (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 198,
+						"y": 150
+					}
 				]
 			},
 			{
@@ -362,6 +593,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 829,
+						"y": 217
 					}
 				]
 			},
@@ -374,6 +612,13 @@
 					{
 						"name": "Barrel Key 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 670,
+						"y": 200
+					}
 				]
 			},
 			{
@@ -384,6 +629,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 765,
+						"y": 487
 					}
 				]
 			},
@@ -396,16 +648,30 @@
 					{
 						"name": "Barrel Lightning Amulet 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 671,
+						"y": 459
+					}
 				]
 			},
 			{
-				"name": "Chest Electric Shield 1",
+				"name": "Chest Lightning Shield 1",
 				"chest_unopened_img": "/images/items/chest.png",
 				"chest_opened_img": "/images/items/chest_open.png",
 				"visibility_rules": [ "$chestShuffle" ],
 				"sections": [
 					{
-						"name": "Chest Electric Shield 1"
+						"name": "Chest Lightning Shield 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 496,
+						"y": 449
 					}
 				]
 			},
@@ -418,6 +684,13 @@
 					{
 						"name": "Barrel Fruit 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 797,
+						"y": 211
+					}
 				]
 			},
 			{
@@ -428,6 +701,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 65,
+						"y": 295
 					}
 				]
 			},
@@ -440,6 +720,13 @@
 					{
 						"name": "Barrel Nothing 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 34,
+						"y": 332
+					}
 				]
 			},
 			{
@@ -450,6 +737,13 @@
 				"sections": [
 					{
 						"name": "Chest Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 577,
+						"y": 365
 					}
 				]
 			},
@@ -462,6 +756,13 @@
 					{
 						"name": "Dark Chest Random 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 229,
+						"y": 394
+					}
 				]
 			},
 			{
@@ -472,6 +773,13 @@
 				"sections": [
 					{
 						"name": "Chest Death 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 310,
+						"y": 68
 					}
 				]
 			},
@@ -484,6 +792,13 @@
 					{
 						"name": "Chest Fruit 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 293,
+						"y": 53
+					}
 				]
 			},
 			{
@@ -494,6 +809,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 371,
+						"y": 32
 					}
 				]
 			},
@@ -506,6 +828,13 @@
 					{
 						"name": "Chest Poison Fruit 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 811,
+						"y": 125
+					}
 				]
 			},
 			{
@@ -516,6 +845,13 @@
 				"sections": [
 					{
 						"name": "Chest Super Shot 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 815,
+						"y": 107
 					}
 				]
 			},
@@ -528,6 +864,13 @@
 					{
 						"name": "Barrel Nothing 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 639,
+						"y": 232
+					}
 				]
 			},
 			{
@@ -538,6 +881,13 @@
 				"sections": [
 					{
 						"name": "Barrel Poison Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 26,
+						"y": 290
 					}
 				]
 			},
@@ -550,6 +900,13 @@
 					{
 						"name": "Barrel Anti-Death Halo 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 721,
+						"y": 426
+					}
 				]
 			},
 			{
@@ -560,6 +917,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 90,
+						"y": 276
 					}
 				]
 			},
@@ -572,6 +936,13 @@
 					{
 						"name": "Chest 3-Way Shot 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 217,
+						"y": 34
+					}
 				]
 			},
 			{
@@ -582,6 +953,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 237,
+						"y": 79
 					}
 				]
 			},
@@ -594,6 +972,13 @@
 					{
 						"name": "Chest Timestop 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 559,
+						"y": 411
+					}
 				]
 			},
 			{
@@ -604,6 +989,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 399,
+						"y": 397
 					}
 				]
 			},
@@ -616,6 +1008,13 @@
 					{
 						"name": "Barrel Potion 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 560,
+						"y": 445
+					}
 				]
 			},
 			{
@@ -626,6 +1025,13 @@
 				"sections": [
 					{
 						"name": "Barrel Meat 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 321,
+						"y": 26
 					}
 				]
 			},
@@ -638,6 +1044,13 @@
 					{
 						"name": "Chest Potion 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 61,
+						"y": 347
+					}
 				]
 			},
 			{
@@ -648,6 +1061,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 37,
+						"y": 323
 					}
 				]
 			},
@@ -660,6 +1080,13 @@
 					{
 						"name": "Chest Fruit 4 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 91,
+						"y": 332
+					}
 				]
 			},
 			{
@@ -670,6 +1097,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 119,
+						"y": 282
 					}
 				]
 			},
@@ -682,6 +1116,13 @@
 					{
 						"name": "Barrel Nothing 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 28,
+						"y": 307
+					}
 				]
 			},
 			{
@@ -692,6 +1133,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 22,
+						"y": 277
 					}
 				]
 			},
@@ -704,6 +1152,13 @@
 					{
 						"name": "Chest Gold 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 75,
+						"y": 162
+					}
 				]
 			},
 			{
@@ -714,6 +1169,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 324,
+						"y": 76
 					}
 				]
 			},
@@ -726,6 +1188,13 @@
 					{
 						"name": "Chest Meat 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 293,
+						"y": 25
+					}
 				]
 			},
 			{
@@ -736,6 +1205,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 484,
+						"y": 93
 					}
 				]
 			},
@@ -748,6 +1224,13 @@
 					{
 						"name": "Barrel Meat 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 491,
+						"y": 193
+					}
 				]
 			},
 			{
@@ -758,6 +1241,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 558,
+						"y": 351
 					}
 				]
 			},
@@ -770,6 +1260,13 @@
 					{
 						"name": "Barrel Gold 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 580,
+						"y": 473
+					}
 				]
 			},
 			{
@@ -780,6 +1277,13 @@
 				"sections": [
 					{
 						"name": "Chest Lightning Breath 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 372,
+						"y": 425
 					}
 				]
 			},
@@ -792,6 +1296,13 @@
 					{
 						"name": "Chest Fruit 5 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 398,
+						"y": 407
+					}
 				]
 			},
 			{
@@ -802,6 +1313,13 @@
 				"sections": [
 					{
 						"name": "Chest Speed Boots 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 361,
+						"y": 415
 					}
 				]
 			},
@@ -814,6 +1332,13 @@
 					{
 						"name": "Chest Potion 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 819,
+						"y": 143
+					}
 				]
 			},
 			{
@@ -824,6 +1349,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 764,
+						"y": 145
 					}
 				]
 			},
@@ -836,6 +1368,13 @@
 					{
 						"name": "Barrel Potion 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 78,
+						"y": 230
+					}
 				]
 			},
 			{
@@ -846,6 +1385,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 387,
+						"y": 428
 					}
 				]
 			},
@@ -858,6 +1404,13 @@
 					{
 						"name": "Barrel Meat 3 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 692,
+						"y": 311
+					}
 				]
 			},
 			{
@@ -868,6 +1421,13 @@
 				"sections": [
 					{
 						"name": "Chest Phoenix Familiar 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 678,
+						"y": 295
 					}
 				]
 			},
@@ -880,6 +1440,13 @@
 					{
 						"name": "Barrel Nothing 5 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 527,
+						"y": 67
+					}
 				]
 			},
 			{
@@ -890,6 +1457,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 6 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 186,
+						"y": 116
 					}
 				]
 			},
@@ -902,6 +1476,13 @@
 					{
 						"name": "Barrel Nothing 7 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 354,
+						"y": 181
+					}
 				]
 			},
 			{
@@ -912,6 +1493,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 377,
+						"y": 40
 					}
 				]
 			},
@@ -924,6 +1512,13 @@
 					{
 						"name": "Barrel Nothing 9 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 380,
+						"y": 56
+					}
 				]
 			},
 			{
@@ -934,6 +1529,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 10 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 558,
+						"y": 330
 					}
 				]
 			},
@@ -946,6 +1548,13 @@
 					{
 						"name": "Barrel Nothing 11 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 730,
+						"y": 415
+					}
 				]
 			},
 			{
@@ -956,6 +1565,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 551,
+						"y": 467
 					}
 				]
 			},
@@ -968,6 +1584,13 @@
 					{
 						"name": "Barrel Nothing 12 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 536,
+						"y": 462
+					}
 				]
 			},
 			{
@@ -978,6 +1601,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 13 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Volcanic Cavern",
+						"x": 528,
+						"y": 404
 					}
 				]
 			}

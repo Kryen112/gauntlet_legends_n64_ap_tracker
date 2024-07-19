@@ -13,6 +13,13 @@
 					{
 						"name": "Runestone"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 250,
+						"y": 375
+					}
 				]
 			},
 			{
@@ -22,6 +29,13 @@
 				"sections": [
 					{
 						"name": "Key 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 457,
+						"y": 203
 					}
 				]
 			},
@@ -33,6 +47,13 @@
 					{
 						"name": "Key 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 282,
+						"y": 292
+					}
 				]
 			},
 			{
@@ -42,6 +63,13 @@
 				"sections": [
 					{
 						"name": "Key 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 172,
+						"y": 280
 					}
 				]
 			},
@@ -53,6 +81,13 @@
 					{
 						"name": "Key 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 115,
+						"y": 204
+					}
 				]
 			},
 			{
@@ -62,6 +97,13 @@
 				"sections": [
 					{
 						"name": "Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 432,
+						"y": 424
 					}
 				]
 			},
@@ -73,6 +115,13 @@
 					{
 						"name": "Key 6"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 717,
+						"y": 583
+					}
 				]
 			},
 			{
@@ -82,6 +131,13 @@
 				"sections": [
 					{
 						"name": "Key 7"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 685,
+						"y": 455
 					}
 				]
 			},
@@ -93,6 +149,13 @@
 					{
 						"name": "Key 8"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 270,
+						"y": 36
+					}
 				]
 			},
 			{
@@ -103,6 +166,13 @@
 					{
 						"name": "Key 9"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 514,
+						"y": 522
+					}
 				]
 			},
 			{
@@ -112,6 +182,13 @@
 				"sections": [
 					{
 						"name": "Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 673,
+						"y": 205
 					}
 				]
 			},
@@ -124,6 +201,13 @@
 					{
 						"name": "Full Barrel of Gold 1 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 36,
+						"y": 556
+					}
 				]
 			},
 			{
@@ -134,6 +218,13 @@
 					{
 						"name": "Lightning Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 395,
+						"y": 97
+					}
 				]
 			},
 			{
@@ -143,6 +234,13 @@
 				"sections": [
 					{
 						"name": "Key 10"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 260,
+						"y": 250
 					}
 				]
 			},
@@ -155,6 +253,13 @@
 					{
 						"name": "Lightning Potion 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 299,
+						"y": 344
+					}
 				]
 			},
 			{
@@ -165,6 +270,13 @@
 					{
 						"name": "Scroll 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 347,
+						"y": 386
+					}
 				]
 			},
 			{
@@ -174,6 +286,13 @@
 				"sections": [
 					{
 						"name": "Poison Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 340,
+						"y": 447
 					}
 				]
 			},
@@ -186,6 +305,13 @@
 					{
 						"name": "Key 11 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 490,
+						"y": 151
+					}
 				]
 			},
 			{
@@ -195,6 +321,13 @@
 				"sections": [
 					{
 						"name": "Key 12"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 769,
+						"y": 492
 					}
 				]
 			},
@@ -207,6 +340,13 @@
 					{
 						"name": "Key 13 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 712,
+						"y": 105
+					}
 				]
 			},
 			{
@@ -217,6 +357,13 @@
 				"sections": [
 					{
 						"name": "Key 14 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 68,
+						"y": 221
 					}
 				]
 			},
@@ -229,6 +376,13 @@
 					{
 						"name": "Large Pile of Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 37,
+						"y": 618
+					}
 				]
 			},
 			{
@@ -238,6 +392,13 @@
 				"sections": [
 					{
 						"name": "Key 15"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 283,
+						"y": 407
 					}
 				]
 			},
@@ -250,6 +411,13 @@
 					{
 						"name": "Key 16 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 112,
+						"y": 419
+					}
 				]
 			},
 			{
@@ -259,6 +427,13 @@
 				"sections": [
 					{
 						"name": "Death 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 170,
+						"y": 421
 					}
 				]
 			},
@@ -271,6 +446,13 @@
 					{
 						"name": "Death 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 722,
+						"y": 455
+					}
 				]
 			},
 			{
@@ -280,6 +462,13 @@
 				"sections": [
 					{
 						"name": "Invulnerability"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 114,
+						"y": 383
 					}
 				]
 			},
@@ -292,6 +481,13 @@
 					{
 						"name": "Half Barrel of Gold 1 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 47,
+						"y": 108
+					}
 				]
 			},
 			{
@@ -302,6 +498,13 @@
 				"sections": [
 					{
 						"name": "Lightning Potion 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 142,
+						"y": 281
 					}
 				]
 			},
@@ -314,6 +517,13 @@
 					{
 						"name": "Timestop (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 173,
+						"y": 357
+					}
 				]
 			},
 			{
@@ -325,6 +535,13 @@
 					{
 						"name": "Super Shot (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 768,
+						"y": 324
+					}
 				]
 			},
 			{
@@ -334,6 +551,13 @@
 				"sections": [
 					{
 						"name": "Phoenix Familiar"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 823,
+						"y": 46
 					}
 				]
 			},
@@ -346,6 +570,13 @@
 					{
 						"name": "Fire Breath (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 60,
+						"y": 51
+					}
 				]
 			},
 			{
@@ -356,6 +587,13 @@
 				"sections": [
 					{
 						"name": "Key 17 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 706,
+						"y": 243
 					}
 				]
 			},
@@ -368,6 +606,13 @@
 					{
 						"name": "Key 18 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 578,
+						"y": 104
+					}
 				]
 			},
 			{
@@ -379,6 +624,13 @@
 					{
 						"name": "Key 19 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 153,
+						"y": 564
+					}
 				]
 			},
 			{
@@ -388,6 +640,13 @@
 				"sections": [
 					{
 						"name": "Lightning Shield"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 402,
+						"y": 548
 					}
 				]
 			},
@@ -400,6 +659,13 @@
 					{
 						"name": "Obelisk"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 24,
+						"y": 608
+					}
 				]
 			},
 			{
@@ -410,6 +676,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 722,
+						"y": 505
 					}
 				]
 			},
@@ -422,6 +695,13 @@
 					{
 						"name": "Chest Shrink 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 490,
+						"y": 203
+					}
 				]
 			},
 			{
@@ -432,6 +712,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 302,
+						"y": 154
 					}
 				]
 			},
@@ -444,6 +731,13 @@
 					{
 						"name": "Barrel Nothing 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 719,
+						"y": 414
+					}
 				]
 			},
 			{
@@ -454,6 +748,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 577,
+						"y": 451
 					}
 				]
 			},
@@ -466,6 +767,13 @@
 					{
 						"name": "Barrel Fruit 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 167,
+						"y": 144
+					}
 				]
 			},
 			{
@@ -476,6 +784,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 817,
+						"y": 595
 					}
 				]
 			},
@@ -488,6 +803,13 @@
 					{
 						"name": "Barrel Nothing 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 722,
+						"y": 539
+					}
 				]
 			},
 			{
@@ -498,6 +820,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 573,
+						"y": 536
 					}
 				]
 			},
@@ -510,6 +839,13 @@
 					{
 						"name": "Barrel Poison Fruit 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 599,
+						"y": 287
+					}
 				]
 			},
 			{
@@ -520,6 +856,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 5 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 247,
+						"y": 504
 					}
 				]
 			},
@@ -532,6 +875,13 @@
 					{
 						"name": "Barrel Gold 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 653,
+						"y": 483
+					}
 				]
 			},
 			{
@@ -542,6 +892,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 807,
+						"y": 106
 					}
 				]
 			},
@@ -554,6 +911,13 @@
 					{
 						"name": "Chest Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 111,
+						"y": 187
+					}
 				]
 			},
 			{
@@ -564,6 +928,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 200,
+						"y": 194
 					}
 				]
 			},
@@ -576,6 +947,13 @@
 					{
 						"name": "Chest Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 531,
+						"y": 279
+					}
 				]
 			},
 			{
@@ -586,6 +964,13 @@
 				"sections": [
 					{
 						"name": "Chest Nothing 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 561,
+						"y": 150
 					}
 				]
 			},
@@ -598,6 +983,13 @@
 					{
 						"name": "Chest Reflective Shot 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 569,
+						"y": 375
+					}
 				]
 			},
 			{
@@ -608,6 +1000,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 665,
+						"y": 245
 					}
 				]
 			},
@@ -620,6 +1019,13 @@
 					{
 						"name": "Chest Death 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 687,
+						"y": 153
+					}
 				]
 			},
 			{
@@ -630,6 +1036,13 @@
 				"sections": [
 					{
 						"name": "Chest Speed Boots 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 79,
+						"y": 616
 					}
 				]
 			},
@@ -642,6 +1055,13 @@
 					{
 						"name": "Barrel Invisibility 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 395,
+						"y": 86
+					}
 				]
 			},
 			{
@@ -652,6 +1072,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 482,
+						"y": 310
 					}
 				]
 			},
@@ -664,6 +1091,13 @@
 					{
 						"name": "Barrel Gold 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 429,
+						"y": 45
+					}
 				]
 			},
 			{
@@ -674,6 +1108,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 297,
+						"y": 247
 					}
 				]
 			},
@@ -686,6 +1127,13 @@
 					{
 						"name": "Barrel Fruit 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 440,
+						"y": 332
+					}
 				]
 			},
 			{
@@ -696,6 +1144,13 @@
 				"sections": [
 					{
 						"name": "Chest Scroll 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 432,
+						"y": 203
 					}
 				]
 			},
@@ -708,6 +1163,13 @@
 					{
 						"name": "Chest Potion 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 434,
+						"y": 106
+					}
 				]
 			},
 			{
@@ -718,6 +1180,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 381,
+						"y": 110
 					}
 				]
 			},
@@ -730,6 +1199,13 @@
 					{
 						"name": "Barrel Key 5 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 490,
+						"y": 121
+					}
 				]
 			},
 			{
@@ -740,6 +1216,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 364,
+						"y": 199
 					}
 				]
 			},
@@ -752,6 +1235,13 @@
 					{
 						"name": "Chest Meat 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 770,
+						"y": 624
+					}
 				]
 			},
 			{
@@ -762,6 +1252,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 512,
+						"y": 570
 					}
 				]
 			},
@@ -774,6 +1271,13 @@
 					{
 						"name": "Chest Gold 4 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 784,
+						"y": 49
+					}
 				]
 			},
 			{
@@ -784,6 +1288,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 531,
+						"y": 19
 					}
 				]
 			},
@@ -796,6 +1307,13 @@
 					{
 						"name": "Chest Meat 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 530,
+						"y": 49
+					}
 				]
 			},
 			{
@@ -806,6 +1324,13 @@
 				"sections": [
 					{
 						"name": "Chest Lightning Amulet 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 302,
+						"y": 20
 					}
 				]
 			},
@@ -818,6 +1343,13 @@
 					{
 						"name": "Chest Fruit 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 272,
+						"y": 55
+					}
 				]
 			},
 			{
@@ -828,6 +1360,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 7 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 344,
+						"y": 45
 					}
 				]
 			},
@@ -840,6 +1379,13 @@
 					{
 						"name": "Chest Potion 3 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 27,
+						"y": 108
+					}
 				]
 			},
 			{
@@ -850,6 +1396,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 42,
+						"y": 51
 					}
 				]
 			},
@@ -862,6 +1415,13 @@
 					{
 						"name": "Barrel Key 8 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 598,
+						"y": 244
+					}
 				]
 			},
 			{
@@ -872,6 +1432,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 9"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 617,
+						"y": 151
 					}
 				]
 			},
@@ -884,6 +1451,13 @@
 					{
 						"name": "Chest Fruit 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 405,
+						"y": 424
+					}
 				]
 			},
 			{
@@ -894,6 +1468,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 369,
+						"y": 426
 					}
 				]
 			},
@@ -906,6 +1487,13 @@
 					{
 						"name": "Chest Meat 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 387,
+						"y": 585
+					}
 				]
 			},
 			{
@@ -916,6 +1504,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 10 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 378,
+						"y": 159
 					}
 				]
 			},
@@ -928,6 +1523,13 @@
 					{
 						"name": "Barrel 3-Way Shot 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 622,
+						"y": 537
+					}
 				]
 			},
 			{
@@ -938,6 +1540,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 7 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 160,
+						"y": 505
 					}
 				]
 			},
@@ -950,6 +1559,13 @@
 					{
 						"name": "Barrel Lightning Breath 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 757,
+						"y": 615
+					}
 				]
 			},
 			{
@@ -960,6 +1576,13 @@
 				"sections": [
 					{
 						"name": "Barrel Poison Fruit 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 682,
+						"y": 496
 					}
 				]
 			},
@@ -972,6 +1595,13 @@
 					{
 						"name": "Barrel Nothing 8 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 683,
+						"y": 484
+					}
 				]
 			},
 			{
@@ -982,6 +1612,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 9 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 529,
+						"y": 433
 					}
 				]
 			},
@@ -994,6 +1631,13 @@
 					{
 						"name": "Barrel Key 11 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 531,
+						"y": 256
+					}
 				]
 			},
 			{
@@ -1004,6 +1648,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 10 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 660,
+						"y": 153
 					}
 				]
 			},
@@ -1016,6 +1667,13 @@
 					{
 						"name": "Barrel Nothing 11 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 717,
+						"y": 151
+					}
 				]
 			},
 			{
@@ -1027,6 +1685,13 @@
 					{
 						"name": "Barrel Nothing 12"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 731,
+						"y": 160
+					}
 				]
 			},
 			{
@@ -1037,6 +1702,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 12 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Courtyard",
+						"x": 718,
+						"y": 194
 					}
 				]
 			}

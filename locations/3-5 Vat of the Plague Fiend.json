@@ -13,6 +13,13 @@
 					{
 						"name": "Plague Fiend Mirror Shard"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Vat of the Plague Fiend",
+						"x": 178,
+						"y": 87
+					}
 				]
 			}
 		]

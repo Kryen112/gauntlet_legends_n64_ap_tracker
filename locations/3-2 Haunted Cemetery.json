@@ -13,6 +13,13 @@
 					{
 						"name": "Acid Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 397,
+						"y": 689
+					}
 				]
 			},
 			{
@@ -23,6 +30,13 @@
 					{
 						"name": "Runestone"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 522,
+						"y": 449
+					}
 				]
 			},
 			{
@@ -32,6 +46,13 @@
 				"sections": [
 					{
 						"name": "Small Pile of Gold"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 367,
+						"y": 767
 					}
 				]
 			},
@@ -44,6 +65,13 @@
 					{
 						"name": "Key 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 71,
+						"y": 717
+					}
 				]
 			},
 			{
@@ -54,6 +82,13 @@
 					{
 						"name": "Acid Potion 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 737,
+						"y": 652
+					}
 				]
 			},
 			{
@@ -63,6 +98,13 @@
 				"sections": [
 					{
 						"name": "3-Way Shot"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 452,
+						"y": 822
 					}
 				]
 			},
@@ -75,6 +117,13 @@
 					{
 						"name": "Key 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 524,
+						"y": 723
+					}
 				]
 			},
 			{
@@ -86,6 +135,13 @@
 					{
 						"name": "Key 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 580,
+						"y": 205
+					}
 				]
 			},
 			{
@@ -95,6 +151,13 @@
 				"sections": [
 					{
 						"name": "Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 38,
+						"y": 631
 					}
 				]
 			},
@@ -107,6 +170,13 @@
 					{
 						"name": "Key 5 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 368,
+						"y": 793
+					}
 				]
 			},
 			{
@@ -116,6 +186,13 @@
 				"sections": [
 					{
 						"name": "Key 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 76,
+						"y": 738
 					}
 				]
 			},
@@ -128,6 +205,13 @@
 					{
 						"name": "Key 7 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 335,
+						"y": 384
+					}
 				]
 			},
 			{
@@ -138,6 +222,13 @@
 				"sections": [
 					{
 						"name": "Speed Boots (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 441,
+						"y": 805
 					}
 				]
 			},
@@ -150,6 +241,13 @@
 					{
 						"name": "Key 8 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 317,
+						"y": 357
+					}
 				]
 			},
 			{
@@ -159,6 +257,13 @@
 				"sections": [
 					{
 						"name": "Death 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 523,
+						"y": 359
 					}
 				]
 			},
@@ -170,6 +275,13 @@
 					{
 						"name": "Phoenix Familiar"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 292,
+						"y": 428
+					}
 				]
 			},
 			{
@@ -179,6 +291,13 @@
 				"sections": [
 					{
 						"name": "Timestop"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 579,
+						"y": 216
 					}
 				]
 			},
@@ -191,6 +310,13 @@
 					{
 						"name": "Fire Amulet (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 720,
+						"y": 716
+					}
 				]
 			},
 			{
@@ -201,6 +327,13 @@
 				"sections": [
 					{
 						"name": "Death 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 441,
+						"y": 789
 					}
 				]
 			},
@@ -213,6 +346,13 @@
 					{
 						"name": "Obelisk"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 38,
+						"y": 741
+					}
 				]
 			},
 			{
@@ -223,6 +363,13 @@
 				"sections": [
 					{
 						"name": "Barrel Invulnerability 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 665,
+						"y": 593
 					}
 				]
 			},
@@ -235,6 +382,13 @@
 					{
 						"name": "Barrel Fire Shield 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 16,
+						"y": 721
+					}
 				]
 			},
 			{
@@ -245,6 +399,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 698,
+						"y": 421
 					}
 				]
 			},
@@ -257,6 +418,13 @@
 					{
 						"name": "Barrel Meat 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 669,
+						"y": 706
+					}
 				]
 			},
 			{
@@ -267,6 +435,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 740,
+						"y": 537
 					}
 				]
 			},
@@ -279,6 +454,13 @@
 					{
 						"name": "Barrel Potion 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 49,
+						"y": 444
+					}
 				]
 			},
 			{
@@ -289,6 +471,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 666,
+						"y": 387
 					}
 				]
 			},
@@ -301,6 +490,13 @@
 					{
 						"name": "Chest Potion 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 669,
+						"y": 669
+					}
 				]
 			},
 			{
@@ -311,6 +507,13 @@
 				"sections": [
 					{
 						"name": "Barrel Poison Fruit 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 48,
+						"y": 419
 					}
 				]
 			},
@@ -323,6 +526,13 @@
 					{
 						"name": "Barrel Key 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 39,
+						"y": 321
+					}
 				]
 			},
 			{
@@ -333,6 +543,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 98,
+						"y": 40
 					}
 				]
 			},
@@ -345,6 +562,13 @@
 					{
 						"name": "Barrel Key 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 343,
+						"y": 482
+					}
 				]
 			},
 			{
@@ -355,6 +579,13 @@
 				"sections": [
 					{
 						"name": "Chest Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 624,
+						"y": 233
 					}
 				]
 			},
@@ -367,6 +598,13 @@
 					{
 						"name": "Barrel Poison Fruit 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 395,
+						"y": 364
+					}
 				]
 			},
 			{
@@ -377,6 +615,13 @@
 				"sections": [
 					{
 						"name": "Barrel Poison Fruit 3 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 462,
+						"y": 955
 					}
 				]
 			},
@@ -389,6 +634,13 @@
 					{
 						"name": "Chest Rapid Fire 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 749,
+						"y": 688
+					}
 				]
 			},
 			{
@@ -399,6 +651,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 721,
+						"y": 447
 					}
 				]
 			},
@@ -411,6 +670,13 @@
 					{
 						"name": "Chest Shrink 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 81,
+						"y": 321
+					}
 				]
 			},
 			{
@@ -421,6 +687,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 114,
+						"y": 638
 					}
 				]
 			},
@@ -433,6 +706,13 @@
 					{
 						"name": "Barrel Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 308,
+						"y": 453
+					}
 				]
 			},
 			{
@@ -443,6 +723,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 77,
+						"y": 379
 					}
 				]
 			},
@@ -455,6 +742,13 @@
 					{
 						"name": "Barrel Meat 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 15,
+						"y": 604
+					}
 				]
 			},
 			{
@@ -465,6 +759,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 481,
+						"y": 895
 					}
 				]
 			},
@@ -477,6 +778,13 @@
 					{
 						"name": "Barrel Key 4 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 438,
+						"y": 879
+					}
 				]
 			},
 			{
@@ -487,6 +795,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 452,
+						"y": 767
 					}
 				]
 			},
@@ -499,6 +814,13 @@
 					{
 						"name": "Barrel Death 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 685,
+						"y": 552
+					}
 				]
 			},
 			{
@@ -509,6 +831,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 738,
+						"y": 547
 					}
 				]
 			},
@@ -521,6 +850,13 @@
 					{
 						"name": "Chest Levitate 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 750,
+						"y": 603
+					}
 				]
 			},
 			{
@@ -531,6 +867,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 3 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 307,
+						"y": 837
 					}
 				]
 			},
@@ -543,6 +886,13 @@
 					{
 						"name": "Chest Gold 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 347,
+						"y": 770
+					}
 				]
 			},
 			{
@@ -553,6 +903,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 420,
+						"y": 822
 					}
 				]
 			},
@@ -565,6 +922,13 @@
 					{
 						"name": "Barrel Nothing 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 394,
+						"y": 903
+					}
 				]
 			},
 			{
@@ -575,6 +939,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 358,
+						"y": 957
 					}
 				]
 			},
@@ -587,6 +958,13 @@
 					{
 						"name": "Barrel Key 6"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 451,
+						"y": 747
+					}
 				]
 			},
 			{
@@ -597,6 +975,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 412,
+						"y": 761
 					}
 				]
 			},
@@ -609,6 +994,13 @@
 					{
 						"name": "Barrel Key 7 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 351,
+						"y": 750
+					}
 				]
 			},
 			{
@@ -619,6 +1011,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 561,
+						"y": 361
 					}
 				]
 			},
@@ -631,6 +1030,13 @@
 					{
 						"name": "Barrel Death 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 594,
+						"y": 448
+					}
 				]
 			},
 			{
@@ -641,6 +1047,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 563,
+						"y": 450
 					}
 				]
 			},
@@ -653,6 +1066,13 @@
 					{
 						"name": "Chest Death 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 232,
+						"y": 375
+					}
 				]
 			},
 			{
@@ -663,6 +1083,13 @@
 				"sections": [
 					{
 						"name": "Chest 3-Way Shot 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 232,
+						"y": 438
 					}
 				]
 			},
@@ -675,6 +1102,13 @@
 					{
 						"name": "Chest Gold 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 201,
+						"y": 374
+					}
 				]
 			},
 			{
@@ -685,6 +1119,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Haunted Cemetery",
+						"x": 202,
+						"y": 433
 					}
 				]
 			}

@@ -13,6 +13,13 @@
 					{
 						"name": "Light Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1341,
+						"y": 462
+					}
 				]
 			},
 			{
@@ -22,6 +29,13 @@
 				"sections": [
 					{
 						"name": "Scroll"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1872,
+						"y": 691
 					}
 				]
 			},
@@ -34,6 +48,13 @@
 					{
 						"name": "Light Potion 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 762,
+						"y": 1020
+					}
 				]
 			},
 			{
@@ -45,6 +66,13 @@
 					{
 						"name": "Small Pile of Gold (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 733,
+						"y": 320
+					}
 				]
 			},
 			{
@@ -54,6 +82,13 @@
 				"sections": [
 					{
 						"name": "Fire Shield"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1712,
+						"y": 1074
 					}
 				]
 			},
@@ -65,6 +100,13 @@
 					{
 						"name": "Key 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1939,
+						"y": 496
+					}
 				]
 			},
 			{
@@ -74,6 +116,13 @@
 				"sections": [
 					{
 						"name": "Drumstick"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1604,
+						"y": 301
 					}
 				]
 			},
@@ -86,6 +135,13 @@
 					{
 						"name": "Light Potion 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1416,
+						"y": 511
+					}
 				]
 			},
 			{
@@ -96,6 +152,13 @@
 					{
 						"name": "Runestone"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1638,
+						"y": 68
+					}
 				]
 			},
 			{
@@ -105,6 +168,13 @@
 				"sections": [
 					{
 						"name": "Key 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1021,
+						"y": 1043
 					}
 				]
 			},
@@ -117,6 +187,13 @@
 					{
 						"name": "Key 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1730,
+						"y": 113
+					}
 				]
 			},
 			{
@@ -126,6 +203,13 @@
 				"sections": [
 					{
 						"name": "Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1472,
+						"y": 1313
 					}
 				]
 			},
@@ -138,6 +222,13 @@
 					{
 						"name": "Key 5 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1956,
+						"y": 1368
+					}
 				]
 			},
 			{
@@ -147,6 +238,13 @@
 				"sections": [
 					{
 						"name": "Key 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1721,
+						"y": 1105
 					}
 				]
 			},
@@ -158,6 +256,13 @@
 					{
 						"name": "Key 7"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1610,
+						"y": 98
+					}
 				]
 			},
 			{
@@ -167,6 +272,13 @@
 				"sections": [
 					{
 						"name": "Key 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1792,
+						"y": 584
 					}
 				]
 			},
@@ -178,6 +290,13 @@
 					{
 						"name": "Key 9"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1390,
+						"y": 71
+					}
 				]
 			},
 			{
@@ -187,6 +306,13 @@
 				"sections": [
 					{
 						"name": "Key 10"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 805,
+						"y": 239
 					}
 				]
 			},
@@ -198,6 +324,13 @@
 					{
 						"name": "Key 11"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1204,
+						"y": 339
+					}
 				]
 			},
 			{
@@ -207,6 +340,13 @@
 				"sections": [
 					{
 						"name": "Key 12"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1467,
+						"y": 1050
 					}
 				]
 			},
@@ -219,6 +359,13 @@
 					{
 						"name": "Key 13 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1394,
+						"y": 601
+					}
 				]
 			},
 			{
@@ -230,6 +377,13 @@
 					{
 						"name": "Key 14 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1193,
+						"y": 569
+					}
 				]
 			},
 			{
@@ -239,6 +393,13 @@
 				"sections": [
 					{
 						"name": "Key 15"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1070,
+						"y": 958
 					}
 				]
 			},
@@ -250,6 +411,13 @@
 					{
 						"name": "Key 16"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 912,
+						"y": 904
+					}
 				]
 			},
 			{
@@ -260,6 +428,13 @@
 					{
 						"name": "Key 17"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 901,
+						"y": 1047
+					}
 				]
 			},
 			{
@@ -269,6 +444,13 @@
 				"sections": [
 					{
 						"name": "Speed Boots"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1552,
+						"y": 1122
 					}
 				]
 			},
@@ -281,6 +463,13 @@
 					{
 						"name": "Barrel Key 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 743,
+						"y": 1108
+					}
 				]
 			},
 			{
@@ -291,6 +480,13 @@
 				"sections": [
 					{
 						"name": "Barrel Phoenix Familiar 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1600,
+						"y": 183
 					}
 				]
 			},
@@ -303,6 +499,13 @@
 					{
 						"name": "Barrel Fruit 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1835,
+						"y": 905
+					}
 				]
 			},
 			{
@@ -313,6 +516,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1867,
+						"y": 927
 					}
 				]
 			},
@@ -325,6 +535,13 @@
 					{
 						"name": "Barrel Meat 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1319,
+						"y": 383
+					}
 				]
 			},
 			{
@@ -335,6 +552,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1794,
+						"y": 96
 					}
 				]
 			},
@@ -347,6 +571,13 @@
 					{
 						"name": "Barrel Fruit 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 910,
+						"y": 624
+					}
 				]
 			},
 			{
@@ -357,6 +588,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1116,
+						"y": 754
 					}
 				]
 			},
@@ -369,6 +607,13 @@
 					{
 						"name": "Barrel Lightning Breath 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 758,
+						"y": 1029
+					}
 				]
 			},
 			{
@@ -379,6 +624,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 5 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1641,
+						"y": 1159
 					}
 				]
 			},
@@ -391,6 +643,13 @@
 					{
 						"name": "Barrel Meat 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1578,
+						"y": 1114
+					}
 				]
 			},
 			{
@@ -401,6 +660,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 6 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 887,
+						"y": 887
 					}
 				]
 			},
@@ -413,6 +679,13 @@
 					{
 						"name": "Barrel Fruit 7"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 858,
+						"y": 1035
+					}
 				]
 			},
 			{
@@ -423,6 +696,13 @@
 				"sections": [
 					{
 						"name": "Barrel Meat 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1913,
+						"y": 1353
 					}
 				]
 			},
@@ -435,6 +715,13 @@
 					{
 						"name": "Barrel Key 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1290,
+						"y": 1056
+					}
 				]
 			},
 			{
@@ -445,6 +732,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1484,
+						"y": 526
 					}
 				]
 			},
@@ -457,6 +751,13 @@
 					{
 						"name": "Barrel Key 4 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1167,
+						"y": 356
+					}
 				]
 			},
 			{
@@ -467,6 +768,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 252,
+						"y": 333
 					}
 				]
 			},
@@ -479,6 +787,13 @@
 					{
 						"name": "Barrel Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1179,
+						"y": 627
+					}
 				]
 			},
 			{
@@ -489,6 +804,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1815,
+						"y": 973
 					}
 				]
 			},
@@ -501,6 +823,13 @@
 					{
 						"name": "Barrel Nothing 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1469,
+						"y": 490
+					}
 				]
 			},
 			{
@@ -511,6 +840,13 @@
 				"sections": [
 					{
 						"name": "Barrel Rapid Fire 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1189,
+						"y": 120
 					}
 				]
 			},
@@ -523,6 +859,13 @@
 					{
 						"name": "Chest Meat 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 132,
+						"y": 387
+					}
 				]
 			},
 			{
@@ -533,6 +876,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 30,
+						"y": 366
 					}
 				]
 			},
@@ -545,6 +895,13 @@
 					{
 						"name": "Chest Acid Amulet 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 150,
+						"y": 337
+					}
 				]
 			},
 			{
@@ -555,6 +912,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 97,
+						"y": 385
 					}
 				]
 			},
@@ -567,6 +931,13 @@
 					{
 						"name": "Barrel Death 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 82,
+						"y": 481
+					}
 				]
 			},
 			{
@@ -577,6 +948,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 7 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 109,
+						"y": 494
 					}
 				]
 			},
@@ -589,6 +967,13 @@
 					{
 						"name": "Barrel Key 8 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 65,
+						"y": 497
+					}
 				]
 			},
 			{
@@ -599,6 +984,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1135,
+						"y": 214
 					}
 				]
 			},
@@ -611,6 +1003,13 @@
 					{
 						"name": "Barrel Scroll 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1698,
+						"y": 339
+					}
 				]
 			},
 			{
@@ -621,6 +1020,13 @@
 				"sections": [
 					{
 						"name": "Barrel Meat 4 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 420,
+						"y": 236
 					}
 				]
 			},
@@ -633,6 +1039,13 @@
 					{
 						"name": "Barrel Nothing 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 721,
+						"y": 298
+					}
 				]
 			},
 			{
@@ -643,6 +1056,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 823,
+						"y": 232
 					}
 				]
 			},
@@ -655,6 +1075,13 @@
 					{
 						"name": "Chest Phoenix Familiar 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 813,
+						"y": 311
+					}
 				]
 			},
 			{
@@ -665,6 +1092,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 9 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 909,
+						"y": 199
 					}
 				]
 			},
@@ -677,6 +1111,13 @@
 					{
 						"name": "Barrel Key 10"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1345,
+						"y": 486
+					}
 				]
 			},
 			{
@@ -687,6 +1128,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1058,
+						"y": 144
 					}
 				]
 			},
@@ -699,6 +1147,13 @@
 					{
 						"name": "Barrel Nothing 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1102,
+						"y": 133
+					}
 				]
 			},
 			{
@@ -709,6 +1164,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1095,
+						"y": 177
 					}
 				]
 			},
@@ -721,6 +1183,13 @@
 					{
 						"name": "Barrel Nothing 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1070,
+						"y": 126
+					}
 				]
 			},
 			{
@@ -731,6 +1200,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1059,
+						"y": 156
 					}
 				]
 			},
@@ -743,6 +1219,13 @@
 					{
 						"name": "Barrel Key 11 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 988,
+						"y": 103
+					}
 				]
 			},
 			{
@@ -753,6 +1236,13 @@
 				"sections": [
 					{
 						"name": "Chest Reflective Shield 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 952,
+						"y": 114
 					}
 				]
 			},
@@ -765,6 +1255,13 @@
 					{
 						"name": "Barrel Fruit 9 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1355,
+						"y": 37
+					}
 				]
 			},
 			{
@@ -775,6 +1272,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1150,
+						"y": 130
 					}
 				]
 			},
@@ -787,6 +1291,13 @@
 					{
 						"name": "Barrel Scroll 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1485,
+						"y": 325
+					}
 				]
 			},
 			{
@@ -797,6 +1308,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 10 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1192,
+						"y": 50
 					}
 				]
 			},
@@ -809,6 +1327,13 @@
 					{
 						"name": "Barrel Gold 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1092,
+						"y": 67
+					}
 				]
 			},
 			{
@@ -819,6 +1344,13 @@
 				"sections": [
 					{
 						"name": "Chest Invisibility 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1114,
+						"y": 89
 					}
 				]
 			},
@@ -831,6 +1363,13 @@
 					{
 						"name": "Chest Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1251,
+						"y": 375
+					}
 				]
 			},
 			{
@@ -841,6 +1380,13 @@
 				"sections": [
 					{
 						"name": "Chest Light Amulet 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1144,
+						"y": 381
 					}
 				]
 			},
@@ -853,6 +1399,13 @@
 					{
 						"name": "Chest Speed Boots 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1592,
+						"y": 42
+					}
 				]
 			},
 			{
@@ -863,6 +1416,13 @@
 				"sections": [
 					{
 						"name": "Chest Thunder Hammer 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1931,
+						"y": 1232
 					}
 				]
 			},
@@ -875,6 +1435,13 @@
 					{
 						"name": "Chest 3-Way Shot 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 727,
+						"y": 1093
+					}
 				]
 			},
 			{
@@ -885,6 +1452,13 @@
 				"sections": [
 					{
 						"name": "Chest Rapid Fire 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 748,
+						"y": 899
 					}
 				]
 			},
@@ -897,6 +1471,13 @@
 					{
 						"name": "Barrel Gold 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1747,
+						"y": 117
+					}
 				]
 			},
 			{
@@ -907,6 +1488,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 12"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1757,
+						"y": 92
 					}
 				]
 			},
@@ -919,6 +1507,13 @@
 					{
 						"name": "Chest Death 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1771,
+						"y": 90
+					}
 				]
 			},
 			{
@@ -929,6 +1524,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 7"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 945,
+						"y": 415
 					}
 				]
 			},
@@ -941,6 +1543,13 @@
 					{
 						"name": "Barrel Nothing 8"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 956,
+						"y": 394
+					}
 				]
 			},
 			{
@@ -951,6 +1560,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 958,
+						"y": 407
 					}
 				]
 			},
@@ -963,6 +1579,13 @@
 					{
 						"name": "Barrel Gold 4 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1342,
+						"y": 376
+					}
 				]
 			},
 			{
@@ -973,6 +1596,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 13"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1335,
+						"y": 399
 					}
 				]
 			},
@@ -985,6 +1615,13 @@
 					{
 						"name": "Chest Death 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 852,
+						"y": 816
+					}
 				]
 			},
 			{
@@ -996,6 +1633,13 @@
 					{
 						"name": "Chest Meat 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 888,
+						"y": 770
+					}
 				]
 			},
 			{
@@ -1006,6 +1650,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 3 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Arctic Docks",
+						"x": 1188,
+						"y": 467
 					}
 				]
 			}

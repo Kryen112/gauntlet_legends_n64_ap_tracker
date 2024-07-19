@@ -14,6 +14,13 @@
 					{
 						"name": "Ham (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 123,
+						"y": 321
+					}
 				]
 			},
 			{
@@ -23,6 +30,13 @@
 				"sections": [
 					{
 						"name": "Key 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 520,
+						"y": 598
 					}
 				]
 			},
@@ -35,6 +49,13 @@
 					{
 						"name": "Large Pile of Gold (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 543,
+						"y": 623
+					}
 				]
 			},
 			{
@@ -45,6 +66,13 @@
 				"sections": [
 					{
 						"name": "Small Pile of Gold (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 775,
+						"y": 1178
 					}
 				]
 			},
@@ -57,6 +85,13 @@
 					{
 						"name": "Reflective Shot (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 346,
+						"y": 418
+					}
 				]
 			},
 			{
@@ -67,6 +102,13 @@
 					{
 						"name": "Key 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 693,
+						"y": 920
+					}
 				]
 			},
 			{
@@ -76,6 +118,13 @@
 				"sections": [
 					{
 						"name": "Soul Savior"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 846,
+						"y": 780
 					}
 				]
 			},
@@ -88,6 +137,13 @@
 					{
 						"name": "Barrel Fire Breath 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 855,
+						"y": 1230
+					}
 				]
 			},
 			{
@@ -98,6 +154,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 394,
+						"y": 999
 					}
 				]
 			},
@@ -110,6 +173,13 @@
 					{
 						"name": "Chest Invulnerability 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 623,
+						"y": 385
+					}
 				]
 			},
 			{
@@ -120,6 +190,13 @@
 				"sections": [
 					{
 						"name": "Barrel Thunder Hammer 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 649,
+						"y": 1019
 					}
 				]
 			},
@@ -132,6 +209,13 @@
 					{
 						"name": "Barrel Reflective Shield 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 160,
+						"y": 348
+					}
 				]
 			},
 			{
@@ -142,6 +226,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 478,
+						"y": 132
 					}
 				]
 			},
@@ -154,6 +245,13 @@
 					{
 						"name": "Barrel Key 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 488,
+						"y": 139
+					}
 				]
 			},
 			{
@@ -164,6 +262,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 429,
+						"y": 219
 					}
 				]
 			},
@@ -176,6 +281,13 @@
 					{
 						"name": "Barrel Potion 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 133,
+						"y": 297
+					}
 				]
 			},
 			{
@@ -186,6 +298,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 618,
+						"y": 218
 					}
 				]
 			},
@@ -198,6 +317,13 @@
 					{
 						"name": "Barrel Fruit 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 101,
+						"y": 396
+					}
 				]
 			},
 			{
@@ -208,6 +334,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 453,
+						"y": 65
 					}
 				]
 			},
@@ -220,6 +353,13 @@
 					{
 						"name": "Barrel Gold 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 923,
+						"y": 1182
+					}
 				]
 			},
 			{
@@ -230,6 +370,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 923,
+						"y": 1205
 					}
 				]
 			},
@@ -242,6 +389,13 @@
 					{
 						"name": "Barrel Key 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 900,
+						"y": 1199
+					}
 				]
 			},
 			{
@@ -252,6 +406,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 799,
+						"y": 1077
 					}
 				]
 			},
@@ -264,6 +425,13 @@
 					{
 						"name": "Barrel Scroll 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 675,
+						"y": 988
+					}
 				]
 			},
 			{
@@ -274,6 +442,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 757,
+						"y": 983
 					}
 				]
 			},
@@ -286,6 +461,13 @@
 					{
 						"name": "Barrel Fruit 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 797,
+						"y": 1019
+					}
 				]
 			},
 			{
@@ -296,6 +478,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 282,
+						"y": 52
 					}
 				]
 			},
@@ -308,6 +497,13 @@
 					{
 						"name": "Barrel Potion 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 309,
+						"y": 35
+					}
 				]
 			},
 			{
@@ -318,6 +514,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 6 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 292,
+						"y": 27
 					}
 				]
 			},
@@ -330,6 +533,13 @@
 					{
 						"name": "Barrel Meat 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 303,
+						"y": 55
+					}
 				]
 			},
 			{
@@ -340,6 +550,13 @@
 				"sections": [
 					{
 						"name": "Chest Speed Boots 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 478,
+						"y": 136
 					}
 				]
 			},
@@ -352,6 +569,13 @@
 					{
 						"name": "Chest Phoenix Familiar 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 690,
+						"y": 125
+					}
 				]
 			},
 			{
@@ -362,6 +586,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 638,
+						"y": 135
 					}
 				]
 			},
@@ -374,6 +605,13 @@
 					{
 						"name": "Chest Gold 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 667,
+						"y": 125
+					}
 				]
 			},
 			{
@@ -384,6 +622,13 @@
 				"sections": [
 					{
 						"name": "Barrel Meat 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 348,
+						"y": 879
 					}
 				]
 			},
@@ -396,6 +641,13 @@
 					{
 						"name": "Barrel 3-Way Shot 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 383,
+						"y": 812
+					}
 				]
 			},
 			{
@@ -406,6 +658,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 333,
+						"y": 779
 					}
 				]
 			},
@@ -418,6 +677,13 @@
 					{
 						"name": "Barrel Gold 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map":"Battle Towers",
+						"x": 368,
+						"y": 787
+					}
 				]
 			},
 			{
@@ -428,6 +694,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 349,
+						"y": 831
 					}
 				]
 			},
@@ -440,6 +713,13 @@
 					{
 						"name": "Barrel Key 7 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 348,
+						"y": 895
+					}
 				]
 			},
 			{
@@ -450,6 +730,13 @@
 				"sections": [
 					{
 						"name": "Barrel Gold 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 906,
+						"y": 711
 					}
 				]
 			},
@@ -462,6 +749,13 @@
 					{
 						"name": "Barrel Key 8"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 886,
+						"y": 711
+					}
 				]
 			},
 			{
@@ -472,6 +766,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 800,
+						"y": 668
 					}
 				]
 			},
@@ -484,6 +785,13 @@
 					{
 						"name": "Chest Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 844,
+						"y": 643
+					}
 				]
 			},
 			{
@@ -494,6 +802,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 9 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 892,
+						"y": 832
 					}
 				]
 			},
@@ -506,6 +821,13 @@
 					{
 						"name": "Barrel Rapid Fire 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 892,
+						"y": 856
+					}
 				]
 			},
 			{
@@ -516,6 +838,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 892,
+						"y": 844
 					}
 				]
 			},
@@ -528,6 +857,13 @@
 					{
 						"name": "Chest Meat 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 892,
+						"y": 868
+					}
 				]
 			},
 			{
@@ -539,6 +875,13 @@
 					{
 						"name": "Chest Meat 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 590,
+						"y": 524
+					}
 				]
 			},
 			{
@@ -549,6 +892,13 @@
 				"sections": [
 					{
 						"name": "Chest Fire Breath 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Battle Towers",
+						"x": 513,
+						"y": 780
 					}
 				]
 			}

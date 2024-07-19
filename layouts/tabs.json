@@ -8,6 +8,228 @@
 					"type": "map",
 					"maps": [ "overworld" ]
 				}
+			},
+			{
+				"title": "Mountain",
+				"content": {
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Valley of Fire",
+							"content": {
+								"type": "map",
+								"maps": [ "Valley of Fire" ]
+							}
+						},
+						{
+							"title": "Dagger Peak",
+							"content": {
+								"type": "map",
+								"maps": [ "Dagger Peak" ]
+							}
+						},
+						{
+							"title": "Cliffs of Desolation",
+							"content": {
+								"type": "map",
+								"maps": [ "Cliffs of Desolation" ]
+							}
+						},
+						{
+							"title": "Lost Cave",
+							"content": {
+								"type": "map",
+								"maps": [ "Lost Cave" ]
+							}
+						},
+						{
+							"title": "Volcanic Cavern",
+							"content": {
+								"type": "map",
+								"maps": [ "Volcanic Cavern" ]
+							}
+						},
+						{
+							"title": "Dragon's Lair",
+							"content": {
+								"type": "map",
+								"maps": [ "Dragon's Lair" ]
+							}
+						}
+					]
+				}
+			},
+			{
+				"title": "Castle",
+				"content": {
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Castle Courtyard",
+							"content": {
+								"type": "map",
+								"maps": [ "Castle Courtyard" ]
+							}
+						},
+						{
+							"title": "Dungeon of Torment",
+							"content": {
+								"type": "map",
+								"maps": [ "Dungeon of Torment" ]
+							}
+						},
+						{
+							"title": "Tower Armory",
+							"content": {
+								"type": "map",
+								"maps": [ "Tower Armory" ]
+							}
+						},
+						{
+							"title": "Castle Treasury",
+							"content": {
+								"type": "map",
+								"maps": [ "Castle Treasury" ]
+							}
+						},
+						{
+							"title": "Chimera's Keep",
+							"content": {
+								"type": "map",
+								"maps": [ "Chimera's Keep" ]
+							}
+						}
+					]
+				}
+			},
+			{
+				"title": "Town",
+				"content": {
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Poisoned Fields",
+							"content": {
+								"type": "map",
+								"maps": [ "Poisoned Fields" ]
+							}
+						},
+						{
+							"title": "Haunted Cemetery",
+							"content": {
+								"type": "map",
+								"maps": [ "Haunted Cemetery" ]
+							}
+						},
+						{
+							"title": "Venemous Spire",
+							"content": {
+								"type": "map",
+								"maps": [ "Venemous Spire" ]
+							}
+						},
+						{
+							"title": "Toxic Air Ship",
+							"content": {
+								"type": "map",
+								"maps": [ "Toxic Air Ship" ]
+							}
+						},
+						{
+							"title": "Vat of the Plague Fiend",
+							"content": {
+								"type": "map",
+								"maps": [ "Vat of the Plague Fiend" ]
+							}
+						}
+					]
+				}
+			},
+			{
+				"title": "Ice",
+				"content": {
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Arctic Docks",
+							"content": {
+								"type": "map",
+								"maps": [ "Arctic Docks" ]
+							}
+						},
+						{
+							"title": "Frozen Camp",
+							"content": {
+								"type": "map",
+								"maps": [ "Frozen Camp" ]
+							}
+						},
+						{
+							"title": "Crystal Mine",
+							"content": {
+								"type": "map",
+								"maps": [ "Crystal Mine" ]
+							}
+						},
+						{
+							"title": "Erupting Fissure",
+							"content": {
+								"type": "map",
+								"maps": [ "Erupting Fissure" ]
+							}
+						},
+						{
+							"title": "Yeti's Cavern",
+							"content": {
+								"type": "map",
+								"maps": [ "Yeti's Cavern" ]
+							}
+						}
+					]
+				}
+			},
+			{
+				"title": "Desecrated Temple",
+				"content": {
+					"type": "map",
+					"maps": [ "Desecrated Temple" ]
+				}
+			},
+			{
+				"title": "Battle",
+				"content": {
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Battle Trenches",
+							"content": {
+								"type": "map",
+								"maps": [ "Battle Trenches" ]
+							}
+						},
+						{
+							"title": "Battle Towers",
+							"content": {
+								"type": "map",
+								"maps": [ "Battle Towers" ]
+							}
+						},
+						{
+							"title": "Infernal Fortress",
+							"content": {
+								"type": "map",
+								"maps": [ "Infernal Fortress" ]
+							}
+						}
+					]
+				}
+			},
+			{
+				"title": "Gates of the Underworld",
+				"content": {
+					"type": "map",
+					"maps": [ "Gates of the Underworld" ]
+				}
 			}
 		]
 	}

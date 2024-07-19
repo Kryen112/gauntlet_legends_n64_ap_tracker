@@ -13,6 +13,13 @@
 					{
 						"name": "Light Potion"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 138,
+						"y": 753
+					}
 				]
 			},
 			{
@@ -22,6 +29,13 @@
 				"sections": [
 					{
 						"name": "Growth"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 148,
+						"y": 756
 					}
 				]
 			},
@@ -33,6 +47,13 @@
 					{
 						"name": "Reflective Shield"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 100,
+						"y": 363
+					}
 				]
 			},
 			{
@@ -42,6 +63,13 @@
 				"sections": [
 					{
 						"name": "Key 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 159,
+						"y": 770
 					}
 				]
 			},
@@ -53,6 +81,13 @@
 					{
 						"name": "Key 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 917,
+						"y": 225
+					}
 				]
 			},
 			{
@@ -62,6 +97,13 @@
 				"sections": [
 					{
 						"name": "3-Way Shot"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 427,
+						"y": 246
 					}
 				]
 			},
@@ -73,6 +115,13 @@
 					{
 						"name": "Key 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 398,
+						"y": 514
+					}
 				]
 			},
 			{
@@ -82,6 +131,13 @@
 				"sections": [
 					{
 						"name": "Key 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 126,
+						"y": 699
 					}
 				]
 			},
@@ -93,6 +149,13 @@
 					{
 						"name": "Key 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 193,
+						"y": 580
+					}
 				]
 			},
 			{
@@ -103,6 +166,13 @@
 					{
 						"name": "Death"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 397,
+						"y": 489
+					}
 				]
 			},
 			{
@@ -112,6 +182,13 @@
 				"sections": [
 					{
 						"name": "Key 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 373,
+						"y": 595
 					}
 				]
 			},
@@ -124,6 +201,13 @@
 					{
 						"name": "Key 7 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 102,
+						"y": 353
+					}
 				]
 			},
 			{
@@ -133,6 +217,13 @@
 				"sections": [
 					{
 						"name": "Key 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 445,
+						"y": 340
 					}
 				]
 			},
@@ -144,6 +235,13 @@
 					{
 						"name": "Marker's Javelin"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 561,
+						"y": 60
+					}
 				]
 			},
 			{
@@ -153,6 +251,13 @@
 				"sections": [
 					{
 						"name": "Rapid Fire"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 530,
+						"y": 21
 					}
 				]
 			},
@@ -165,6 +270,13 @@
 					{
 						"name": "Speed Boots (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 908,
+						"y": 147
+					}
 				]
 			},
 			{
@@ -174,6 +286,13 @@
 				"sections": [
 					{
 						"name": "Key 9"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 282,
+						"y": 630
 					}
 				]
 			},
@@ -186,6 +305,13 @@
 					{
 						"name": "Key 10 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 25,
+						"y": 532
+					}
 				]
 			},
 			{
@@ -196,6 +322,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 291,
+						"y": 106
 					}
 				]
 			},
@@ -208,6 +341,13 @@
 					{
 						"name": "Barrel Unknown 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 357,
+						"y": 683
+					}
 				]
 			},
 			{
@@ -218,6 +358,13 @@
 				"sections": [
 					{
 						"name": "Barrel Thunder Hammer 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 1044,
+						"y": 279
 					}
 				]
 			},
@@ -230,6 +377,13 @@
 					{
 						"name": "Barrel Unknown 3 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 740,
+						"y": 174
+					}
 				]
 			},
 			{
@@ -240,6 +394,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 682,
+						"y": 159
 					}
 				]
 			},
@@ -252,6 +413,13 @@
 					{
 						"name": "Barrel Unknown 5 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 497,
+						"y": 53
+					}
 				]
 			},
 			{
@@ -262,6 +430,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 286,
+						"y": 541
 					}
 				]
 			},
@@ -274,6 +449,13 @@
 					{
 						"name": "Barrel Unknown 7 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 266,
+						"y": 472
+					}
 				]
 			},
 			{
@@ -284,6 +466,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 129,
+						"y": 470
 					}
 				]
 			},
@@ -296,6 +485,13 @@
 					{
 						"name": "Barrel Unknown 9"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 105,
+						"y": 690
+					}
 				]
 			},
 			{
@@ -306,6 +502,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 10"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 142,
+						"y": 674
 					}
 				]
 			},
@@ -318,6 +521,13 @@
 					{
 						"name": "Barrel Unknown 11 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 126,
+						"y": 757
+					}
 				]
 			},
 			{
@@ -328,6 +538,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 12 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 275,
+						"y": 754
 					}
 				]
 			},
@@ -340,6 +557,13 @@
 					{
 						"name": "Barrel Unknown 13"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 382,
+						"y": 614
+					}
 				]
 			},
 			{
@@ -350,6 +574,13 @@
 				"sections": [
 					{
 						"name": "Barrel Unknown 14"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 406,
+						"y": 411
 					}
 				]
 			},
@@ -362,6 +593,13 @@
 					{
 						"name": "Barrel Key 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 1025,
+						"y": 519
+					}
 				]
 			},
 			{
@@ -372,6 +610,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 898,
+						"y": 304
 					}
 				]
 			},
@@ -384,6 +629,13 @@
 					{
 						"name": "Barrel Key 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 269,
+						"y": 551
+					}
 				]
 			},
 			{
@@ -394,6 +646,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 694,
+						"y": 605
 					}
 				]
 			},
@@ -406,6 +665,13 @@
 					{
 						"name": "Barrel Nothing 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 828,
+						"y": 634
+					}
 				]
 			},
 			{
@@ -416,6 +682,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 815,
+						"y": 638
 					}
 				]
 			},
@@ -428,6 +701,13 @@
 					{
 						"name": "Barrel Nothing 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 809,
+						"y": 663
+					}
 				]
 			},
 			{
@@ -438,6 +718,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 828,
+						"y":661
 					}
 				]
 			},
@@ -450,6 +737,13 @@
 					{
 						"name": "Barrel Fruit 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 844,
+						"y": 688
+					}
 				]
 			},
 			{
@@ -460,6 +754,13 @@
 				"sections": [
 					{
 						"name": "Barrel Acid Amulet 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 894,
+						"y": 622
 					}
 				]
 			},
@@ -472,6 +773,13 @@
 					{
 						"name": "Barrel Nothing 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 821,
+						"y": 616
+					}
 				]
 			},
 			{
@@ -482,6 +790,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 870,
+						"y": 614
 					}
 				]
 			},
@@ -494,6 +809,13 @@
 					{
 						"name": "Chest Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 821,
+						"y": 587
+					}
 				]
 			},
 			{
@@ -504,6 +826,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 863,
+						"y": 430
 					}
 				]
 			},
@@ -516,6 +845,13 @@
 					{
 						"name": "Barrel Key 5"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 801,
+						"y": 428
+					}
 				]
 			},
 			{
@@ -526,6 +862,13 @@
 				"sections": [
 					{
 						"name": "Chest Fire Breath 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 838,
+						"y": 458
 					}
 				]
 			},
@@ -538,6 +881,13 @@
 					{
 						"name": "Barrel Key 6"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 891,
+						"y": 338
+					}
 				]
 			},
 			{
@@ -548,6 +898,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 970,
+						"y": 435
 					}
 				]
 			},
@@ -560,6 +917,13 @@
 					{
 						"name": "Barrel Key 7 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 962,
+						"y": 463
+					}
 				]
 			},
 			{
@@ -570,6 +934,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 8 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 1034,
+						"y": 481
 					}
 				]
 			},
@@ -582,6 +953,13 @@
 					{
 						"name": "Barrel Key 9 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 1015,
+						"y": 471
+					}
 				]
 			},
 			{
@@ -592,6 +970,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 1016,
+						"y": 454
 					}
 				]
 			},
@@ -604,6 +989,13 @@
 					{
 						"name": "Barrel Death 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 1036,
+						"y": 507
+					}
 				]
 			},
 			{
@@ -614,6 +1006,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 1072,
+						"y": 338
 					}
 				]
 			},
@@ -626,6 +1025,13 @@
 					{
 						"name": "Chest Meat 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 817,
+						"y": 158
+					}
 				]
 			},
 			{
@@ -636,6 +1042,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 10 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 757,
+						"y": 174
 					}
 				]
 			},
@@ -648,6 +1061,13 @@
 					{
 						"name": "Barrel Key 11 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 785,
+						"y": 170
+					}
 				]
 			},
 			{
@@ -658,6 +1078,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 12"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 449,
+						"y": 122
 					}
 				]
 			},
@@ -670,6 +1097,13 @@
 					{
 						"name": "Chest Gold 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 695,
+						"y": 161
+					}
 				]
 			},
 			{
@@ -680,6 +1114,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 13"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 488,
+						"y": 89
 					}
 				]
 			},
@@ -692,6 +1133,13 @@
 					{
 						"name": "Barrel Key 14"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 292,
+						"y": 513
+					}
 				]
 			},
 			{
@@ -702,6 +1150,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 15"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 90,
+						"y": 593
 					}
 				]
 			},
@@ -714,6 +1169,13 @@
 					{
 						"name": "Barrel Key 16"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 231,
+						"y": 425
+					}
 				]
 			},
 			{
@@ -724,6 +1186,13 @@
 				"sections": [
 					{
 						"name": "Barrel Death 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 127,
+						"y": 422
 					}
 				]
 			},
@@ -736,6 +1205,13 @@
 					{
 						"name": "Barrel Key 17 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 21,
+						"y": 561
+					}
 				]
 			},
 			{
@@ -746,6 +1222,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 18 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 372,
+						"y": 664
 					}
 				]
 			},
@@ -758,6 +1241,13 @@
 					{
 						"name": "Barrel Key 19"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 368,
+						"y": 293
+					}
 				]
 			},
 			{
@@ -768,6 +1258,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 20 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 483,
+						"y": 119
 					}
 				]
 			},
@@ -780,6 +1277,13 @@
 					{
 						"name": "Chest Gold 4 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 543,
+						"y": 144
+					}
 				]
 			},
 			{
@@ -790,6 +1294,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 57,
+						"y": 606
 					}
 				]
 			},
@@ -802,6 +1313,13 @@
 					{
 						"name": "Chest Potion 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 221,
+						"y": 701
+					}
 				]
 			},
 			{
@@ -812,6 +1330,13 @@
 				"sections": [
 					{
 						"name": "Chest Light Amulet 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 201,
+						"y": 438
 					}
 				]
 			},
@@ -824,6 +1349,13 @@
 					{
 						"name": "Barrel Gold 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 121,
+						"y": 537
+					}
 				]
 			},
 			{
@@ -834,6 +1366,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 21 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 117,
+						"y": 486
 					}
 				]
 			},
@@ -846,6 +1385,13 @@
 					{
 						"name": "Barrel Fruit 3 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 162,
+						"y": 464
+					}
 				]
 			},
 			{
@@ -856,6 +1402,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 4 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 42,
+						"y": 673
 					}
 				]
 			},
@@ -868,6 +1421,13 @@
 					{
 						"name": "Barrel Gold 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 26,
+						"y": 690
+					}
 				]
 			},
 			{
@@ -878,6 +1438,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 22"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 81,
+						"y": 516
 					}
 				]
 			},
@@ -890,6 +1457,13 @@
 					{
 						"name": "Barrel Gold 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 66,
+						"y": 525
+					}
 				]
 			},
 			{
@@ -900,6 +1474,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 45,
+						"y": 515
 					}
 				]
 			},
@@ -912,6 +1493,13 @@
 					{
 						"name": "Chest Potion 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 32,
+						"y": 514
+					}
 				]
 			},
 			{
@@ -922,6 +1510,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 23,
+						"y": 519
 					}
 				]
 			},
@@ -934,6 +1529,13 @@
 					{
 						"name": "Chest Invulnerability 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 145,
+						"y": 773
+					}
 				]
 			},
 			{
@@ -944,6 +1546,13 @@
 				"sections": [
 					{
 						"name": "Chest Invisibility 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 891,
+						"y": 298
 					}
 				]
 			},
@@ -956,6 +1565,13 @@
 					{
 						"name": "Chest Fruit 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 1029,
+						"y": 530
+					}
 				]
 			},
 			{
@@ -966,6 +1582,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 6 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 1039,
+						"y": 518
 					}
 				]
 			},
@@ -978,6 +1601,13 @@
 					{
 						"name": "Chest Gold 7"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 916,
+						"y": 152
+					}
 				]
 			},
 			{
@@ -988,6 +1618,13 @@
 				"sections": [
 					{
 						"name": "Chest Super Shot 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 481,
+						"y": 266
 					}
 				]
 			},
@@ -1000,6 +1637,13 @@
 					{
 						"name": "Chest Timestop 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 212,
+						"y": 552
+					}
 				]
 			},
 			{
@@ -1010,6 +1654,13 @@
 				"sections": [
 					{
 						"name": "Barrel Potion 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 388,
+						"y": 546
 					}
 				]
 			},
@@ -1022,6 +1673,13 @@
 					{
 						"name": "Barrel Death 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 390,
+						"y": 533
+					}
 				]
 			},
 			{
@@ -1033,6 +1691,13 @@
 					{
 						"name": "Chest Levitate 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 375,
+						"y": 437
+					}
 				]
 			},
 			{
@@ -1043,6 +1708,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 8 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Erupting Fissure",
+						"x": 143,
+						"y": 361
 					}
 				]
 			}

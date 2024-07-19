@@ -13,6 +13,13 @@
 					{
 						"name": "Slab of Meat (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Dragon's Lair",
+						"x": 100,
+						"y": 41
+					}
 				]
 			},
 			{
@@ -23,6 +30,13 @@
 				"sections": [
 					{
 						"name": "Rapid Fire (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dragon's Lair",
+						"x": 238,
+						"y": 40
 					}
 				]
 			},
@@ -35,6 +49,13 @@
 					{
 						"name": "Growth (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Dragon's Lair",
+						"x": 152,
+						"y": 234
+					}
 				]
 			},
 			{
@@ -46,6 +67,13 @@
 					{
 						"name": "Speed Boots (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Dragon's Lair",
+						"x": 332,
+						"y": 224
+					}
 				]
 			},
 			{
@@ -55,6 +83,13 @@
 				"sections": [
 					{
 						"name": "3-Way Shot"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dragon's Lair",
+						"x": 250,
+						"y": 114
 					}
 				]
 			},
@@ -66,6 +101,13 @@
 					{
 						"name": "Drumstick"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Dragon's Lair",
+						"x": 318,
+						"y": 40
+					}
 				]
 			},
 			{
@@ -75,6 +117,13 @@
 				"sections": [
 					{
 						"name": "Dragon Mirror Shard"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dragon's Lair",
+						"x": 239,
+						"y": 286
 					}
 				]
 			}

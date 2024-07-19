@@ -12,6 +12,13 @@
 					{
 						"name": "Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 649,
+						"y": 124
+					}
 				]
 			},
 			{
@@ -22,6 +29,13 @@
 				"sections": [
 					{
 						"name": "Reflective Shot (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 926,
+						"y": 87
 					}
 				]
 			},
@@ -34,6 +48,13 @@
 					{
 						"name": "Key 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 888,
+						"y": 114
+					}
 				]
 			},
 			{
@@ -45,6 +66,13 @@
 					{
 						"name": "Key 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1205,
+						"y": 113
+					}
 				]
 			},
 			{
@@ -54,6 +82,13 @@
 				"sections": [
 					{
 						"name": "Invisibility"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1017,
+						"y": 124
 					}
 				]
 			},
@@ -66,6 +101,13 @@
 					{
 						"name": "Fire Potion 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 963,
+						"y": 87
+					}
 				]
 			},
 			{
@@ -76,6 +118,13 @@
 				"sections": [
 					{
 						"name": "Half Barrel of Gold 1 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1174,
+						"y": 36
 					}
 				]
 			},
@@ -88,6 +137,13 @@
 					{
 						"name": "Invulnerability (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 298,
+						"y": 177
+					}
 				]
 			},
 			{
@@ -98,6 +154,13 @@
 				"sections": [
 					{
 						"name": "Rapid Fire (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 341,
+						"y": 37
 					}
 				]
 			},
@@ -110,6 +173,13 @@
 					{
 						"name": "Half Barrel of Gold 2 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1195,
+						"y": 59
+					}
 				]
 			},
 			{
@@ -120,6 +190,13 @@
 					{
 						"name": "Large Pile of Gold 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 286,
+						"y": 95
+					}
 				]
 			},
 			{
@@ -129,6 +206,13 @@
 				"sections": [
 					{
 						"name": "Meat Slab 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 169,
+						"y": 209
 					}
 				]
 			},
@@ -141,6 +225,13 @@
 					{
 						"name": "Poison Fruit 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 562,
+						"y": 132
+					}
 				]
 			},
 			{
@@ -151,6 +242,13 @@
 				"sections": [
 					{
 						"name": "Key 3 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 54,
+						"y": 261
 					}
 				]
 			},
@@ -163,6 +261,13 @@
 					{
 						"name": "Key 4 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1132,
+						"y": 121
+					}
 				]
 			},
 			{
@@ -173,6 +278,13 @@
 				"sections": [
 					{
 						"name": "Key 5 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1166,
+						"y": 68
 					}
 				]
 			},
@@ -185,6 +297,13 @@
 					{
 						"name": "Key 6 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 621,
+						"y": 104
+					}
 				]
 			},
 			{
@@ -195,6 +314,13 @@
 					{
 						"name": "Key 7"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 330,
+						"y": 54
+					}
 				]
 			},
 			{
@@ -204,6 +330,13 @@
 				"sections": [
 					{
 						"name": "Small Pile of Gold 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1157,
+						"y": 92
 					}
 				]
 			},
@@ -216,6 +349,13 @@
 					{
 						"name": "Small Pile of Gold 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1153,
+						"y": 45
+					}
 				]
 			},
 			{
@@ -225,6 +365,13 @@
 				"sections": [
 					{
 						"name": "Key 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1115,
+						"y": 65
 					}
 				]
 			},
@@ -236,6 +383,13 @@
 					{
 						"name": "Key 9"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 909,
+						"y": 56
+					}
 				]
 			},
 			{
@@ -245,6 +399,13 @@
 				"sections": [
 					{
 						"name": "Key 10"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 964,
+						"y": 43
 					}
 				]
 			},
@@ -257,6 +418,13 @@
 					{
 						"name": "Key 11 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 118,
+						"y": 187
+					}
 				]
 			},
 			{
@@ -267,6 +435,13 @@
 				"sections": [
 					{
 						"name": "Key 12 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 604,
+						"y": 184
 					}
 				]
 			},
@@ -279,6 +454,13 @@
 					{
 						"name": "Key 13 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 229,
+						"y": 260
+					}
 				]
 			},
 			{
@@ -288,6 +470,13 @@
 				"sections": [
 					{
 						"name": "Key 14"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 141,
+						"y": 139
 					}
 				]
 			},
@@ -299,6 +488,13 @@
 					{
 						"name": "Key 15"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 400,
+						"y": 71
+					}
 				]
 			},
 			{
@@ -309,6 +505,13 @@
 					{
 						"name": "Key 16"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 57,
+						"y": 331
+					}
 				]
 			},
 			{
@@ -318,6 +521,13 @@
 				"sections": [
 					{
 						"name": "Key 17"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 274,
+						"y": 223
 					}
 				]
 			},
@@ -330,6 +540,13 @@
 					{
 						"name": "Key 18 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 323,
+						"y": 150
+					}
 				]
 			},
 			{
@@ -339,6 +556,13 @@
 				"sections": [
 					{
 						"name": "Key 19"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 173,
+						"y": 136
 					}
 				]
 			},
@@ -351,6 +575,13 @@
 					{
 						"name": "Key 20 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 142,
+						"y": 194
+					}
 				]
 			},
 			{
@@ -362,6 +593,13 @@
 					{
 						"name": "Full Barrel of Gold 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 134,
+						"y": 134
+					}
 				]
 			},
 			{
@@ -371,6 +609,13 @@
 				"sections": [
 					{
 						"name": "Key 21"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 111,
+						"y": 271
 					}
 				]
 			},
@@ -383,6 +628,13 @@
 					{
 						"name": "Key 22 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 939,
+						"y": 128
+					}
 				]
 			},
 			{
@@ -392,6 +644,13 @@
 				"sections": [
 					{
 						"name": "Key 23"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1061,
+						"y": 76
 					}
 				]
 			},
@@ -403,6 +662,13 @@
 					{
 						"name": "Key 24"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 652,
+						"y": 146
+					}
 				]
 			},
 			{
@@ -412,6 +678,13 @@
 				"sections": [
 					{
 						"name": "Key 25"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 594,
+						"y": 135
 					}
 				]
 			},
@@ -423,6 +696,13 @@
 					{
 						"name": "Key 26"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 316,
+						"y": 183
+					}
 				]
 			},
 			{
@@ -432,6 +712,13 @@
 				"sections": [
 					{
 						"name": "Key 27"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 250,
+						"y": 174
 					}
 				]
 			},
@@ -444,6 +731,13 @@
 					{
 						"name": "Obelisk"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 123,
+						"y": 127
+					}
 				]
 			},
 			{
@@ -454,6 +748,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1182,
+						"y": 65
 					}
 				]
 			},
@@ -466,6 +767,13 @@
 					{
 						"name": "Barrel Death 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 642,
+						"y": 90
+					}
 				]
 			},
 			{
@@ -476,6 +784,13 @@
 				"sections": [
 					{
 						"name": "Chest Random 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 22,
+						"y": 300
 					}
 				]
 			},
@@ -488,6 +803,13 @@
 					{
 						"name": "Barrel Shrink 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 632,
+						"y": 85
+					}
 				]
 			},
 			{
@@ -498,6 +820,13 @@
 				"sections": [
 					{
 						"name": "Chest 5-Way Shot 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1138,
+						"y": 52
 					}
 				]
 			},
@@ -510,6 +839,13 @@
 					{
 						"name": "Barrel Nothing 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 211,
+						"y": 120
+					}
 				]
 			},
 			{
@@ -520,6 +856,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 27,
+						"y": 271
 					}
 				]
 			},
@@ -532,6 +875,13 @@
 					{
 						"name": "Barrel Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 39,
+						"y": 324
+					}
 				]
 			},
 			{
@@ -542,6 +892,13 @@
 				"sections": [
 					{
 						"name": "Barrel Nothing 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 27,
+						"y": 317
 					}
 				]
 			},
@@ -554,6 +911,13 @@
 					{
 						"name": "Chest Potion 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 168,
+						"y": 186
+					}
 				]
 			},
 			{
@@ -564,6 +928,13 @@
 				"sections": [
 					{
 						"name": "Barrel Poison Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 41,
+						"y": 264
 					}
 				]
 			},
@@ -576,6 +947,13 @@
 					{
 						"name": "Barrel Nothing 4 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 373,
+						"y": 50
+					}
 				]
 			},
 			{
@@ -586,6 +964,13 @@
 				"sections": [
 					{
 						"name": "Barrel Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 316,
+						"y": 27
 					}
 				]
 			},
@@ -598,6 +983,13 @@
 					{
 						"name": "Barrel Key 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 667,
+						"y": 181
+					}
 				]
 			},
 			{
@@ -608,6 +1000,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 3 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 897,
+						"y": 71
 					}
 				]
 			},
@@ -620,6 +1019,13 @@
 					{
 						"name": "Barrel Fruit 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 989,
+						"y": 60
+					}
 				]
 			},
 			{
@@ -630,6 +1036,13 @@
 				"sections": [
 					{
 						"name": "Barrel Poison Fruit 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 232,
+						"y": 114
 					}
 				]
 			},
@@ -642,6 +1055,13 @@
 					{
 						"name": "Barrel Key 4 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 152,
+						"y": 236
+					}
 				]
 			},
 			{
@@ -652,6 +1072,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 88,
+						"y": 155
 					}
 				]
 			},
@@ -664,6 +1091,13 @@
 					{
 						"name": "Barrel Key 6"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 768,
+						"y": 27
+					}
 				]
 			},
 			{
@@ -674,6 +1108,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 114,
+						"y": 134
 					}
 				]
 			},
@@ -686,6 +1127,13 @@
 					{
 						"name": "Chest Potion 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 354,
+						"y": 54
+					}
 				]
 			},
 			{
@@ -696,6 +1144,13 @@
 				"sections": [
 					{
 						"name": "Chest Levitate 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 96,
+						"y": 163
 					}
 				]
 			},
@@ -708,6 +1163,13 @@
 					{
 						"name": "Chest Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 123,
+						"y": 181
+					}
 				]
 			},
 			{
@@ -718,6 +1180,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 972,
+						"y": 58
 					}
 				]
 			},
@@ -730,6 +1199,13 @@
 					{
 						"name": "Chest Death 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1077,
+						"y": 111
+					}
 				]
 			},
 			{
@@ -740,6 +1216,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 2 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 760,
+						"y": 51
 					}
 				]
 			},
@@ -752,6 +1235,13 @@
 					{
 						"name": "Chest Potion 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 744,
+						"y": 37
+					}
 				]
 			},
 			{
@@ -762,6 +1252,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 634,
+						"y": 195
 					}
 				]
 			},
@@ -774,6 +1271,13 @@
 					{
 						"name": "Chest Death 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 559,
+						"y": 117
+					}
 				]
 			},
 			{
@@ -784,6 +1288,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 4 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 394,
+						"y": 92
 					}
 				]
 			},
@@ -796,6 +1307,13 @@
 					{
 						"name": "Barrel Key 7"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 281,
+						"y": 115
+					}
 				]
 			},
 			{
@@ -806,6 +1324,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 5 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 296,
+						"y": 219
 					}
 				]
 			},
@@ -818,6 +1343,13 @@
 					{
 						"name": "Barrel Key 8"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 305,
+						"y": 83
+					}
 				]
 			},
 			{
@@ -828,6 +1360,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 218,
+						"y": 184
 					}
 				]
 			},
@@ -840,6 +1379,13 @@
 					{
 						"name": "Chest Meat 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 278,
+						"y": 48
+					}
 				]
 			},
 			{
@@ -850,6 +1396,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 95,
+						"y": 300
 					}
 				]
 			},
@@ -862,6 +1415,13 @@
 					{
 						"name": "Chest Death 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 235,
+						"y": 128
+					}
 				]
 			},
 			{
@@ -872,6 +1432,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 3 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1192,
+						"y": 127
 					}
 				]
 			},
@@ -884,6 +1451,13 @@
 					{
 						"name": "Chest Potion 5 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1177,
+						"y": 129
+					}
 				]
 			},
 			{
@@ -894,6 +1468,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1171,
+						"y": 107
 					}
 				]
 			},
@@ -906,6 +1487,13 @@
 					{
 						"name": "Chest Speed Boots 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1168,
+						"y": 150
+					}
 				]
 			},
 			{
@@ -916,6 +1504,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 1114,
+						"y": 104
 					}
 				]
 			},
@@ -928,6 +1523,13 @@
 					{
 						"name": "Barrel Key 9"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 918,
+						"y": 109
+					}
 				]
 			},
 			{
@@ -938,6 +1540,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 4 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 915,
+						"y": 31
 					}
 				]
 			},
@@ -950,6 +1559,13 @@
 					{
 						"name": "Chest Fire Amulet 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 933,
+						"y": 34
+					}
 				]
 			},
 			{
@@ -960,6 +1576,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 881,
+						"y": 78
 					}
 				]
 			},
@@ -972,6 +1595,13 @@
 					{
 						"name": "Barrel Invulnerability 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 202,
+						"y": 234
+					}
 				]
 			},
 			{
@@ -982,6 +1612,13 @@
 				"sections": [
 					{
 						"name": "Chest Fruit 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Cliffs of Desolation",
+						"x": 386,
+						"y": 129
 					}
 				]
 			}

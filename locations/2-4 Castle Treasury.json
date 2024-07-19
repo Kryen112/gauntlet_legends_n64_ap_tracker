@@ -13,6 +13,13 @@
 					{
 						"name": "Lightning Potion 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 409,
+						"y": 285
+					}
 				]
 			},
 			{
@@ -22,6 +29,13 @@
 				"sections": [
 					{
 						"name": "Key 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 275,
+						"y": 176
 					}
 				]
 			},
@@ -33,6 +47,13 @@
 					{
 						"name": "Key 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 422,
+						"y": 58
+					}
 				]
 			},
 			{
@@ -42,6 +63,13 @@
 				"sections": [
 					{
 						"name": "Key 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 205,
+						"y": 382
 					}
 				]
 			},
@@ -53,6 +81,13 @@
 					{
 						"name": "Key 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 237,
+						"y": 382
+					}
 				]
 			},
 			{
@@ -62,6 +97,13 @@
 				"sections": [
 					{
 						"name": "Key 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 344,
+						"y": 286
 					}
 				]
 			},
@@ -74,6 +116,13 @@
 					{
 						"name": "Key 6 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 491,
+						"y": 131
+					}
 				]
 			},
 			{
@@ -84,6 +133,13 @@
 					{
 						"name": "Key 7"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 296,
+						"y": 36
+					}
 				]
 			},
 			{
@@ -93,6 +149,13 @@
 				"sections": [
 					{
 						"name": "Key 8"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 191,
+						"y": 125
 					}
 				]
 			},
@@ -105,6 +168,13 @@
 					{
 						"name": "Half Barrel of Gold 1 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 722,
+						"y": 38
+					}
 				]
 			},
 			{
@@ -115,6 +185,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 895,
+						"y": 181
 					}
 				]
 			},
@@ -127,6 +204,13 @@
 					{
 						"name": "Small Pile of Gold 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 835,
+						"y": 359
+					}
 				]
 			},
 			{
@@ -137,6 +221,13 @@
 				"sections": [
 					{
 						"name": "Full Barrel of Gold 1 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 765,
+						"y": 200
 					}
 				]
 			},
@@ -149,6 +240,13 @@
 					{
 						"name": "Large Pile of Gold 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 628,
+						"y": 121
+					}
 				]
 			},
 			{
@@ -160,6 +258,13 @@
 					{
 						"name": "Small Pile of Gold 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 687,
+						"y": 274
+					}
 				]
 			},
 			{
@@ -169,6 +274,13 @@
 				"sections": [
 					{
 						"name": "Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 578,
+						"y": 105
 					}
 				]
 			},
@@ -181,6 +293,13 @@
 					{
 						"name": "Meat Slab 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 376,
+						"y": 35
+					}
 				]
 			},
 			{
@@ -190,6 +309,13 @@
 				"sections": [
 					{
 						"name": "Poison Fruit 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 205,
+						"y": 171
 					}
 				]
 			},
@@ -202,6 +328,13 @@
 					{
 						"name": "Lightning Potion 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 537,
+						"y": 195
+					}
 				]
 			},
 			{
@@ -211,6 +344,13 @@
 				"sections": [
 					{
 						"name": "Key 9"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 27,
+						"y": 311
 					}
 				]
 			},
@@ -223,6 +363,13 @@
 					{
 						"name": "Lightning Potion 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 73,
+						"y": 203
+					}
 				]
 			},
 			{
@@ -233,6 +380,13 @@
 					{
 						"name": "Bananas"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 216,
+						"y": 315
+					}
 				]
 			},
 			{
@@ -242,6 +396,13 @@
 				"sections": [
 					{
 						"name": "Drumstick 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 301,
+						"y": 285
 					}
 				]
 			},
@@ -254,6 +415,13 @@
 					{
 						"name": "Lightning Potion 4 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 346,
+						"y": 415
+					}
 				]
 			},
 			{
@@ -263,6 +431,13 @@
 				"sections": [
 					{
 						"name": "Lightning Potion 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 164,
+						"y": 382
 					}
 				]
 			},
@@ -275,6 +450,13 @@
 					{
 						"name": "Pineapple (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 271,
+						"y": 213
+					}
 				]
 			},
 			{
@@ -285,6 +467,13 @@
 				"sections": [
 					{
 						"name": "Key 10 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 422,
+						"y": 414
 					}
 				]
 			},
@@ -297,6 +486,13 @@
 					{
 						"name": "Poison Fruit 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 834,
+						"y": 219
+					}
 				]
 			},
 			{
@@ -307,6 +503,13 @@
 				"sections": [
 					{
 						"name": "Death 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 689,
+						"y": 222
 					}
 				]
 			},
@@ -319,6 +522,13 @@
 					{
 						"name": "Invulnerability 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 360,
+						"y": 382
+					}
 				]
 			},
 			{
@@ -330,6 +540,13 @@
 					{
 						"name": "Large Pile of Gold 2 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 816,
+						"y": 121
+					}
 				]
 			},
 			{
@@ -339,6 +556,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 691,
+						"y": 405
 					}
 				]
 			},
@@ -351,6 +575,13 @@
 					{
 						"name": "Half Barrel of Gold 2 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 740,
+						"y": 403
+					}
 				]
 			},
 			{
@@ -361,6 +592,13 @@
 				"sections": [
 					{
 						"name": "Very Small Pile of Gold 3 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 698,
+						"y": 54
 					}
 				]
 			},
@@ -373,6 +611,13 @@
 					{
 						"name": "Small Pile of Gold 3 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 895,
+						"y": 294
+					}
 				]
 			},
 			{
@@ -384,6 +629,13 @@
 					{
 						"name": "Large Pile of Gold 3 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 816,
+						"y": 323
+					}
 				]
 			},
 			{
@@ -393,6 +645,13 @@
 				"sections": [
 					{
 						"name": "Small Pile of Gold 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 628,
+						"y": 323
 					}
 				]
 			},
@@ -405,6 +664,13 @@
 					{
 						"name": "Speed Boots 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 422,
+						"y": 398
+					}
 				]
 			},
 			{
@@ -415,6 +681,13 @@
 				"sections": [
 					{
 						"name": "Fruit 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 385,
+						"y": 159
 					}
 				]
 			},
@@ -427,6 +700,13 @@
 					{
 						"name": "Key 11 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 888,
+						"y": 204
+					}
 				]
 			},
 			{
@@ -437,6 +717,13 @@
 				"sections": [
 					{
 						"name": "Key 12 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 888,
+						"y": 232
 					}
 				]
 			},
@@ -449,6 +736,13 @@
 					{
 						"name": "Key 13 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 21,
+						"y": 71
+					}
 				]
 			},
 			{
@@ -460,6 +754,13 @@
 					{
 						"name": "Death 2 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 239,
+						"y": 222
+					}
 				]
 			},
 			{
@@ -469,6 +770,13 @@
 				"sections": [
 					{
 						"name": "Ice Axe of Untar"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 723,
+						"y": 223
 					}
 				]
 			},
@@ -481,6 +789,13 @@
 					{
 						"name": "Key 14 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 548,
+						"y": 266
+					}
 				]
 			},
 			{
@@ -491,6 +806,13 @@
 				"sections": [
 					{
 						"name": "Barrel Scroll 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 445,
+						"y": 71
 					}
 				]
 			},
@@ -503,6 +825,13 @@
 					{
 						"name": "Barrel Scroll 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 272,
+						"y": 384
+					}
 				]
 			},
 			{
@@ -513,6 +842,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 458,
+						"y": 391
 					}
 				]
 			},
@@ -525,6 +861,13 @@
 					{
 						"name": "Barrel Key 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 233,
+						"y": 205
+					}
 				]
 			},
 			{
@@ -535,6 +878,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 1121,
+						"y": 258
 					}
 				]
 			},
@@ -547,6 +897,13 @@
 					{
 						"name": "Barrel Key 4"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 308,
+						"y": 49
+					}
 				]
 			},
 			{
@@ -557,6 +914,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 5 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 164,
+						"y": 176
 					}
 				]
 			},
@@ -569,6 +933,13 @@
 					{
 						"name": "Chest Gold 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 895,
+						"y": 140
+					}
 				]
 			},
 			{
@@ -579,6 +950,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 6 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 201,
+						"y": 206
 					}
 				]
 			},
@@ -591,6 +969,13 @@
 					{
 						"name": "Barrel Poison Fruit 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 407,
+						"y": 124
+					}
 				]
 			},
 			{
@@ -601,6 +986,13 @@
 				"sections": [
 					{
 						"name": "Barrel Key 7 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 354,
+						"y": 91
 					}
 				]
 			},
@@ -613,6 +1005,13 @@
 					{
 						"name": "Chest Gold 2"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 742,
+						"y": 48
+					}
 				]
 			},
 			{
@@ -623,6 +1022,13 @@
 				"sections": [
 					{
 						"name": "Chest Gold 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 76,
+						"y": 247
 					}
 				]
 			},
@@ -635,6 +1041,13 @@
 					{
 						"name": "Chest Potion 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 23,
+						"y": 106
+					}
 				]
 			},
 			{
@@ -645,6 +1058,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 2 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 85,
+						"y": 81
 					}
 				]
 			},
@@ -657,6 +1077,13 @@
 					{
 						"name": "Chest Lightning Amulet 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 58,
+						"y": 83
+					}
 				]
 			},
 			{
@@ -667,6 +1094,13 @@
 				"sections": [
 					{
 						"name": "Chest 3-Way Shot 1 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 178,
+						"y": 125
 					}
 				]
 			},
@@ -679,6 +1113,13 @@
 					{
 						"name": "Chest Potion 3"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 187,
+						"y": 92
+					}
 				]
 			},
 			{
@@ -689,6 +1130,13 @@
 				"sections": [
 					{
 						"name": "Dark Chest Random 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 169,
+						"y": 58
 					}
 				]
 			},
@@ -701,6 +1149,13 @@
 					{
 						"name": "Chest Gold 4 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 195,
+						"y": 45
+					}
 				]
 			},
 			{
@@ -711,6 +1166,13 @@
 				"sections": [
 					{
 						"name": "Chest Potion 4 (Dif. 2)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 239,
+						"y": 168
 					}
 				]
 			},
@@ -723,6 +1185,13 @@
 					{
 						"name": "Chest Scroll 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 513,
+						"y": 331
+					}
 				]
 			},
 			{
@@ -733,6 +1202,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 1 (Dif. 3)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 508,
+						"y": 379
 					}
 				]
 			},
@@ -745,6 +1221,13 @@
 					{
 						"name": "Chest Fruit 1 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 835,
+						"y": 88
+					}
 				]
 			},
 			{
@@ -755,6 +1238,13 @@
 				"sections": [
 					{
 						"name": "Chest Meat 2 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 719,
+						"y": 416
 					}
 				]
 			},
@@ -767,6 +1257,13 @@
 					{
 						"name": "Chest Thunder Hammer 1 (Dif. 4)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 359,
+						"y": 48
+					}
 				]
 			},
 			{
@@ -777,6 +1274,13 @@
 				"sections": [
 					{
 						"name": "Barrel Timestop 1 (Dif. 4)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 90,
+						"y": 312
 					}
 				]
 			},
@@ -789,16 +1293,30 @@
 					{
 						"name": "Barrel Levitate 1 (Dif. 3)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 547,
+						"y": 303
+					}
 				]
 			},
 			{
-				"name": "Barrel Electric Shield 1",
+				"name": "Barrel Lightning Shield 1",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Barrel Electric Shield 1"
+						"name": "Barrel Lightning Shield 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 271,
+						"y": 349
 					}
 				]
 			},
@@ -811,6 +1329,13 @@
 					{
 						"name": "Barrel Death 1"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 460,
+						"y": 187
+					}
 				]
 			},
 			{
@@ -821,6 +1346,13 @@
 				"sections": [
 					{
 						"name": "Chest Fire Shield 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 541,
+						"y": 138
 					}
 				]
 			},
@@ -833,6 +1365,13 @@
 					{
 						"name": "Barrel Levitate 2 (Dif. 2)"
 					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 343,
+						"y": 315
+					}
 				]
 			},
 			{
@@ -843,6 +1382,13 @@
 				"sections": [
 					{
 						"name": "Chest Random 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Castle Treasury",
+						"x": 895,
+						"y": 261
 					}
 				]
 			}
