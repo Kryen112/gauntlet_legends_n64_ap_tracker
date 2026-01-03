@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "2.0.0",
+			"download_url": "https://github.com/Kryen112/gauntlet_legends_n64_ap_tracker/archive/refs/tags/2.0.0.zip",
+			"sha256": "A59995C4A52DBAAE54F7C64BA0741181D38F8D3AC703776CC2505242D181095B",
+			"changelog": [ "Update for the new Gauntlet Legends AP version 2.0.x" ]
+		},
+		{
 			"package_version": "1.0.0",
 			"download_url": "https://github.com/Kryen112/gauntlet_legends_n64_ap_tracker/archive/refs/tags/1.0.0.zip",
 			"sha256": "38D5CD5BEB24EFF1CE2036CFB4AC3BC51E1476AD5CD1CAB3D1764B35767FC51B",
