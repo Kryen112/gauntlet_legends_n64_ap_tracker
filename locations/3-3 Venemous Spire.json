@@ -3,7 +3,7 @@
 		"name": "Venemous Spire",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
-		"access_rules": [ "$castleObelisksCollected" ],
+		"access_rules": [ "$castleObelisksCollected, $hasVenemousSpirePortal" ],
 		"children": [
 			{
 				"name": "Acid Potion 1",

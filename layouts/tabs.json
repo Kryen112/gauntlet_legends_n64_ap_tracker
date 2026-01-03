@@ -191,8 +191,23 @@
 			{
 				"title": "Desecrated Temple",
 				"content": {
-					"type": "map",
-					"maps": [ "Desecrated Temple" ]
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Desecrated Temple",
+							"content": {
+								"type": "map",
+								"maps": [ "Desecrated Temple" ]
+							}
+						},
+						{
+							"title": "Altar of Skorne",
+							"content": {
+								"type": "map",
+								"maps": [ "Altar of Skorne" ]
+							}
+						}
+					]
 				}
 			},
 			{
@@ -208,10 +223,10 @@
 							}
 						},
 						{
-							"title": "Battle Towers",
+							"title": "Fortified Towers",
 							"content": {
 								"type": "map",
-								"maps": [ "Battle Towers" ]
+								"maps": [ "Fortified Towers" ]
 							}
 						},
 						{

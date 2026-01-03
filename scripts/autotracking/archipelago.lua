@@ -32,11 +32,23 @@ function onClear(slot_data)
     end
     SLOT_DATA = slot_data
     CUR_INDEX = -1
-    
+
     -- Reset settings
     for key, value in pairs(slot_data) do
-        if SLOT_CODES[key] then
-            Tracker:FindObjectForCode(SLOT_CODES[key].code).CurrentStage = SLOT_CODES[key].mapping[value]
+        local def = SLOT_CODES[key]
+        if def then
+            local mapped = def.mapping[value]
+
+            if mapped ~= nil then
+                local obj = Tracker:FindObjectForCode(def.code)
+                if obj then
+                    obj.CurrentStage = mapped
+                else
+                    print("Warning: No tracker object for code:", def.code)
+                end
+            else
+                print("Warning: No mapping for slot", key, "value", tostring(value))
+            end
         end
     end
 
@@ -58,7 +70,7 @@ function onClear(slot_data)
             end
         end
     end
-    
+
     -- Reset items
     for _, v in pairs(ITEM_MAPPING) do
         if v[1] and v[2] then

@@ -3,7 +3,7 @@
 		"name": "Vat of the Plague Fiend",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
-		"access_rules": [ "$castleObelisksCollected" ],
+		"access_rules": [ "$castleObelisksCollected, $hasVatOfThePlagueFiendPortal" ],
 		"children": [
 			{
 				"name": "Plague Fiend Mirror Shard",

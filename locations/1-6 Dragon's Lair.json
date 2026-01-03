@@ -3,6 +3,7 @@
 		"name": "Dragon's Lair",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
+		"access_rules": [ "$hasDragonsLairPortal" ],
 		"children": [
 			{
 				"name": "Slab of Meat (Dif. 2)",

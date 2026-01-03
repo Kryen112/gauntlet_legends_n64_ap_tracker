@@ -13,9 +13,12 @@
 					[ "Valley of Fire Obelisk", "Dagger Peak Obelisk", "Cliffs of Desolation Obelisk", "Castle Courtyard Obelisk", "Dungeon of Torment Obelisk", "Poisoned Fields Obelisk", "Haunted Cemetery Obelisk" ],
 					[ "Ice Axe of Untar", "Scimitar of Decapitation", "Marker's Javelin", "Flame of Tarkana", "Soul Savior" ],
 					[ "Dragon Mirror Shard", "Chimera Mirror Shard", "Plague Fiend Mirror Shard", "Yeti Mirror Shard" ],
+					[ "Portal to Dagger Peak", "Portal to Cliffs of Desolation", "Portal to Lost Cave", "Portal to Volcanic Caverns", "Portal to Dragon's Lair" ],
+					[ "Portal to Dungeon of Torment", "Portal to Tower Armory", "Portal to Castle Treasury", "Portal to Chimera's Keep", "", "Portal to Haunted Cemetery", "Portal to Venomous Spire", "Portal to Toxic Air Ship", "Portal to Vat of the Plague Fiend" ],
+					[ "Portal to Frozen Camp", "Portal to Crystal Mine", "Portal to Erupting Fissure", "Portal to Yeti's Cavern", "", "Portal to Fortified Towers", "Portal to Infernal Fortress" ],
 					[ "Runestone 1", "Runestone 2", "Runestone 3", "Runestone 4", "Runestone 5", "Runestone 6" ],
 					[ "Runestone 7", "Runestone 8", "Runestone 9", "Runestone 10", "Runestone 11", "Runestone 12", "Runestone 13" ],
-					[ "obelisk_shuffle", "mirror_shard_shuffle", "chests_barrels", "infinite_keys", "infinite_speed_boots", "max_stage_difficulty", "instant_max" ]
+					[ "obelisk_shuffle", "mirror_shard_shuffle", "portal_shuffle", "chest_shuffle", "barrel_shuffle", "infinite_keys", "infinite_speed_boots", "max_stage_difficulty", "instant_max" ]
 				]
 			}
 		]

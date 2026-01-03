@@ -3,7 +3,7 @@
 		"name": "Yeti's Cavern",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
-		"access_rules": [ "$townObelisksCollected" ],
+		"access_rules": [ "$townObelisksCollected, $hasYetisCavernPortal" ],
 		"children": [
 			{
 				"name": "Yeti Mirror Shard",

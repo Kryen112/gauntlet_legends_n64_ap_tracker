@@ -2,10 +2,86 @@ function has(item)
     return Tracker:ProviderCountForCode(item) > 0
 end
 
+function hasDaggerPeakPortal()
+    return has("portal_shuffle_off") or has("Portal to Dagger Peak")
+end
+
+function hasCliffsOfDesolationPortal()
+    return has("portal_shuffle_off") or has("Portal to Cliffs of Desolation")
+end
+
+function hasLostCavePortal()
+    return has("portal_shuffle_off") or has("Portal to Lost Cave")
+end
+
+function hasVolcanicCavernsPortal()
+    return has("portal_shuffle_off") or has("Portal to Volcanic Caverns")
+end
+
+function hasDragonsLairPortal()
+    return has("portal_shuffle_off") or has("Portal to Dragon's Lair")
+end
+
+function hasDungeonOfTormentPortal()
+    return has("portal_shuffle_off") or has("Portal to Dungeon of Torment")
+end
+
+function hasTowerArmoryPortal()
+    return has("portal_shuffle_off") or has("Portal to Tower Armory")
+end
+
+function hasCastleTreasuryPortal()
+    return has("portal_shuffle_off") or has("Portal to Castle Treasury")
+end
+
+function hasChimerasKeepPortal()
+    return has("portal_shuffle_off") or has("Portal to Chimera's Keep")
+end
+
+function hasHauntedCemeteryPortal()
+    return has("portal_shuffle_off") or has("Portal to Haunted Cemetery")
+end
+
+function hasVenemousSpirePortal()
+    return has("portal_shuffle_off") or has("Portal to Venomous Spire")
+end
+
+function hasToxicAirShipPortal()
+    return has("portal_shuffle_off") or has("Portal to Toxic Air Ship")
+end
+
+function hasVatOfThePlagueFiendPortal()
+    return has("portal_shuffle_off") or has("Portal to Vat of the Plague Fiend")
+end
+
+function hasFrozenCampPortal()
+    return has("portal_shuffle_off") or has("Portal to Frozen Camp")
+end
+
+function hasCrystalMinePortal()
+    return has("portal_shuffle_off") or has("Portal to Crystal Mine")
+end
+
+function hasEruptingFissurePortal()
+    return has("portal_shuffle_off") or has("Portal to Erupting Fissure")
+end
+
+function hasYetisCavernPortal()
+    return has("portal_shuffle_off") or has("Portal to Yeti's Cavern")
+end
+
+function hasFortifiedTowersPortal()
+    return has("portal_shuffle_off") or has("Portal to Fortified Towers")
+end
+
+function hasInfernalFortressPortal()
+    return has("portal_shuffle_off") or has("Portal to Infernal Fortress")
+end
+
 function mountainObelisksCollected()
     return (
-        has("Valley of Fire Obelisk") and 
-        has("Dagger Peak Obelisk")   and 
+        has("Valley of Fire Obelisk") and
+        has("Dagger Peak Obelisk")    and
         has("Cliffs of Desolation Obelisk")
     )
 end
@@ -26,8 +102,8 @@ end
 
 function mirrorShardsCollected()
     return (
-        has("Dragon Mirror Shard")      and
-        has("Chimera Mirror Shard")     and
+        has("Dragon Mirror Shard")       and
+        has("Chimera Mirror Shard")      and
         has("Plague Fiend Mirror Shard") and
         has("Yeti Mirror Shard")
     )
@@ -52,17 +128,11 @@ function runestonesCollected()
 end
 
 function barrelShuffle()
-    return (
-        has("shuffle_barrels") or
-        has("shuffle_chests_barrels")
-    )
+    return has("barrel_shuffle_on")
 end
 
 function chestShuffle()
-    return (
-        has("shuffle_chests") or
-        has("shuffle_chests_barrels")
-    )
+    return has("chest_shuffle_on")
 end
 
 function difficulty2Enabled()

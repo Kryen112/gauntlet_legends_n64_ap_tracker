@@ -180,12 +180,12 @@
 				]
 			},
 			{
-				"name": "Levitate",
+				"name": "Anti-Death Halo",
 				"chest_unopened_img": "/images/items/item.png",
 				"chest_opened_img": "/images/items/item_obtained.png",
 				"sections": [
 					{
-						"name": "Levitate"
+						"name": "Anti-Death Halo"
 					}
 				],
 				"map_locations": [

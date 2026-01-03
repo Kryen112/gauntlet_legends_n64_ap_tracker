@@ -3,7 +3,7 @@
 		"name": "Chimera's Keep",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
-		"access_rules": [ "$mountainObelisksCollected" ],
+		"access_rules": [ "$mountainObelisksCollected, $hasChimerasKeepPortal" ],
 		"children": [
 			{
 				"name": "Speed Boots",

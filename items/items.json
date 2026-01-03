@@ -175,6 +175,120 @@
 		"codes": "Soul Savior"
 	},
 	{
+		"name": "Portal to Dagger Peak",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Dagger Peak"
+	},
+	{
+		"name": "Portal to Cliffs of Desolation",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Cliffs of Desolation"
+	},
+	{
+		"name": "Portal to Lost Cave",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Lost Cave"
+	},
+	{
+		"name": "Portal to Volcanic Caverns",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Volcanic Caverns"
+	},
+	{
+		"name": "Portal to Dragon's Lair",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Dragon's Lair"
+	},
+	{
+		"name": "Portal to Dungeon of Torment",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Dungeon of Torment"
+	},
+	{
+		"name": "Portal to Tower Armory",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Tower Armory"
+	},
+	{
+		"name": "Portal to Castle Treasury",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Castle Treasury"
+	},
+	{
+		"name": "Portal to Chimera's Keep",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Chimera's Keep"
+	},
+	{
+		"name": "Portal to Haunted Cemetery",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Haunted Cemetery"
+	},
+	{
+		"name": "Portal to Venomous Spire",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Venomous Spire"
+	},
+	{
+		"name": "Portal to Toxic Air Ship",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Toxic Air Ship"
+	},
+	{
+		"name": "Portal to Vat of the Plague Fiend",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Vat of the Plague Fiend"
+	},
+	{
+		"name": "Portal to Frozen Camp",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Frozen Camp"
+	},
+	{
+		"name": "Portal to Crystal Mine",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Crystal Mine"
+	},
+	{
+		"name": "Portal to Erupting Fissure",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Erupting Fissure"
+	},
+	{
+		"name": "Portal to Yeti's Cavern",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Yeti's Cavern"
+	},
+	{
+		"name": "Portal to Fortified Towers",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Fortified Towers"
+	},
+	{
+		"name": "Portal to Infernal Fortress",
+		"type": "toggle",
+		"img": "/images/items/portal.png",
+		"codes": "Portal to Infernal Fortress"
+	},
+	{
 		"name": "Infinite keys",
 		"type": "progressive",
 		"loop": false,
@@ -216,33 +330,41 @@
 		]
 	},
 	{
-		"name": "Shuffle chests and barrels",
+		"name": "Shuffle barrels",
 		"type": "progressive",
 		"loop": false,
 		"allow_disabled": false,
 		"stages": [
 			{
-				"img": "images/items/chest_and_barrel_shuffle_off.png",
-				"name": "Vanilla chests and barrels",
-				"codes": "chests_barrels,no_chests_barrels",
+				"img": "images/items/barrel_shuffle_off.png",
+				"name": "Vanilla barrels",
+				"codes": "barrel_shuffle,barrel_shuffle_off",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/items/chest_and_barrel_shuffle_chests_only.png",
-				"name": "Randomized chests",
-				"codes": "chests_barrels,shuffle_chests",
-				"inherit_codes": false
-			},
-			{
-				"img": "images/items/chest_and_barrel_shuffle_barrels_only.png",
+				"img": "images/items/barrel_shuffle_on.png",
 				"name": "Randomized barrels",
-				"codes": "chests_barrels,shuffle_barrels",
+				"codes": "barrel_shuffle,barrel_shuffle_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Shuffle chests",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/items/chest_shuffle_off.png",
+				"name": "Vanilla chests and barrels",
+				"codes": "chest_shuffle,chest_shuffle_off",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/items/chest_and_barrel_shuffle_on.png",
-				"name": "Randomized chests and barrels",
-				"codes": "chests_barrels,shuffle_chests_barrels",
+				"img": "images/items/chest_shuffle_on.png",
+				"name": "Randomized chests",
+				"codes": "chest_shuffle,chest_shuffle_on",
 				"inherit_codes": false
 			}
 		]
@@ -283,6 +405,26 @@
 				"img": "images/items/mirror_shard_shuffle_on.png",
 				"name": "Mirror Shards shuffle on",
 				"codes": "mirror_shard_shuffle,mirror_shard_shuffle_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Shuffle Portals",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/items/portal_shuffle_off.png",
+				"name": "Portal shuffle off",
+				"codes": "portal_shuffle,portal_shuffle_off",
+				"inherit_codes": false
+			},
+			{
+				"img": "images/items/portal_shuffle_on.png",
+				"name": "Portal shuffle on",
+				"codes": "portal_shuffle,portal_shuffle_on",
 				"inherit_codes": false
 			}
 		]

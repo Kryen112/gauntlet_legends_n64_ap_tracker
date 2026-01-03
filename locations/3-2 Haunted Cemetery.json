@@ -3,7 +3,7 @@
 		"name": "Haunted Cemetery",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
-		"access_rules": [ "$castleObelisksCollected" ],
+		"access_rules": [ "$castleObelisksCollected, $hasHauntedCemeteryPortal" ],
 		"children": [
 			{
 				"name": "Acid Potion 1",
@@ -341,7 +341,6 @@
 				"name": "Obelisk",
 				"chest_unopened_img": "/images/items/item.png",
 				"chest_opened_img": "/images/items/item_obtained.png",
-				"visibility_rules": [ "obelisk_shuffle_on" ],
 				"sections": [
 					{
 						"name": "Obelisk"

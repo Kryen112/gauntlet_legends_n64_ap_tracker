@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Altar of Skorne",
+		"chest_unopened_img": "/images/Items/close.png",
+		"chest_opened_img": "/images/Items/open.png",
+		"access_rules": [ "$mirrorShardsCollected" ],
+		"children": [
+			{
+				"name": "Skorne's Mask",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Skorne's Mask"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Altar of Skorne",
+						"x": 106,
+						"y": 117
+					}
+				]
+			},
+			{
+				"name": "Skorne's Horns",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Skorne's Horns"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Altar of Skorne",
+						"x": 146,
+						"y": 143
+					}
+				]
+			},
+			{
+				"name": "Skorne's Left Gauntlet",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Skorne's Left Gauntlet"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Altar of Skorne",
+						"x": 200,
+						"y": 143
+					}
+				]
+			},
+			{
+				"name": "Skorne's Right Gauntlet",
+				"chest_unopened_img": "/images/items/item.png",
+				"chest_opened_img": "/images/items/item_obtained.png",
+				"sections": [
+					{
+						"name": "Skorne's Right Gauntlet"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Altar of Skorne",
+						"x": 234,
+						"y": 117
+					}
+				]
+			}
+		]
+	}
+]

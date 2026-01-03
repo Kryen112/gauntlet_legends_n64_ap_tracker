@@ -9,11 +9,16 @@
             [ "Poisoned Fields Obelisk", "Haunted Cemetery Obelisk", "", "Plague Fiend Mirror Shard", "Marker's Javelin" ],
             [ "", "", "", "Yeti Mirror Shard", "Flame of Tarkana" ],
             [ "", "", "", "", "Soul Savior" ],
+            [ "Portal to Dagger Peak", "Portal to Cliffs of Desolation", "Portal to Lost Cave", "Portal to Volcanic Caverns", "Portal to Dragon's Lair" ],
+            [ "Portal to Dungeon of Torment", "Portal to Tower Armory", "Portal to Castle Treasury", "Portal to Chimera's Keep", "" ],
+            [ "Portal to Haunted Cemetery", "Portal to Venomous Spire", "Portal to Toxic Air Ship", "Portal to Vat of the Plague Fiend", "" ],
+            [ "Portal to Frozen Camp", "Portal to Crystal Mine", "Portal to Erupting Fissure", "Portal to Yeti's Cavern", "" ],
+            [ "Portal to Fortified Towers", "Portal to Infernal Fortress", "", "", "" ],
             [ "Runestone 1", "Runestone 2", "Runestone 3", "obelisk_shuffle", "mirror_shard_shuffle" ],
-            [ "Runestone 4", "Runestone 5", "Runestone 6", "chests_barrels", "" ],
-            [ "Runestone 7", "Runestone 8", "Runestone 9", "infinite_keys", "infinite_speed_boots" ],
-            [ "Runestone 10", "Runestone 11", "Runestone 12", "max_stage_difficulty", "instant_max" ],
-            [ "", "Runestone 13", "", "", "" ]
+            [ "Runestone 4", "Runestone 5", "Runestone 6", "portal_shuffle", "" ],
+            [ "Runestone 7", "Runestone 8", "Runestone 9", "chest_shuffle", "barrel_shuffle" ],
+            [ "Runestone 10", "Runestone 11", "Runestone 12", "infinite_keys", "infinite_speed_boots" ],
+            [ "", "Runestone 13", "", "max_stage_difficulty", "instant_max" ]
         ]
 	}
 }

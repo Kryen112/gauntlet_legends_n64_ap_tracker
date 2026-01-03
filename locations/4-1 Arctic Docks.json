@@ -52,8 +52,8 @@
 				"map_locations": [
 					{
 						"map": "Arctic Docks",
-						"x": 762,
-						"y": 1020
+						"x": 773,
+						"y": 1068
 					}
 				]
 			},
@@ -110,12 +110,12 @@
 				]
 			},
 			{
-				"name": "Drumstick",
+				"name": "Meat",
 				"chest_unopened_img": "/images/items/item.png",
 				"chest_opened_img": "/images/items/item_obtained.png",
 				"sections": [
 					{
-						"name": "Drumstick"
+						"name": "Meat"
 					}
 				],
 				"map_locations": [
@@ -611,8 +611,8 @@
 				"map_locations": [
 					{
 						"map": "Arctic Docks",
-						"x": 758,
-						"y": 1029
+						"x": 728,
+						"y": 1126
 					}
 				]
 			},

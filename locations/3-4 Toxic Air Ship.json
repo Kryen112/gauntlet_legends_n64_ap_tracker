@@ -3,7 +3,7 @@
 		"name": "Toxic Air Ship",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
-		"access_rules": [ "$castleObelisksCollected" ],
+		"access_rules": [ "$castleObelisksCollected, $hasToxicAirShipPortal" ],
 		"children": [
 			{
 				"name": "Acid Breath",

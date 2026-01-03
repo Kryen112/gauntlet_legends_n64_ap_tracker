@@ -3,6 +3,7 @@
 		"name": "Volcanic Cavern",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
+		"access_rules": [ "$hasVolcanicCavernsPortal" ],
 		"children": [
 			{
 				"name": "Key 1",
@@ -247,13 +248,13 @@
 				]
 			},
 			{
-				"name": "Half Barrel of Gold 1 1 (Dif. 3)",
+				"name": "Half Barrel of Gold 1 (Dif. 3)",
 				"chest_unopened_img": "/images/items/item.png",
 				"chest_opened_img": "/images/items/item_obtained.png",
 				"visibility_rules": [ "$difficulty3Enabled" ],
 				"sections": [
 					{
-						"name": "Half Barrel of Gold 1 1 (Dif. 3)"
+						"name": "Half Barrel of Gold 1 (Dif. 3)"
 					}
 				],
 				"map_locations": [
@@ -389,13 +390,13 @@
 				]
 			},
 			{
-				"name": "Full Barrel of Gold 2 1 (Dif. 4)",
+				"name": "Full Barrel of Gold 2 (Dif. 4)",
 				"chest_unopened_img": "/images/items/item.png",
 				"chest_opened_img": "/images/items/item_obtained.png",
 				"visibility_rules": [ "$difficulty4Enabled" ],
 				"sections": [
 					{
-						"name": "Full Barrel of Gold 2 1 (Dif. 4)"
+						"name": "Full Barrel of Gold 2 (Dif. 4)"
 					}
 				],
 				"map_locations": [

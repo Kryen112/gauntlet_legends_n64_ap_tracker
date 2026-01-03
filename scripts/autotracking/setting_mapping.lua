@@ -1,40 +1,66 @@
 SLOT_CODES =
 {
-    obelisks_enabled = {
+    obelisks = {
         code = "obelisk_shuffle",
         mapping = {
-            [0] = 0, -- Off
-            [1] = 1  -- On
+            [0] = 0,
+            [1] = 1,
+            [true] = 1,
+            [false] = 0
         }
     },
-    shards_enabled = {
+    mirror_shards = {
         code = "mirror_shard_shuffle",
         mapping = {
-            [0] = 0, -- Off
-            [1] = 1  -- On
+            [0] = 0,
+            [1] = 1,
+            [true] = 1,
+            [false] = 0
         }
     },
-    chests_barrels = {
-        code = "chests_barrels",
+    portals = {
+        code = "portal_shuffle",
         mapping = {
-            [0] = 0, -- No chest or barrel shuffle
-            [1] = 1, -- Shuffle only chests
-            [2] = 2, -- Shuffle only barrels
-            [3] = 3  -- Shuffle both chests and barrels
+            [0] = 0,
+            [1] = 1,
+            [true] = 1,
+            [false] = 0
+        }
+    },
+    chests = {
+        code = "chest_shuffle",
+        mapping = {
+            [0] = 0,
+            [1] = 1,
+            [true] = 1,
+            [false] = 0
+        }
+    },
+    barrels = {
+        code = "barrel_shuffle",
+        mapping = {
+            [0] = 0,
+            [1] = 1,
+            [true] = 1,
+            [false] = 0
         }
     },
     keys = {
         code = "infinite_keys",
         mapping = {
-            [0] = 0, -- Off
-            [1] = 1  -- On
+            [0] = 0,
+            [1] = 1,
+            [true] = 1,
+            [false] = 0
         }
     },
     speed = {
         code = "infinite_speed_boots",
         mapping = {
-            [0] = 0, -- Off
-            [1] = 1  -- On
+            [0] = 0,
+            [1] = 1,
+            [true] = 1,
+            [false] = 0
         }
     },
     max = {
@@ -49,8 +75,10 @@ SLOT_CODES =
     instant_max = {
         code = "instant_max",
         mapping = {
-            [0] = 0, -- Off
-            [1] = 1  -- On
+            [0] = 0,
+            [1] = 1,
+            [true] = 1,
+            [false] = 0
         }
     }
 }

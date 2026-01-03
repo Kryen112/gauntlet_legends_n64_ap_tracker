@@ -138,13 +138,19 @@
 		"img": "images/maps/desecrated_temple.png"
 	},
 	{
+		"name": "Altar of Skorne",
+		"location_size": 12,
+		"location_border_thickness": 1,
+		"img": "images/maps/vat_of_the_plague_fiend.png"
+	},
+	{
 		"name": "Battle Trenches",
 		"location_size": 12,
 		"location_border_thickness": 1,
 		"img": "images/maps/battle_trenches.png"
 	},
 	{
-		"name": "Battle Towers",
+		"name": "Fortified Towers",
 		"location_size": 12,
 		"location_border_thickness": 1,
 		"img": "images/maps/battle_towers.png"

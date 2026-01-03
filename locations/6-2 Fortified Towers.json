@@ -1,23 +1,23 @@
 [
 	{
-		"name": "Battle Towers",
+		"name": "Fortified Towers",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
-		"access_rules": [ "$mirrorShardsCollected" ],
+		"access_rules": [ "$mirrorShardsCollected, $hasFortifiedTowersPortal" ],
 		"children": [
 			{
-				"name": "Ham (Dif. 3)",
+				"name": "Meat (Dif. 3)",
 				"chest_unopened_img": "/images/items/item.png",
 				"chest_opened_img": "/images/items/item_obtained.png",
 				"visibility_rules": [ "$difficulty3Enabled" ],
 				"sections": [
 					{
-						"name": "Ham (Dif. 3)"
+						"name": "Meat (Dif. 3)"
 					}
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 123,
 						"y": 321
 					}
@@ -34,7 +34,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 520,
 						"y": 598
 					}
@@ -52,7 +52,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 543,
 						"y": 623
 					}
@@ -70,7 +70,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 775,
 						"y": 1178
 					}
@@ -88,7 +88,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 346,
 						"y": 418
 					}
@@ -105,7 +105,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 693,
 						"y": 920
 					}
@@ -122,7 +122,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 846,
 						"y": 780
 					}
@@ -140,25 +140,25 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 855,
 						"y": 1230
 					}
 				]
 			},
 			{
-				"name": "Barrel Unknown 1",
+				"name": "Barrel Scroll 1",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Barrel Unknown 1"
+						"name": "Barrel Scroll 1"
 					}
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 394,
 						"y": 999
 					}
@@ -176,7 +176,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 623,
 						"y": 385
 					}
@@ -194,7 +194,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 649,
 						"y": 1019
 					}
@@ -212,7 +212,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 160,
 						"y": 348
 					}
@@ -230,7 +230,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 478,
 						"y": 132
 					}
@@ -248,7 +248,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 488,
 						"y": 139
 					}
@@ -266,7 +266,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 429,
 						"y": 219
 					}
@@ -284,7 +284,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 133,
 						"y": 297
 					}
@@ -302,7 +302,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 618,
 						"y": 218
 					}
@@ -320,25 +320,25 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 101,
 						"y": 396
 					}
 				]
 			},
 			{
-				"name": "Barrel Scroll 1",
+				"name": "Barrel Scroll 2",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Barrel Scroll 1"
+						"name": "Barrel Scroll 2"
 					}
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 453,
 						"y": 65
 					}
@@ -356,25 +356,25 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 923,
 						"y": 1182
 					}
 				]
 			},
 			{
-				"name": "Barrel Scroll 2",
+				"name": "Barrel Scroll 3",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Barrel Scroll 2"
+						"name": "Barrel Scroll 3"
 					}
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 923,
 						"y": 1205
 					}
@@ -392,7 +392,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 900,
 						"y": 1199
 					}
@@ -410,25 +410,25 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 799,
 						"y": 1077
 					}
 				]
 			},
 			{
-				"name": "Barrel Scroll 3",
+				"name": "Barrel Scroll 4",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Barrel Scroll 3"
+						"name": "Barrel Scroll 4"
 					}
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 675,
 						"y": 988
 					}
@@ -446,7 +446,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 757,
 						"y": 983
 					}
@@ -464,7 +464,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 797,
 						"y": 1019
 					}
@@ -482,7 +482,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 282,
 						"y": 52
 					}
@@ -500,7 +500,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 309,
 						"y": 35
 					}
@@ -518,7 +518,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 292,
 						"y": 27
 					}
@@ -536,7 +536,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 303,
 						"y": 55
 					}
@@ -554,7 +554,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 478,
 						"y": 136
 					}
@@ -572,7 +572,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 690,
 						"y": 125
 					}
@@ -590,7 +590,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 638,
 						"y": 135
 					}
@@ -608,7 +608,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 667,
 						"y": 125
 					}
@@ -626,7 +626,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 348,
 						"y": 879
 					}
@@ -644,7 +644,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 383,
 						"y": 812
 					}
@@ -662,7 +662,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 333,
 						"y": 779
 					}
@@ -680,7 +680,7 @@
 				],
 				"map_locations": [
 					{
-						"map":"Battle Towers",
+						"map":"Fortified Towers",
 						"x": 368,
 						"y": 787
 					}
@@ -698,7 +698,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 349,
 						"y": 831
 					}
@@ -716,7 +716,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 348,
 						"y": 895
 					}
@@ -734,7 +734,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 906,
 						"y": 711
 					}
@@ -752,7 +752,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 886,
 						"y": 711
 					}
@@ -770,7 +770,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 800,
 						"y": 668
 					}
@@ -788,7 +788,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 844,
 						"y": 643
 					}
@@ -806,7 +806,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 892,
 						"y": 832
 					}
@@ -824,7 +824,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 892,
 						"y": 856
 					}
@@ -842,7 +842,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 892,
 						"y": 844
 					}
@@ -860,7 +860,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 892,
 						"y": 868
 					}
@@ -878,7 +878,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 590,
 						"y": 524
 					}
@@ -896,7 +896,7 @@
 				],
 				"map_locations": [
 					{
-						"map": "Battle Towers",
+						"map": "Fortified Towers",
 						"x": 513,
 						"y": 780
 					}

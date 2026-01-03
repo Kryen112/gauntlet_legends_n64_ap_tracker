@@ -3,7 +3,7 @@
 		"name": "Crystal Mine",
 		"chest_unopened_img": "/images/Items/close.png",
 		"chest_opened_img": "/images/Items/open.png",
-		"access_rules": [ "$townObelisksCollected" ],
+		"access_rules": [ "$townObelisksCollected, $hasCrystalMinePortal" ],
 		"children": [
 			{
 				"name": "Rapid Fire",
@@ -285,13 +285,13 @@
 				]
 			},
 			{
-				"name": "Barrel Unknown 1 (Dif. 2)",
+				"name": "Barrel Meat 1 (Dif. 2)",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle,$difficulty2Enabled" ],
 				"sections": [
 					{
-						"name": "Barrel Unknown 1 (Dif. 2)"
+						"name": "Barrel Meat 1 (Dif. 2)"
 					}
 				],
 				"map_locations": [
@@ -303,13 +303,13 @@
 				]
 			},
 			{
-				"name": "Barrel Unknown 2",
+				"name": "Barrel Meat 2",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Barrel Unknown 2"
+						"name": "Barrel Meat 2"
 					}
 				],
 				"map_locations": [
@@ -321,13 +321,13 @@
 				]
 			},
 			{
-				"name": "Barrel Unknown 3 (Dif. 3)",
+				"name": "Barrel Meat 3 (Dif. 3)",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle,$difficulty3Enabled" ],
 				"sections": [
 					{
-						"name": "Barrel Unknown 3 (Dif. 3)"
+						"name": "Barrel Meat 3 (Dif. 3)"
 					}
 				],
 				"map_locations": [
@@ -339,13 +339,13 @@
 				]
 			},
 			{
-				"name": "Barrel Unknown 4 (Dif. 2)",
+				"name": "Barrel Meat 4 (Dif. 2)",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle,$difficulty2Enabled" ],
 				"sections": [
 					{
-						"name": "Barrel Unknown 4 (Dif. 2)"
+						"name": "Barrel Meat 4 (Dif. 2)"
 					}
 				],
 				"map_locations": [
@@ -357,13 +357,13 @@
 				]
 			},
 			{
-				"name": "Barrel Unknown 5",
+				"name": "Barrel Meat 5",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Barrel Unknown 5"
+						"name": "Barrel Meat 5"
 					}
 				],
 				"map_locations": [
@@ -375,13 +375,13 @@
 				]
 			},
 			{
-				"name": "Barrel Unknown 6",
+				"name": "Barrel Scroll 1",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Barrel Unknown 6"
+						"name": "Barrel Scroll 1"
 					}
 				],
 				"map_locations": [
@@ -1293,13 +1293,13 @@
 				]
 			},
 			{
-				"name": "Barrel Scroll 1",
+				"name": "Barrel Scroll 2",
 				"chest_unopened_img": "/images/items/barrel.png",
 				"chest_opened_img": "/images/items/barrel_open.png",
 				"visibility_rules": [ "$barrelShuffle" ],
 				"sections": [
 					{
-						"name": "Barrel Scroll 1"
+						"name": "Barrel Scroll 2"
 					}
 				],
 				"map_locations": [
